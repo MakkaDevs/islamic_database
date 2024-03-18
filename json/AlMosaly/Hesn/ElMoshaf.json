@@ -1,0 +1,799 @@
+[ {
+  "_id" : 1,
+  "SooraName" : "الفاتحة",
+  "NoOfAyat" : 7,
+  "SooraNameEn" : "Al-Fatiha",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 2,
+  "SooraName" : "البقرة",
+  "NoOfAyat" : 286,
+  "SooraNameEn" : "Al-Baqara",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 3,
+  "SooraName" : "آل عمران",
+  "NoOfAyat" : 200,
+  "SooraNameEn" : "Aal-E-Imran",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 4,
+  "SooraName" : "النساء",
+  "NoOfAyat" : 176,
+  "SooraNameEn" : "An-Nisa",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 5,
+  "SooraName" : "المائدة",
+  "NoOfAyat" : 120,
+  "SooraNameEn" : "Al-Maeda",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 6,
+  "SooraName" : "الأنعام",
+  "NoOfAyat" : 165,
+  "SooraNameEn" : "Al-Anaam",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 7,
+  "SooraName" : "الأعراف",
+  "NoOfAyat" : 206,
+  "SooraNameEn" : "Al-Araf",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 8,
+  "SooraName" : "الأنفال",
+  "NoOfAyat" : 75,
+  "SooraNameEn" : "Al-Anfal",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 9,
+  "SooraName" : "التوبة",
+  "NoOfAyat" : 129,
+  "SooraNameEn" : "Al-Tawba",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 10,
+  "SooraName" : "يونس",
+  "NoOfAyat" : 109,
+  "SooraNameEn" : "Yunus",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 11,
+  "SooraName" : "هود",
+  "NoOfAyat" : 123,
+  "SooraNameEn" : "Hud",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 12,
+  "SooraName" : "يوسف",
+  "NoOfAyat" : 111,
+  "SooraNameEn" : "Yusuf",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 13,
+  "SooraName" : "الرعد",
+  "NoOfAyat" : 43,
+  "SooraNameEn" : "Ar-Rad",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 14,
+  "SooraName" : "إبراهيم",
+  "NoOfAyat" : 52,
+  "SooraNameEn" : "Ibrahim",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 15,
+  "SooraName" : "الحجر",
+  "NoOfAyat" : 99,
+  "SooraNameEn" : "Al-Hijr",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 16,
+  "SooraName" : "النحل",
+  "NoOfAyat" : 128,
+  "SooraNameEn" : "An-Nahl",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 17,
+  "SooraName" : "الإسراء",
+  "NoOfAyat" : 111,
+  "SooraNameEn" : "Al-Isra",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 18,
+  "SooraName" : "الكهف",
+  "NoOfAyat" : 110,
+  "SooraNameEn" : "Al-Kahf",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 19,
+  "SooraName" : "مريم",
+  "NoOfAyat" : 98,
+  "SooraNameEn" : "Maryam",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 20,
+  "SooraName" : "طه",
+  "NoOfAyat" : 135,
+  "SooraNameEn" : "Ta-Ha",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 21,
+  "SooraName" : "الأنبياء",
+  "NoOfAyat" : 112,
+  "SooraNameEn" : "Al-Anbiya",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 22,
+  "SooraName" : "الحج",
+  "NoOfAyat" : 78,
+  "SooraNameEn" : "Al-Hajj",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 23,
+  "SooraName" : "المؤمنون",
+  "NoOfAyat" : 118,
+  "SooraNameEn" : "Al-Mumenoon",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 24,
+  "SooraName" : "النور",
+  "NoOfAyat" : 64,
+  "SooraNameEn" : "An-Noor",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 25,
+  "SooraName" : "الفرقان",
+  "NoOfAyat" : 77,
+  "SooraNameEn" : "Al-Furqan",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 26,
+  "SooraName" : "الشعراء",
+  "NoOfAyat" : 227,
+  "SooraNameEn" : "Ash-Shu'ara",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 27,
+  "SooraName" : "النمل",
+  "NoOfAyat" : 93,
+  "SooraNameEn" : "An-Naml",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 28,
+  "SooraName" : "القصص",
+  "NoOfAyat" : 88,
+  "SooraNameEn" : "Al-Qasas",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 29,
+  "SooraName" : "العنكبوت",
+  "NoOfAyat" : 69,
+  "SooraNameEn" : "Al-Ankaboot",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 30,
+  "SooraName" : "الروم",
+  "NoOfAyat" : 60,
+  "SooraNameEn" : "Ar-Room",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 31,
+  "SooraName" : "لقمان",
+  "NoOfAyat" : 34,
+  "SooraNameEn" : "Luqman",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 32,
+  "SooraName" : "السجدة",
+  "NoOfAyat" : 30,
+  "SooraNameEn" : "As-Sajda",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 33,
+  "SooraName" : "الأحزاب",
+  "NoOfAyat" : 73,
+  "SooraNameEn" : "Al-Ahzab",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 34,
+  "SooraName" : "سبأ",
+  "NoOfAyat" : 54,
+  "SooraNameEn" : "Saba",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 35,
+  "SooraName" : "فاطر",
+  "NoOfAyat" : 45,
+  "SooraNameEn" : "Fatir",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 36,
+  "SooraName" : "يس",
+  "NoOfAyat" : 83,
+  "SooraNameEn" : "Ya-Seen",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 37,
+  "SooraName" : "الصافات",
+  "NoOfAyat" : 182,
+  "SooraNameEn" : "As-Saaffat",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 38,
+  "SooraName" : "ص",
+  "NoOfAyat" : 88,
+  "SooraNameEn" : "Sad",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 39,
+  "SooraName" : "الزمر",
+  "NoOfAyat" : 75,
+  "SooraNameEn" : "Az-Zumar",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 40,
+  "SooraName" : "غافر",
+  "NoOfAyat" : 85,
+  "SooraNameEn" : "Ghafir",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 41,
+  "SooraName" : "فصلت",
+  "NoOfAyat" : 54,
+  "SooraNameEn" : "Fussilat",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 42,
+  "SooraName" : "الشورى",
+  "NoOfAyat" : 53,
+  "SooraNameEn" : "Ash-Shura",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 43,
+  "SooraName" : "الزخرف",
+  "NoOfAyat" : 89,
+  "SooraNameEn" : "Az-Zukhruf",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 44,
+  "SooraName" : "الدخان",
+  "NoOfAyat" : 59,
+  "SooraNameEn" : "Ad-Dukhan",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 45,
+  "SooraName" : "الجاثية",
+  "NoOfAyat" : 37,
+  "SooraNameEn" : "Al-Jathiya",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 46,
+  "SooraName" : "الأحقاف",
+  "NoOfAyat" : 35,
+  "SooraNameEn" : "Al-Ahqaf",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 47,
+  "SooraName" : "محمد",
+  "NoOfAyat" : 38,
+  "SooraNameEn" : "Muhammad",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 48,
+  "SooraName" : "الفتح",
+  "NoOfAyat" : 29,
+  "SooraNameEn" : "Al-Fath",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 49,
+  "SooraName" : "الحجرات",
+  "NoOfAyat" : 18,
+  "SooraNameEn" : "Al-Hujraat",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 50,
+  "SooraName" : "ق",
+  "NoOfAyat" : 45,
+  "SooraNameEn" : "Qaf",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 51,
+  "SooraName" : "الذاريات",
+  "NoOfAyat" : 60,
+  "SooraNameEn" : "Adh-Dhariyat",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 52,
+  "SooraName" : "الطور",
+  "NoOfAyat" : 49,
+  "SooraNameEn" : "At-Tur",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 53,
+  "SooraName" : "النجم",
+  "NoOfAyat" : 62,
+  "SooraNameEn" : "An-Najm",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 54,
+  "SooraName" : "القمر",
+  "NoOfAyat" : 55,
+  "SooraNameEn" : "Al-Qamar",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 55,
+  "SooraName" : "الرحمن",
+  "NoOfAyat" : 78,
+  "SooraNameEn" : "Ar-Rahman",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 56,
+  "SooraName" : "الواقعة",
+  "NoOfAyat" : 96,
+  "SooraNameEn" : "Al-Waqia",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 57,
+  "SooraName" : "الحديد",
+  "NoOfAyat" : 29,
+  "SooraNameEn" : "Al-Hadid",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 58,
+  "SooraName" : "المجادلة",
+  "NoOfAyat" : 22,
+  "SooraNameEn" : "Al-Mujadala",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 59,
+  "SooraName" : "الحشر",
+  "NoOfAyat" : 24,
+  "SooraNameEn" : "Al-Hashr",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 60,
+  "SooraName" : "الممتحنة",
+  "NoOfAyat" : 13,
+  "SooraNameEn" : "Al-Mumtahana",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 61,
+  "SooraName" : "الصف",
+  "NoOfAyat" : 14,
+  "SooraNameEn" : "As-Saff",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 62,
+  "SooraName" : "الجمعة",
+  "NoOfAyat" : 11,
+  "SooraNameEn" : "Al-Jumua",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 63,
+  "SooraName" : "المنافقون",
+  "NoOfAyat" : 11,
+  "SooraNameEn" : "Al-Munafiqoon",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 64,
+  "SooraName" : "التغابن",
+  "NoOfAyat" : 18,
+  "SooraNameEn" : "At-Taghabun",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 65,
+  "SooraName" : "الطلاق",
+  "NoOfAyat" : 12,
+  "SooraNameEn" : "At-Talaq",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 66,
+  "SooraName" : "التحريم",
+  "NoOfAyat" : 12,
+  "SooraNameEn" : "At-Tahrim",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 67,
+  "SooraName" : "الملك",
+  "NoOfAyat" : 30,
+  "SooraNameEn" : "Al-Mulk",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 68,
+  "SooraName" : "القلم",
+  "NoOfAyat" : 52,
+  "SooraNameEn" : "Al-Qalam",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 69,
+  "SooraName" : "الحاقة",
+  "NoOfAyat" : 52,
+  "SooraNameEn" : "Al-Haaqqa",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 70,
+  "SooraName" : "المعارج",
+  "NoOfAyat" : 44,
+  "SooraNameEn" : "Al-Maarij",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 71,
+  "SooraName" : "نوح",
+  "NoOfAyat" : 28,
+  "SooraNameEn" : "Nooh",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 72,
+  "SooraName" : "الجن",
+  "NoOfAyat" : 28,
+  "SooraNameEn" : "Al-Jinn",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 73,
+  "SooraName" : "المزمل",
+  "NoOfAyat" : 20,
+  "SooraNameEn" : "Al-Muzzammil",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 74,
+  "SooraName" : "المدثر",
+  "NoOfAyat" : 56,
+  "SooraNameEn" : "Al-Muddaththir",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 75,
+  "SooraName" : "القيامة",
+  "NoOfAyat" : 40,
+  "SooraNameEn" : "Al-Qiyama",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 76,
+  "SooraName" : "الإنسان",
+  "NoOfAyat" : 31,
+  "SooraNameEn" : "Al-Insan",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 77,
+  "SooraName" : "المرسلات",
+  "NoOfAyat" : 50,
+  "SooraNameEn" : "Al-Mursalat",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 78,
+  "SooraName" : "النبأ",
+  "NoOfAyat" : 40,
+  "SooraNameEn" : "An-Naba",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 79,
+  "SooraName" : "النازعات",
+  "NoOfAyat" : 46,
+  "SooraNameEn" : "An-Naziat",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 80,
+  "SooraName" : "عبس",
+  "NoOfAyat" : 42,
+  "SooraNameEn" : "Abasa",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 81,
+  "SooraName" : "التكوير",
+  "NoOfAyat" : 29,
+  "SooraNameEn" : "At-Takwir",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 82,
+  "SooraName" : "الانفطار",
+  "NoOfAyat" : 19,
+  "SooraNameEn" : "Al-Infitar",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 83,
+  "SooraName" : "المطففين",
+  "NoOfAyat" : 36,
+  "SooraNameEn" : "Al-Mutaffifin",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 84,
+  "SooraName" : "الانشقاق",
+  "NoOfAyat" : 25,
+  "SooraNameEn" : "Al-Inshiqaq",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 85,
+  "SooraName" : "البروج",
+  "NoOfAyat" : 22,
+  "SooraNameEn" : "Al-Burooj",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 86,
+  "SooraName" : "الطارق",
+  "NoOfAyat" : 17,
+  "SooraNameEn" : "At-Tariq",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 87,
+  "SooraName" : "الأعلى",
+  "NoOfAyat" : 19,
+  "SooraNameEn" : "Al-Ala",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 88,
+  "SooraName" : "الغاشية",
+  "NoOfAyat" : 26,
+  "SooraNameEn" : "Al-Ghashiya",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 89,
+  "SooraName" : "الفجر",
+  "NoOfAyat" : 30,
+  "SooraNameEn" : "Al-Fajr",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 90,
+  "SooraName" : "البلد",
+  "NoOfAyat" : 20,
+  "SooraNameEn" : "Al-Balad",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 91,
+  "SooraName" : "الشمس",
+  "NoOfAyat" : 15,
+  "SooraNameEn" : "Ash-Shams",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 92,
+  "SooraName" : "الليل",
+  "NoOfAyat" : 21,
+  "SooraNameEn" : "Al-Lail",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 93,
+  "SooraName" : "الضحى",
+  "NoOfAyat" : 11,
+  "SooraNameEn" : "Ad-Dhuha",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 94,
+  "SooraName" : "الشرح",
+  "NoOfAyat" : 8,
+  "SooraNameEn" : "Al-Sharh",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 95,
+  "SooraName" : "التين",
+  "NoOfAyat" : 8,
+  "SooraNameEn" : "At-Tin",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 96,
+  "SooraName" : "العلق",
+  "NoOfAyat" : 19,
+  "SooraNameEn" : "Al-Alaq",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 97,
+  "SooraName" : "القدر",
+  "NoOfAyat" : 5,
+  "SooraNameEn" : "Al-Qadr",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 98,
+  "SooraName" : "البينة",
+  "NoOfAyat" : 8,
+  "SooraNameEn" : "Al-Bayyina",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 99,
+  "SooraName" : "الزلزلة",
+  "NoOfAyat" : 8,
+  "SooraNameEn" : "Az-Zalzala",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 100,
+  "SooraName" : "العاديات",
+  "NoOfAyat" : 11,
+  "SooraNameEn" : "Al-Adiyat",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 101,
+  "SooraName" : "القارعة",
+  "NoOfAyat" : 11,
+  "SooraNameEn" : "Al-Qaria",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 102,
+  "SooraName" : "التكاثر",
+  "NoOfAyat" : 8,
+  "SooraNameEn" : "At-Takathur",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 103,
+  "SooraName" : "العصر",
+  "NoOfAyat" : 3,
+  "SooraNameEn" : "Al-Asr",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 104,
+  "SooraName" : "الهمزة",
+  "NoOfAyat" : 9,
+  "SooraNameEn" : "Al-Humaza",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 105,
+  "SooraName" : "الفيل",
+  "NoOfAyat" : 5,
+  "SooraNameEn" : "Al-Fil",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 106,
+  "SooraName" : "قريش",
+  "NoOfAyat" : 4,
+  "SooraNameEn" : "Quraish",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 107,
+  "SooraName" : "الماعون",
+  "NoOfAyat" : 7,
+  "SooraNameEn" : "Al-Maun",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 108,
+  "SooraName" : "الكوثر",
+  "NoOfAyat" : 3,
+  "SooraNameEn" : "Al-Kauther",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 109,
+  "SooraName" : "الكافرون",
+  "NoOfAyat" : 6,
+  "SooraNameEn" : "Al-Kafiroon",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 110,
+  "SooraName" : "النصر",
+  "NoOfAyat" : 3,
+  "SooraNameEn" : "An-Nasr",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 111,
+  "SooraName" : "المسد",
+  "NoOfAyat" : 5,
+  "SooraNameEn" : "Al-Masadd",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 112,
+  "SooraName" : "الإخلاص",
+  "NoOfAyat" : 4,
+  "SooraNameEn" : "Al-Ikhlas",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 113,
+  "SooraName" : "الفلق",
+  "NoOfAyat" : 5,
+  "SooraNameEn" : "Al-Falaq",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+}, {
+  "_id" : 114,
+  "SooraName" : "الناس",
+  "NoOfAyat" : 6,
+  "SooraNameEn" : "An-Nas",
+  "SooraNameTr" : null,
+  "SooraNameFr" : null
+} ]

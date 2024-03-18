@@ -1,0 +1,3001 @@
+[ {
+  "id" : 0,
+  "number" : 1,
+  "type" : 0,
+  "question" : "الإمساك عن المفطرات من الفجر إلى غروب الشمس بدون نية صيام ...",
+  "firstAnswer" : "يعتبر صائمًا",
+  "secondAnswer" : "لا يعتبر صائمًا",
+  "thirdAnswer" : "يعتبر صائمًا وعليه الإطعام",
+  "link" : "8482",
+  "appNumber" : 0
+}, {
+  "id" : 4,
+  "number" : 2,
+  "type" : 0,
+  "question" : "النية الواحدة لصيام شهر رمضان كله ...",
+  "firstAnswer" : "تجزئ (على الراجح)",
+  "secondAnswer" : "لا تجزئ",
+  "thirdAnswer" : "تجزئ نصف رمضان فقط",
+  "link" : "8482",
+  "appNumber" : 0
+}, {
+  "id" : 8,
+  "number" : 3,
+  "type" : 0,
+  "question" : "معنى {فَارِضٌ} في قوله تعالى: {إِنَّهَا بَقَرَةٌ لَا فَارِضٌ وَلَا بِكْرٌ عَوَانٌ بَيْنَ ذَلِكَ} [البقرة: 68].    ",
+  "firstAnswer" : "مسنة هرمة",
+  "secondAnswer" : "ضخمة سمينة",
+  "thirdAnswer" : "هزيلة ضعيفة ",
+  "link" : "https://mushafalmadinah.page.link/V9Hh",
+  "appNumber" : 1
+}, {
+  "id" : 14,
+  "number" : 4,
+  "type" : 0,
+  "question" : "الذي يأكل وعنده شك في طلوع الفجر في رمضان، فهذا فعل ...",
+  "firstAnswer" : "جائز",
+  "secondAnswer" : "غير جائز",
+  "thirdAnswer" : "مكروه",
+  "link" : "8482",
+  "appNumber" : 0
+}, {
+  "id" : 18,
+  "number" : 5,
+  "type" : 0,
+  "question" : "إذا طلع الفجر على من نوى الصيام وفي فمه طعام ... أن يلفظه.",
+  "firstAnswer" : "وجب عليه",
+  "secondAnswer" : "لم يجب عليه",
+  "thirdAnswer" : "يستحب له",
+  "link" : "8482",
+  "appNumber" : 0
+}, {
+  "id" : 22,
+  "number" : 6,
+  "type" : 0,
+  "question" : "ما هي الرياضة المثالية في شهر رمضان؟",
+  "firstAnswer" : "رفع الأثقال",
+  "secondAnswer" : "المشي",
+  "thirdAnswer" : "الكارديو",
+  "link" : "https://rashaqa.page.link/dTWg",
+  "appNumber" : 2
+}, {
+  "id" : 31,
+  "number" : 7,
+  "type" : 0,
+  "question" : "من أكل ظانًا غروب الشمس أو عدم طلوع الفجر فظهر خلاف ذلك ...",
+  "firstAnswer" : "عليه القضاء (على الراجح).",
+  "secondAnswer" : "لا قضاء عليه (على الراجح).",
+  "thirdAnswer" : "عليه الإطعام فقط (على الراجح).",
+  "link" : "8482",
+  "appNumber" : 0
+}, {
+  "id" : 35,
+  "number" : 8,
+  "type" : 0,
+  "question" : "من عزم عزمًا أكيدًا على الفطر وإن لم يأكل أو يشرب فإن صومه ...",
+  "firstAnswer" : "غير صحيح",
+  "secondAnswer" : "صحيح",
+  "thirdAnswer" : "صحيح وعليه الإطعام ",
+  "link" : "8488",
+  "appNumber" : 0
+}, {
+  "id" : 47,
+  "number" : 9,
+  "type" : 0,
+  "question" : "كانت وفاة فاطمة بنت النبي صلى الله عليه وسلم في:",
+  "firstAnswer" : "3 رمضان سنة 11هـ",
+  "secondAnswer" : "11 رمضان سنة 3هـ",
+  "thirdAnswer" : "14 رمضان سنة 11هـ",
+  "link" : "https://nabaa.page.link/41Yg",
+  "appNumber" : 4
+}, {
+  "id" : 55,
+  "number" : 10,
+  "type" : 0,
+  "question" : "إذا تم تأخير الغسل من الجنابة لما بعد الفجر ...",
+  "firstAnswer" : "فالصوم صحيح",
+  "secondAnswer" : "فالصوم باطل",
+  "thirdAnswer" : "فالصوم فاسد",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 56,
+  "number" : 11,
+  "type" : 0,
+  "question" : "دخول الماء إلى الحلق من غير قصد عن طريق المضمضة أو الاستنشاق أو الغسل ...",
+  "firstAnswer" : "يفسد الصوم فقط",
+  "secondAnswer" : "يفسد الصوم مع الإثم",
+  "thirdAnswer" : "لا يفسد الصوم",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 57,
+  "number" : 12,
+  "type" : 0,
+  "question" : "معنى {حُوبًا} في قوله تعالى: {وَلَا تَأْكُلُوا أَمْوَالَهُمْ إِلَى أَمْوَالِكُمْ إِنَّهُ كَانَ حُوبًا كَبِيرًا} [النساء: 2].",
+  "firstAnswer" : "إِثْمًا.",
+  "secondAnswer" : "عداوة وبغضًا.",
+  "thirdAnswer" : "محبة ومودة.",
+  "link" : "https://mushafalmadinah.page.link/PZXe",
+  "appNumber" : 1
+}, {
+  "id" : 69,
+  "number" : 13,
+  "type" : 0,
+  "question" : "من احتلم في نهار رمضان وهو نائم ...",
+  "firstAnswer" : "يبطل الصوم ويجب القضاء",
+  "secondAnswer" : "لا يبطل الصوم، وصيامه صحيح",
+  "thirdAnswer" : "يبطل الصوم وعليه القضاء والكفارة ",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 70,
+  "number" : 14,
+  "type" : 0,
+  "question" : "خروج المذي (سائل يخرج عند ثوران الشهوة) ...",
+  "firstAnswer" : "يُبطل الصوم",
+  "secondAnswer" : "لا يبطل الصوم",
+  "thirdAnswer" : "لا يبطل الصوم ولكنه يوجب الاغتسال.",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 71,
+  "number" : 15,
+  "type" : 0,
+  "question" : "كم كوبًا من الماء يجب شربه يوميًا في رمضان؟",
+  "firstAnswer" : "من 3 - 4 أكواب",
+  "secondAnswer" : "من 5 - 6 أكواب",
+  "thirdAnswer" : "من ٦ - ٨ أكواب",
+  "link" : "https://rashaqa.page.link/sbeK",
+  "appNumber" : 2
+}, {
+  "id" : 84,
+  "number" : 16,
+  "type" : 0,
+  "question" : "نزول المني بسبب التقبيل واللمس أو الاستمناء باليد ...",
+  "firstAnswer" : "يفسد الصوم وعليه القضاء",
+  "secondAnswer" : "لا يفسد الصوم",
+  "thirdAnswer" : "يفسد الصوم وعليه الإطعام",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 85,
+  "number" : 17,
+  "type" : 0,
+  "question" : "الجماع في نهار رمضان يوجب ...",
+  "firstAnswer" : "القضاء فقط",
+  "secondAnswer" : "الكفارة فقط",
+  "thirdAnswer" : "القضاء والكفارة",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 86,
+  "number" : 18,
+  "type" : 0,
+  "question" : "تم فتح الأندلس في ...",
+  "firstAnswer" : "28 رمضان سنة 92 ه",
+  "secondAnswer" : "15 رمضان سنة 658 هـ",
+  "thirdAnswer" : "25 رمضان سنة 479 هـ",
+  "link" : "https://nabaa.page.link/yFHZ",
+  "appNumber" : 4
+}, {
+  "id" : 99,
+  "number" : 19,
+  "type" : 0,
+  "question" : "استخدام العطر واستنشاقه ...",
+  "firstAnswer" : "يفسد الصوم فقط",
+  "secondAnswer" : "يفسد الصوم مع الإثم",
+  "thirdAnswer" : "لا يفسد الصوم",
+  "link" : "8514",
+  "appNumber" : 0
+}, {
+  "id" : 100,
+  "number" : 20,
+  "type" : 0,
+  "question" : "الكحل وقطرة العين ... للصائم.",
+  "firstAnswer" : "محرمة",
+  "secondAnswer" : "مستحبة",
+  "thirdAnswer" : "مباحة (على الراجح)",
+  "link" : "8514",
+  "appNumber" : 0
+}, {
+  "id" : 101,
+  "number" : 21,
+  "type" : 0,
+  "question" : "معنى {أَوَّاهٌ} في قوله تعالى: {إِنَّ إِبْرَاهِيمَ لَحَلِيمٌ أَوَّاهٌ مُنِيبٌ} [هود: 75].",
+  "firstAnswer" : "كثير التأوه والتألم",
+  "secondAnswer" : "كَثِيرُ التَّضَرُّعِ وَالدُّعَاءِ.",
+  "thirdAnswer" : "كثير الحزن والضيق.",
+  "link" : "https://mushafalmadinah.page.link/nYJz",
+  "appNumber" : 1
+}, {
+  "id" : 113,
+  "number" : 22,
+  "type" : 0,
+  "question" : "القيء (إفراغ ما في المعدة) ... ",
+  "firstAnswer" : "يفطر مطلقًا",
+  "secondAnswer" : "لا يفطر مطلقًا",
+  "thirdAnswer" : "يفطر إذا كان متعمَّدًا فقط",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 114,
+  "number" : 23,
+  "type" : 0,
+  "question" : "إذا كان الفطر والصوم للمسافر سواء، ...",
+  "firstAnswer" : "فالفطر أولى",
+  "secondAnswer" : "فالصيام أولى",
+  "thirdAnswer" : "فالصيام مكروه",
+  "link" : "8487",
+  "appNumber" : 0
+}, {
+  "id" : 115,
+  "number" : 24,
+  "type" : 0,
+  "question" : "هل كل أنواع التمور في رمضان تناسب جميع مرضي السكر؟\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n",
+  "firstAnswer" : "للأسف التمر غني بالسكريات، ولا يجب على مريض السكري تناوله",
+  "secondAnswer" : "يوجد أنواع مناسبة وأنواع غير مناسبة",
+  "thirdAnswer" : "كل التمور مفيدة للمريض لأنها تنظم السكر والإنسولين في الدم",
+  "link" : "https://rashaqa.page.link/z1bu",
+  "appNumber" : 2
+}, {
+  "id" : 127,
+  "number" : 25,
+  "type" : 0,
+  "question" : "إذا كان يشق على المسافر الصيام، فالفطر ....",
+  "firstAnswer" : "واجب",
+  "secondAnswer" : "مكروه",
+  "thirdAnswer" : "أولى",
+  "link" : "8487",
+  "appNumber" : 0
+}, {
+  "id" : 128,
+  "number" : 26,
+  "type" : 0,
+  "question" : "إذا أفطر المسافر في رمضان فإنه ...",
+  "firstAnswer" : "يقضي ويطعم عن كل يوم مسكينًا",
+  "secondAnswer" : "يقضي فقط",
+  "thirdAnswer" : "يطعم فقط عن كل يوم مسكينًا",
+  "link" : "8487",
+  "appNumber" : 0
+}, {
+  "id" : 129,
+  "number" : 27,
+  "type" : 0,
+  "question" : "فتح المسلمين مدينة عمورية في العام:",
+  "firstAnswer" : "6رمضان 232هـ",
+  "secondAnswer" : "6رمضان322هـ",
+  "thirdAnswer" : "6 رمضان 223هـ",
+  "link" : "https://nabaa.page.link/3Hah",
+  "appNumber" : 4
+}, {
+  "id" : 142,
+  "number" : 28,
+  "type" : 0,
+  "question" : "المريض الذي لا يشق عليه الصوم ولا يضره ...",
+  "firstAnswer" : "يجوز له الفطر",
+  "secondAnswer" : "لا يجوز له الفطر",
+  "thirdAnswer" : "يجب عليه الفطر",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 143,
+  "number" : 29,
+  "type" : 0,
+  "question" : "صوم المريض الذي يشق عليه الصوم ولا يضره ...",
+  "firstAnswer" : "مكروه",
+  "secondAnswer" : "حرام",
+  "thirdAnswer" : "مستحب",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 144,
+  "number" : 30,
+  "type" : 0,
+  "question" : "معنى {كَظِيمٌ} في قوله تعالى: {وَابْيَضَّتْ عَيْنَاهُ مِنَ الْحُزْنِ فَهُوَ كَظِيمٌ} [يوسف: 84]. ",
+  "firstAnswer" : "مُمْتَلِئٌ غَمًّا وَحُزْنًا. ",
+  "secondAnswer" : "كاظمًا لغيظه",
+  "thirdAnswer" : "أعمى لا يبصر",
+  "link" : "https://mushafalmadinah.page.link/85Up",
+  "appNumber" : 1
+}, {
+  "id" : 156,
+  "number" : 31,
+  "type" : 0,
+  "question" : "الإبر التي لا تغذي؛ كالبنسلين والأنسولين وغيرهما ...",
+  "firstAnswer" : "تفسد الصوم",
+  "secondAnswer" : "لا تفسد الصوم",
+  "thirdAnswer" : "لا تفسد الصوم وتوجب الإطعام",
+  "link" : "8514",
+  "appNumber" : 0
+}, {
+  "id" : 157,
+  "number" : 32,
+  "type" : 0,
+  "question" : "معالجة الأسنان وقلع الضرس للصائم إذا اجتهد في عدم دخول الدم إلى جوفه ...",
+  "firstAnswer" : "لا يفسد الصوم",
+  "secondAnswer" : "يفسد الصوم ولا يلزمه الإمساك",
+  "thirdAnswer" : "يفسد الصوم ويلزمه الإمساك والقضاء ",
+  "link" : "8514",
+  "appNumber" : 0
+}, {
+  "id" : 158,
+  "number" : 33,
+  "type" : 0,
+  "question" : "أيًا من هذه التمور مناسب لمرضى السكري؟",
+  "firstAnswer" : "تمر الخضري",
+  "secondAnswer" : "تمر السكري",
+  "thirdAnswer" : "تمر الصقعي",
+  "link" : "https://rashaqa.page.link/z1bu",
+  "appNumber" : 2
+}, {
+  "id" : 170,
+  "number" : 34,
+  "type" : 0,
+  "question" : "من استعمل بخاخ ضيق التنفس وهو صائم ...",
+  "firstAnswer" : "لا يفسد صومه",
+  "secondAnswer" : "يفسد الصوم وعليه القضاء",
+  "thirdAnswer" : "يفسد الصوم وعليه القضاء والفدية.",
+  "link" : "8514",
+  "appNumber" : 0
+}, {
+  "id" : 171,
+  "number" : 35,
+  "type" : 0,
+  "question" : "أخذ الدم للتحليل ...",
+  "firstAnswer" : "يفسد الصوم",
+  "secondAnswer" : "لا يفسد الصوم ",
+  "thirdAnswer" : "يفسد الصوم وعليه الإمساك والقضاء ",
+  "link" : "8514",
+  "appNumber" : 0
+}, {
+  "id" : 172,
+  "number" : 36,
+  "type" : 0,
+  "question" : "الصحابي الذي ذكره الله تعالى في الملأ الأعلى ...",
+  "firstAnswer" : "أبو بكر الصديق",
+  "secondAnswer" : "أبيُّ بن كعب",
+  "thirdAnswer" : "عثمان ابن عفان",
+  "link" : "https://nabaa.page.link/eu1k",
+  "appNumber" : 4
+}, {
+  "id" : 185,
+  "number" : 37,
+  "type" : 0,
+  "question" : "إعطاء بنج عام أو موضعي للمريض من غير محاليل مغذية....",
+  "firstAnswer" : "يحرم لأنه يفسد الصوم",
+  "secondAnswer" : "لا يبطل الصوم",
+  "thirdAnswer" : "لا يحرم، ولكنه يفسد الصوم",
+  "link" : "8514",
+  "appNumber" : 0
+}, {
+  "id" : 186,
+  "number" : 38,
+  "type" : 0,
+  "question" : "المريض الذي لا يُرجى برؤه ولا يمكنه صيام رمضان ...",
+  "firstAnswer" : "يفطر وعليه إطعام",
+  "secondAnswer" : "يفطر وليس عليه إطعام",
+  "thirdAnswer" : "يفطر وعليه الفدية والكفارة",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 187,
+  "number" : 39,
+  "type" : 0,
+  "question" : "معنى {مَنَاكِبِها} في قوله تعالى: {فَامْشُوا فِي مَنَاكِبِهَا وَكُلُوا مِنْ رِزْقِهِ} [الملك: 15].",
+  "firstAnswer" : "نواحيها وجوانبها",
+  "secondAnswer" : "سهولها ووديانها",
+  "thirdAnswer" : "مزارعها ومراعيها",
+  "link" : "https://mushafalmadinah.page.link/J6y1",
+  "appNumber" : 1
+}, {
+  "id" : 199,
+  "number" : 40,
+  "type" : 0,
+  "question" : "المريض الذي لا يرجى برؤه لو عافاه الله بقدرته وكان قد أطعم.....",
+  "firstAnswer" : "لا شيء عليه",
+  "secondAnswer" : "عليه القضاء",
+  "thirdAnswer" : "عليه القضاء وإعادة الإطعام",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 200,
+  "number" : 41,
+  "type" : 0,
+  "question" : "الشيخ الكبير الذي لا يستطيع صيام رمضان ...",
+  "firstAnswer" : "يفطر وعليه إطعام",
+  "secondAnswer" : "يفطر وليس عليه إطعام",
+  "thirdAnswer" : "يفطر وعليه الفدية والكفارة",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 201,
+  "number" : 42,
+  "type" : 0,
+  "question" : "ما هي أسوء فترة لممارسة الرياضة في رمضان؟",
+  "firstAnswer" : "وقت الظهيرة وسطوع الشمس",
+  "secondAnswer" : "بعد السحور مباشرة وفي الصباح الباكر",
+  "thirdAnswer" : "قبل الإفطار مباشرة",
+  "link" : "https://rashaqa.page.link/fw9Y",
+  "appNumber" : 2
+}, {
+  "id" : 213,
+  "number" : 43,
+  "type" : 0,
+  "question" : "صلاة التراويح...",
+  "firstAnswer" : "سنة مؤكدة",
+  "secondAnswer" : "واجبة",
+  "thirdAnswer" : "فرض كفاية",
+  "link" : "8516",
+  "appNumber" : 0
+}, {
+  "id" : 214,
+  "number" : 44,
+  "type" : 0,
+  "question" : "الأفضل في عدد ركعات قيام الليل ... ",
+  "firstAnswer" : "11 ركعة",
+  "secondAnswer" : "23 ركعة",
+  "thirdAnswer" : "40 ركعة",
+  "link" : "8516",
+  "appNumber" : 0
+}, {
+  "id" : 215,
+  "number" : 45,
+  "type" : 0,
+  "question" : "فتح القسطنطينية كان في عام ...",
+  "firstAnswer" : "866 هجرية ",
+  "secondAnswer" : "857 هجرية ",
+  "thirdAnswer" : "863 هجرية ",
+  "link" : "https://nabaa.page.link/kr9R",
+  "appNumber" : 4
+}, {
+  "id" : 228,
+  "number" : 46,
+  "type" : 0,
+  "question" : "جمع صلاة التراويح كلها مع الوتر في سلام واحد ...",
+  "firstAnswer" : "جائز",
+  "secondAnswer" : "غير جائز",
+  "thirdAnswer" : "مستحب",
+  "link" : "8516",
+  "appNumber" : 0
+}, {
+  "id" : 229,
+  "number" : 47,
+  "type" : 0,
+  "question" : "مسح اليدين على الوجه بعد الدعاء....",
+  "firstAnswer" : "سنة",
+  "secondAnswer" : "ليس بسنة",
+  "thirdAnswer" : "واجب",
+  "link" : "8516",
+  "appNumber" : 0
+}, {
+  "id" : 230,
+  "number" : 48,
+  "type" : 0,
+  "question" : "معنى {غَيْرِ آسِنٍ} في قوله تعالى:  {فِيهَا أَنْهَارٌ مِنْ مَاءٍ غَيْرِ آسِنٍ} [محمد: 15].",
+  "firstAnswer" : "حلو غير مُرٍ ",
+  "secondAnswer" : "غَيْرِ مُتَغَيِّرٍ، وَلَا مُنْتِنٍ.",
+  "thirdAnswer" : "لا ينقطع أو ينضب.",
+  "link" : "https://mushafalmadinah.page.link/wtQ4",
+  "appNumber" : 1
+}, {
+  "id" : 242,
+  "number" : 49,
+  "type" : 0,
+  "question" : "إن قنت الإمام قبل الركوع وبعد القراءة، فالصلاة ....",
+  "firstAnswer" : "صحيحة",
+  "secondAnswer" : "غير صحيحة ولا يتابعه المأموم",
+  "thirdAnswer" : "غير صحيحة ويتابعه المأموم",
+  "link" : "8516",
+  "appNumber" : 0
+}, {
+  "id" : 243,
+  "number" : 50,
+  "type" : 0,
+  "question" : "إذا فات قيام الليل فإنه ... في النهار.",
+  "firstAnswer" : "يُقضى (على الراجح)",
+  "secondAnswer" : "لا يُقضى ويطعم مسكينًا",
+  "thirdAnswer" : "يطعم مسكينًا",
+  "link" : "8516",
+  "appNumber" : 0
+}, {
+  "id" : 244,
+  "number" : 51,
+  "type" : 0,
+  "question" : "أيًا من هذه التمور غير مناسب لمرضى السكري؟",
+  "firstAnswer" : "تمر الخلاص",
+  "secondAnswer" : "تمر البرحي ",
+  "thirdAnswer" : "تمر السكري",
+  "link" : "https://rashaqa.page.link/z1bu",
+  "appNumber" : 2
+}, {
+  "id" : 256,
+  "number" : 52,
+  "type" : 0,
+  "question" : "التعبد لله بالمكث في المسجد يسمى ...؟",
+  "firstAnswer" : "قيامًا",
+  "secondAnswer" : "اعتكافًا",
+  "thirdAnswer" : "صيامًا",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 257,
+  "number" : 53,
+  "type" : 0,
+  "question" : "الاعتكاف المسنون يكون ... ",
+  "firstAnswer" : "في العشر الأوائل من رمضان",
+  "secondAnswer" : "في العشر الأواخر من رمضان",
+  "thirdAnswer" : "في العشر الثانية في رمضان",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 258,
+  "number" : 54,
+  "type" : 0,
+  "question" : "كم المدة الزمنية بين غزوة بدر وفتح مكة؟",
+  "firstAnswer" : "8 سنوات",
+  "secondAnswer" : "10 سنوات",
+  "thirdAnswer" : "6 سنوات",
+  "link" : "https://nabaa.page.link/CPyG",
+  "appNumber" : 4
+}, {
+  "id" : 271,
+  "number" : 55,
+  "type" : 0,
+  "question" : "... الاعتكاف في غير المسجد.",
+  "firstAnswer" : "يصح",
+  "secondAnswer" : "لا يصح",
+  "thirdAnswer" : "يكره",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 272,
+  "number" : 56,
+  "type" : 0,
+  "question" : "ينعقد الاعتكاف في ... ",
+  "firstAnswer" : "أي مسجد",
+  "secondAnswer" : "أحد المساجد الثلاثة فقط",
+  "thirdAnswer" : "المسجد الحرام والمسجد النبوي",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 273,
+  "number" : 57,
+  "type" : 0,
+  "question" : "من نوى اعتكاف العشر الأواخر يدخل المسجد ...",
+  "firstAnswer" : "قبل غروب شمس اليوم العشرين.",
+  "secondAnswer" : "قبل صلاة عشاء اليوم العشرين.",
+  "thirdAnswer" : "قبل غروب شمس اليوم الحادي والعشرين.",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 284,
+  "number" : 58,
+  "type" : 0,
+  "question" : "خروج المعتكف لإيصال امرأته لبيتها ليلًا ... ",
+  "firstAnswer" : "يفسد الاعتكاف.",
+  "secondAnswer" : "لا يفسد الاعتكاف.",
+  "thirdAnswer" : "يفسد الاعتكاف ويبدأ من جديد.",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 285,
+  "number" : 59,
+  "type" : 0,
+  "question" : "تنظيف المعتكف نفسه وترجله وتطيبه ولبسه أحسن الثياب ... اعتكافه.",
+  "firstAnswer" : "يفسد",
+  "secondAnswer" : "لا يفسد",
+  "thirdAnswer" : "يبطل",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 286,
+  "number" : 60,
+  "type" : 0,
+  "question" : "... خروج المعتكف لعيادة المريض وحضور الجنازة، إن اشترط ذلك عند الدخول في الاعتكاف.",
+  "firstAnswer" : "يصح",
+  "secondAnswer" : "لا يصح",
+  "thirdAnswer" : "يكره",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 297,
+  "number" : 61,
+  "type" : 0,
+  "question" : "زكاة الفطر ... ",
+  "firstAnswer" : "سنة مؤكدة",
+  "secondAnswer" : "واجبة",
+  "thirdAnswer" : "مستحبة",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 298,
+  "number" : 62,
+  "type" : 0,
+  "question" : "تجب زكاة الفطر على الصائم عندما ... ",
+  "firstAnswer" : "يبلغ ماله النصاب.",
+  "secondAnswer" : "يتوفر لديه صاع زائد عن قوته وقوت عياله يومًا وليلة.",
+  "thirdAnswer" : "يتوفر لديه طعام يكفيه سنة.",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 299,
+  "number" : 63,
+  "type" : 0,
+  "question" : "تجب زكاة الفطر عن ... ",
+  "firstAnswer" : "المزكي فقط",
+  "secondAnswer" : "المزكي ومن تلزمه نفقته",
+  "thirdAnswer" : "المزكي وكل قرابته",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 310,
+  "number" : 64,
+  "type" : 0,
+  "question" : "الواجب في زكاة الفطر ... (مما يعتبر قوتًا).",
+  "firstAnswer" : "صاع",
+  "secondAnswer" : "مد",
+  "thirdAnswer" : "قدح ",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 311,
+  "number" : 65,
+  "type" : 0,
+  "question" : "الصاع يساوي ...",
+  "firstAnswer" : "ثلاثة أمداد (والمد: ملء اليدين المعتدلتين)",
+  "secondAnswer" : "أربعة أمداد (والمد: ملء اليدين المعتدلتين)",
+  "thirdAnswer" : "خمسة أمداد (والمد: ملء اليدين المعتدلتين)",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 312,
+  "number" : 66,
+  "type" : 0,
+  "question" : "تجب زكاة الفطر ... ",
+  "firstAnswer" : "بغروب الشمس من آخر يوم من رمضان.",
+  "secondAnswer" : "بعد عصر آخر يوم من رمضان.",
+  "thirdAnswer" : "بطلوع فجر آخر يوم من رمضان.",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 323,
+  "number" : 67,
+  "type" : 0,
+  "question" : "تعجيل زكاة الفطر عن وقت وجوبها بيوم أو يومين ... ",
+  "firstAnswer" : "جائز عند الجمهور.",
+  "secondAnswer" : "غير جائز",
+  "thirdAnswer" : "مكروه",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 324,
+  "number" : 68,
+  "type" : 0,
+  "question" : "تعمد تأخير زكاة الفطر عن صلاة العيد ...",
+  "firstAnswer" : "محرم",
+  "secondAnswer" : "مكروه",
+  "thirdAnswer" : "جائز",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 325,
+  "number" : 69,
+  "type" : 0,
+  "question" : "من تأخر في قضاء رمضان لعذر إلى ما بعد رمضان التالي ...",
+  "firstAnswer" : "عليه الصيام وليس عليه إطعام",
+  "secondAnswer" : "عليه الصيام والإطعام",
+  "thirdAnswer" : "عليه الصيام مع الكفارة",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 336,
+  "number" : 70,
+  "type" : 0,
+  "question" : "يستحب أكل تمرات أو نحوها قبل الغدو إلى صلاة عيد ... ",
+  "firstAnswer" : "الفطر",
+  "secondAnswer" : "الأضحى",
+  "thirdAnswer" : "الفطر والأضحى",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 337,
+  "number" : 71,
+  "type" : 0,
+  "question" : "الأذان والإقامة لصلاة العيد فعلهما ... ",
+  "firstAnswer" : "سنة",
+  "secondAnswer" : "مباح",
+  "thirdAnswer" : "غير مشروع",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 338,
+  "number" : 72,
+  "type" : 0,
+  "question" : "من فاتته صلاة العيد فإنه ... ",
+  "firstAnswer" : "يقضيها",
+  "secondAnswer" : "لا يقضيها (على الراجح)",
+  "thirdAnswer" : "لا يقضيها وعليه الإطعام",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 349,
+  "number" : 73,
+  "type" : 0,
+  "question" : "الأفضل أداء صلاة العيد في ... ",
+  "firstAnswer" : "المسجد",
+  "secondAnswer" : "مصلى العيد",
+  "thirdAnswer" : "البيت",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 350,
+  "number" : 74,
+  "type" : 0,
+  "question" : "إذا عرف الناس دخول شوال بعد ظهر يوم العيد ... ",
+  "firstAnswer" : "يصلون العيد فورًا",
+  "secondAnswer" : "لا يصلون العيد",
+  "thirdAnswer" : "يصلونه في الغد",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 351,
+  "number" : 75,
+  "type" : 0,
+  "question" : "إذا مرّ رمضان على إنسان مريض يرجى زوال مرضه ....",
+  "firstAnswer" : "بقي الصوم واجبًا عليه حتى يشفى فيقضيه.",
+  "secondAnswer" : "عليه الإطعام وليس عليه القضاء",
+  "thirdAnswer" : "عليه القضاء والإطعام",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 361,
+  "number" : 1,
+  "type" : 1,
+  "question" : "الإمساك عن المفطرات من الفجر إلى غروب الشمس بدون نية صيام ...",
+  "firstAnswer" : "يعتبر صائمًا",
+  "secondAnswer" : "لا يعتبر صائمًا",
+  "thirdAnswer" : "يعتبر صائمًا وعليه الإطعام",
+  "link" : "8482",
+  "appNumber" : 0
+}, {
+  "id" : 362,
+  "number" : 2,
+  "type" : 1,
+  "question" : "النية الواحدة لصيام شهر رمضان كله ...",
+  "firstAnswer" : "تجزئ (على الراجح)",
+  "secondAnswer" : "لا تجزئ",
+  "thirdAnswer" : "تجزئ نصف رمضان فقط",
+  "link" : "8482",
+  "appNumber" : 0
+}, {
+  "id" : 363,
+  "number" : 3,
+  "type" : 1,
+  "question" : "معنى {فَارِضٌ} في قوله تعالى: {إِنَّهَا بَقَرَةٌ لَا فَارِضٌ وَلَا بِكْرٌ عَوَانٌ بَيْنَ ذَلِكَ} [البقرة: 68].",
+  "firstAnswer" : "مسنة هرمة",
+  "secondAnswer" : "ضخمة سمينة",
+  "thirdAnswer" : "هزيلة ضعيفة ",
+  "link" : "https://mushafalmadinah.page.link/V9Hh",
+  "appNumber" : 1
+}, {
+  "id" : 364,
+  "number" : 4,
+  "type" : 1,
+  "question" : "الذي يأكل وعنده شك في طلوع الفجر في رمضان، فهذا فعل ...",
+  "firstAnswer" : "جائز",
+  "secondAnswer" : "غير جائز",
+  "thirdAnswer" : "مكروه",
+  "link" : "8482",
+  "appNumber" : 0
+}, {
+  "id" : 365,
+  "number" : 5,
+  "type" : 1,
+  "question" : "إذا طلع الفجر على من نوى الصيام وفي فمه طعام ... أن يلفظه.",
+  "firstAnswer" : "وجب عليه",
+  "secondAnswer" : "لم يجب عليه",
+  "thirdAnswer" : "يستحب له",
+  "link" : "8482",
+  "appNumber" : 0
+}, {
+  "id" : 366,
+  "number" : 6,
+  "type" : 1,
+  "question" : "حكم استعمال حبوب منع الحيض لإتمام صيام شهر رمضان:",
+  "firstAnswer" : "يجب.",
+  "secondAnswer" : "يجوز والأولى تركه.",
+  "thirdAnswer" : "يستحب. ",
+  "link" : "https://queenapp.page.link/V5TK",
+  "appNumber" : 3
+}, {
+  "id" : 367,
+  "number" : 7,
+  "type" : 1,
+  "question" : "من أكل ظانًا غروب الشمس أو عدم طلوع الفجر فظهر خلاف ذلك ...",
+  "firstAnswer" : "عليه القضاء (على الراجح).",
+  "secondAnswer" : "لا قضاء عليه (على الراجح).",
+  "thirdAnswer" : "عليه الإطعام فقط (على الراجح).",
+  "link" : "8482",
+  "appNumber" : 0
+}, {
+  "id" : 368,
+  "number" : 8,
+  "type" : 1,
+  "question" : "من عزم عزمًا أكيدًا على الفطر وإن لم يأكل أو يشرب فإن صومه ...",
+  "firstAnswer" : "غير صحيح",
+  "secondAnswer" : "صحيح",
+  "thirdAnswer" : "صحيح وعليه الإطعام ",
+  "link" : "8488",
+  "appNumber" : 0
+}, {
+  "id" : 369,
+  "number" : 9,
+  "type" : 1,
+  "question" : "كانت وفاة فاطمة بنت النبي صلى الله عليه وسلم في:",
+  "firstAnswer" : "3 رمضان سنة 11هـ",
+  "secondAnswer" : "11 رمضان سنة 3هـ",
+  "thirdAnswer" : "14 رمضان سنة 11هـ",
+  "link" : "https://nabaa.page.link/41Yg",
+  "appNumber" : 4
+}, {
+  "id" : 370,
+  "number" : 10,
+  "type" : 1,
+  "question" : "إذا تم تأخير الغسل من الجنابة لما بعد الفجر ...",
+  "firstAnswer" : "فالصوم صحيح",
+  "secondAnswer" : "فالصوم باطل",
+  "thirdAnswer" : "فالصوم فاسد",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 371,
+  "number" : 11,
+  "type" : 1,
+  "question" : "دخول الماء إلى الحلق من غير قصد عن طريق المضمضة أو الاستنشاق أو الغسل ...",
+  "firstAnswer" : "يفسد الصوم فقط",
+  "secondAnswer" : "يفسد الصوم مع الإثم",
+  "thirdAnswer" : "لا يفسد الصوم",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 372,
+  "number" : 12,
+  "type" : 1,
+  "question" : "ما هي الرياضة المثالية في شهر رمضان؟",
+  "firstAnswer" : "المشي",
+  "secondAnswer" : "رفع الأثقال",
+  "thirdAnswer" : "الكارديو",
+  "link" : "https://rashaqa.page.link/dTWg",
+  "appNumber" : 2
+}, {
+  "id" : 373,
+  "number" : 13,
+  "type" : 1,
+  "question" : "من احتلم في نهار رمضان وهو نائم ...",
+  "firstAnswer" : "يبطل الصوم ويجب القضاء",
+  "secondAnswer" : "لا يبطل الصوم، وصيامه صحيح",
+  "thirdAnswer" : "يبطل الصوم وعليه القضاء والكفارة ",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 374,
+  "number" : 14,
+  "type" : 1,
+  "question" : "خروج المذي (سائل يخرج عند ثوران الشهوة) ...",
+  "firstAnswer" : "يُبطل الصوم",
+  "secondAnswer" : "لا يبطل الصوم",
+  "thirdAnswer" : "لا يبطل الصوم ولكنه يوجب الاغتسال.",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 375,
+  "number" : 15,
+  "type" : 1,
+  "question" : "معنى {حُوبًا} في قوله تعالى: {وَلَا تَأْكُلُوا أَمْوَالَهُمْ إِلَى أَمْوَالِكُمْ إِنَّهُ كَانَ حُوبًا كَبِيرًا} [النساء: 2].",
+  "firstAnswer" : "محبة ومودة.",
+  "secondAnswer" : "عداوة وبغضًا.",
+  "thirdAnswer" : "إِثْمًا.",
+  "link" : "https://mushafalmadinah.page.link/PZXe",
+  "appNumber" : 1
+}, {
+  "id" : 376,
+  "number" : 16,
+  "type" : 1,
+  "question" : "نزول المني بسبب التقبيل واللمس أو الاستمناء باليد ...",
+  "firstAnswer" : "يفسد الصوم وعليه القضاء",
+  "secondAnswer" : "لا يفسد الصوم",
+  "thirdAnswer" : "يفسد الصوم وعليه الإطعام",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 377,
+  "number" : 17,
+  "type" : 1,
+  "question" : "الجماع في نهار رمضان يوجب ...",
+  "firstAnswer" : "القضاء فقط",
+  "secondAnswer" : "الكفارة فقط",
+  "thirdAnswer" : "القضاء والكفارة",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 378,
+  "number" : 18,
+  "type" : 1,
+  "question" : "كم كوبًا من الماء يجب شربه يوميًا في رمضان؟",
+  "firstAnswer" : "من 6 - 8 أكواب",
+  "secondAnswer" : "من 5 - 6 أكواب",
+  "thirdAnswer" : "من 3 - 4 أكواب",
+  "link" : "https://rashaqa.page.link/sbeK",
+  "appNumber" : 2
+}, {
+  "id" : 379,
+  "number" : 19,
+  "type" : 1,
+  "question" : "استخدام العطر واستنشاقه ...",
+  "firstAnswer" : "يفسد الصوم فقط",
+  "secondAnswer" : "يفسد الصوم مع الإثم",
+  "thirdAnswer" : "لا يفسد الصوم",
+  "link" : "8514",
+  "appNumber" : 0
+}, {
+  "id" : 380,
+  "number" : 20,
+  "type" : 1,
+  "question" : "الكحل وقطرة العين ... للصائم.",
+  "firstAnswer" : "محرمة",
+  "secondAnswer" : "مستحبة",
+  "thirdAnswer" : "مباحة (على الراجح)",
+  "link" : "8514",
+  "appNumber" : 0
+}, {
+  "id" : 381,
+  "number" : 21,
+  "type" : 1,
+  "question" : "نزول الإفرازات النسائية في نهار رمضان ...",
+  "firstAnswer" : "يبطل الصيام.",
+  "secondAnswer" : "لا يفسد الصيام.",
+  "thirdAnswer" : "يفسد الصيام وعليها الإمساك والقضاء.",
+  "link" : "https://queenapp.page.link/hs5F",
+  "appNumber" : 3
+}, {
+  "id" : 382,
+  "number" : 22,
+  "type" : 1,
+  "question" : "القيء (إفراغ ما في المعدة) ... ",
+  "firstAnswer" : "يفطر مطلقًا",
+  "secondAnswer" : "لا يفطر مطلقًا",
+  "thirdAnswer" : "يفطر إذا كان متعمَّدًا فقط",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 383,
+  "number" : 23,
+  "type" : 1,
+  "question" : "إذا كان الفطر والصوم للمسافر سواء، ...",
+  "firstAnswer" : "فالفطر أولى",
+  "secondAnswer" : "فالصيام أولى",
+  "thirdAnswer" : "فالصيام مكروه",
+  "link" : "8487",
+  "appNumber" : 0
+}, {
+  "id" : 384,
+  "number" : 24,
+  "type" : 1,
+  "question" : "تم فتح الأندلس في ...",
+  "firstAnswer" : "15 رمضان سنة 658 هـ",
+  "secondAnswer" : "28 رمضان سنة 92 ه",
+  "thirdAnswer" : "25 رمضان سنة 479 هـ",
+  "link" : "https://nabaa.page.link/yFHZ",
+  "appNumber" : 4
+}, {
+  "id" : 385,
+  "number" : 25,
+  "type" : 1,
+  "question" : "إذا كان يشق على المسافر الصيام، فالفطر ....",
+  "firstAnswer" : "واجب",
+  "secondAnswer" : "مكروه",
+  "thirdAnswer" : "أولى",
+  "link" : "8487",
+  "appNumber" : 0
+}, {
+  "id" : 386,
+  "number" : 26,
+  "type" : 1,
+  "question" : "إذا أفطر المسافر في رمضان فإنه ...",
+  "firstAnswer" : "يقضي ويطعم عن كل يوم مسكينًا",
+  "secondAnswer" : "يقضي فقط",
+  "thirdAnswer" : "يطعم فقط عن كل يوم مسكينًا",
+  "link" : "8487",
+  "appNumber" : 0
+}, {
+  "id" : 387,
+  "number" : 27,
+  "type" : 1,
+  "question" : "معنى {أَوَّاهٌ} في قوله تعالى: {إِنَّ إِبْرَاهِيمَ لَحَلِيمٌ أَوَّاهٌ مُنِيبٌ} [هود:75]",
+  "firstAnswer" : "كثير التأوه والتألم",
+  "secondAnswer" : "كثير الحزن والضيق.",
+  "thirdAnswer" : "كَثِيرُ التَّضَرُّعِ وَالدُّعَاءِ.",
+  "link" : "https://mushafalmadinah.page.link/nYJz",
+  "appNumber" : 1
+}, {
+  "id" : 388,
+  "number" : 28,
+  "type" : 1,
+  "question" : "المريض الذي لا يشق عليه الصوم ولا يضره ...",
+  "firstAnswer" : "يجوز له الفطر",
+  "secondAnswer" : "لا يجوز له الفطر",
+  "thirdAnswer" : "يجب عليه الفطر",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 389,
+  "number" : 29,
+  "type" : 1,
+  "question" : "صوم المريض الذي يشق عليه الصوم ولا يضره ...",
+  "firstAnswer" : "مكروه",
+  "secondAnswer" : "حرام",
+  "thirdAnswer" : "مستحب",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 390,
+  "number" : 30,
+  "type" : 1,
+  "question" : "نزول الدم في نهار رمضان بعد انتهاء الحيض والطهارة منه: ",
+  "firstAnswer" : "لا يبطل الصيام.",
+  "secondAnswer" : "يفسد الصيام وعليها القضاء فقط.",
+  "thirdAnswer" : "يفسد الصيام وعليها الإمساك والقضاء.",
+  "link" : "https://queenapp.page.link/R3R2",
+  "appNumber" : 3
+}, {
+  "id" : 391,
+  "number" : 31,
+  "type" : 1,
+  "question" : "الإبر التي لا تغذي؛ كالبنسلين والأنسولين وغيرهما ...",
+  "firstAnswer" : "تفسد الصوم",
+  "secondAnswer" : "لا تفسد الصوم",
+  "thirdAnswer" : "لا تفسد الصوم وتوجب الإطعام",
+  "link" : "8514",
+  "appNumber" : 0
+}, {
+  "id" : 392,
+  "number" : 32,
+  "type" : 1,
+  "question" : "معالجة الأسنان وقلع الضرس للصائم إذا اجتهد في عدم دخول الدم إلى جوفه ...",
+  "firstAnswer" : "لا يفسد الصوم",
+  "secondAnswer" : "يفسد الصوم ولا يلزمه الإمساك",
+  "thirdAnswer" : "يفسد الصوم ويلزمه الإمساك والقضاء ",
+  "link" : "8514",
+  "appNumber" : 0
+}, {
+  "id" : 393,
+  "number" : 33,
+  "type" : 1,
+  "question" : "أيًا من هذه التمور مناسب لمرضى السكري؟",
+  "firstAnswer" : "تمر الخضري",
+  "secondAnswer" : "تمر السكري",
+  "thirdAnswer" : "تمر الصقعي",
+  "link" : "https://rashaqa.page.link/z1bu",
+  "appNumber" : 2
+}, {
+  "id" : 394,
+  "number" : 34,
+  "type" : 1,
+  "question" : "من استعمل بخاخ ضيق التنفس وهو صائم ...",
+  "firstAnswer" : "لا يفسد صومه",
+  "secondAnswer" : "يفسد الصوم وعليه القضاء",
+  "thirdAnswer" : "يفسد الصوم وعليه القضاء والفدية.",
+  "link" : "8514",
+  "appNumber" : 0
+}, {
+  "id" : 395,
+  "number" : 35,
+  "type" : 1,
+  "question" : "أخذ الدم للتحليل ...",
+  "firstAnswer" : "يفسد الصوم",
+  "secondAnswer" : "لا يفسد الصوم ",
+  "thirdAnswer" : "يفسد الصوم وعليه الإمساك والقضاء ",
+  "link" : "8514",
+  "appNumber" : 0
+}, {
+  "id" : 396,
+  "number" : 36,
+  "type" : 1,
+  "question" : "الصحابي الذي ذكره الله تعالى في الملأ الأعلى ...",
+  "firstAnswer" : "أبو بكر الصديق",
+  "secondAnswer" : "أبيُّ بن كعب",
+  "thirdAnswer" : "عثمان ابن عفان",
+  "link" : "https://nabaa.page.link/eu1k",
+  "appNumber" : 4
+}, {
+  "id" : 397,
+  "number" : 37,
+  "type" : 1,
+  "question" : "إعطاء بنج عام أو موضعي للمريض من غير محاليل مغذية....",
+  "firstAnswer" : "يحرم لأنه يفسد الصوم",
+  "secondAnswer" : "لا يبطل الصوم",
+  "thirdAnswer" : "لا يحرم، ولكنه يفسد الصوم",
+  "link" : "8514",
+  "appNumber" : 0
+}, {
+  "id" : 398,
+  "number" : 38,
+  "type" : 1,
+  "question" : "المريض الذي لا يُرجى برؤه ولا يمكنه صيام رمضان ...",
+  "firstAnswer" : "يفطر وعليه إطعام",
+  "secondAnswer" : "يفطر وليس عليه إطعام",
+  "thirdAnswer" : "يفطر وعليه الفدية والكفارة",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 399,
+  "number" : 39,
+  "type" : 1,
+  "question" : "معنى {كَظِيمٌ} في قوله تعالى: {وَإِذَا بُشِّرَ أَحَدُهُمْ بِالْأُنْثَى ظَلَّ وَجْهُهُ مُسْوَدًّا وَهُوَ كَظِيمٌ} [النحل:58]",
+  "firstAnswer" : "مُمْتَلِئٌ غَمًّا وَحُزْنًا. ",
+  "secondAnswer" : "كاظمًا لغيظه",
+  "thirdAnswer" : "أعمى لا يبصر",
+  "link" : "https://mushafalmadinah.page.link/85Up",
+  "appNumber" : 1
+}, {
+  "id" : 400,
+  "number" : 40,
+  "type" : 1,
+  "question" : "المريض الذي لا يرجى برؤه لو عافاه الله بقدرته وكان قد أطعم.....",
+  "firstAnswer" : "لا شيء عليه",
+  "secondAnswer" : "عليه القضاء",
+  "thirdAnswer" : "عليه القضاء وإعادة الإطعام",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 401,
+  "number" : 41,
+  "type" : 1,
+  "question" : "الشيخ الكبير الذي لا يستطيع صيام رمضان ...",
+  "firstAnswer" : "يفطر وعليه إطعام",
+  "secondAnswer" : "يفطر وليس عليه إطعام",
+  "thirdAnswer" : "يفطر وعليه الفدية والكفارة",
+  "link" : "8486",
+  "appNumber" : 0
+}, {
+  "id" : 402,
+  "number" : 42,
+  "type" : 1,
+  "question" : "فتح المسلمين مدينة عمورية في العام:",
+  "firstAnswer" : "6 رمضان 223هـ",
+  "secondAnswer" : "6رمضان 232هـ",
+  "thirdAnswer" : "6رمضان322هـ",
+  "link" : "https://nabaa.page.link/3Hah",
+  "appNumber" : 4
+}, {
+  "id" : 403,
+  "number" : 43,
+  "type" : 1,
+  "question" : "صلاة التراويح...",
+  "firstAnswer" : "سنة مؤكدة",
+  "secondAnswer" : "واجبة",
+  "thirdAnswer" : "فرض كفاية",
+  "link" : "8516",
+  "appNumber" : 0
+}, {
+  "id" : 404,
+  "number" : 44,
+  "type" : 1,
+  "question" : "الأفضل في عدد ركعات قيام الليل ... ",
+  "firstAnswer" : "11 ركعة",
+  "secondAnswer" : "23 ركعة",
+  "thirdAnswer" : "40 ركعة",
+  "link" : "8516",
+  "appNumber" : 0
+}, {
+  "id" : 405,
+  "number" : 45,
+  "type" : 1,
+  "question" : "تذوق المرأة للطعام في نهار رمضان للتأكد من تسويته دون أن تبتلع شيئًا، فإنه ....",
+  "firstAnswer" : "يفسد الصيام",
+  "secondAnswer" : "لا يفسد الصيام",
+  "thirdAnswer" : "يفسد الصيام ويوجب الكفارة",
+  "link" : "https://queenapp.page.link/hs5F",
+  "appNumber" : 3
+}, {
+  "id" : 406,
+  "number" : 46,
+  "type" : 1,
+  "question" : "جمع صلاة التراويح كلها مع الوتر في سلام واحد ...",
+  "firstAnswer" : "جائز",
+  "secondAnswer" : "غير جائز",
+  "thirdAnswer" : "مستحب",
+  "link" : "8516",
+  "appNumber" : 0
+}, {
+  "id" : 407,
+  "number" : 47,
+  "type" : 1,
+  "question" : "مسح اليدين على الوجه بعد الدعاء....",
+  "firstAnswer" : "سنة",
+  "secondAnswer" : "ليس بسنة",
+  "thirdAnswer" : "واجب",
+  "link" : "8516",
+  "appNumber" : 0
+}, {
+  "id" : 408,
+  "number" : 48,
+  "type" : 1,
+  "question" : "ما هي أسوء فترة لممارسة الرياضة في رمضان؟",
+  "firstAnswer" : "بعد السحور مباشرة وفي الصباح الباكر",
+  "secondAnswer" : "وقت الظهيرة وسطوع الشمس",
+  "thirdAnswer" : "قبل الإفطار مباشرة",
+  "link" : "https://rashaqa.page.link/fw9Y",
+  "appNumber" : 2
+}, {
+  "id" : 409,
+  "number" : 49,
+  "type" : 1,
+  "question" : "إن قنت الإمام قبل الركوع وبعد القراءة، فالصلاة ....",
+  "firstAnswer" : "صحيحة",
+  "secondAnswer" : "غير صحيحة ولا يتابعه المأموم",
+  "thirdAnswer" : "غير صحيحة ويتابعه المأموم",
+  "link" : "8516",
+  "appNumber" : 0
+}, {
+  "id" : 410,
+  "number" : 50,
+  "type" : 1,
+  "question" : "إذا فات قيام الليل فإنه ... في النهار.",
+  "firstAnswer" : "يُقضى (على الراجح)",
+  "secondAnswer" : "لا يُقضى ويطعم مسكينًا",
+  "thirdAnswer" : "يطعم مسكينًا",
+  "link" : "8516",
+  "appNumber" : 0
+}, {
+  "id" : 411,
+  "number" : 51,
+  "type" : 1,
+  "question" : "معنى {غَيْرِ آسِنٍ} في قوله تعالى: {فِيهَا أَنْهَارٌ مِنْ مَاءٍ غَيْرِ آسِنٍ} [محمد:15]",
+  "firstAnswer" : "حلو غير مُرٍ ",
+  "secondAnswer" : "لا ينقطع أو ينضب.",
+  "thirdAnswer" : "غَيْرِ مُتَغَيِّرٍ، وَلَا مُنْتِنٍ.",
+  "link" : "https://mushafalmadinah.page.link/wtQ4",
+  "appNumber" : 1
+}, {
+  "id" : 412,
+  "number" : 52,
+  "type" : 1,
+  "question" : "التعبد لله بالمكث في المسجد يسمى ...؟",
+  "firstAnswer" : "قيامًا",
+  "secondAnswer" : "اعتكافًا",
+  "thirdAnswer" : "صيامًا",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 413,
+  "number" : 53,
+  "type" : 1,
+  "question" : "الاعتكاف المسنون يكون ... ",
+  "firstAnswer" : "في العشر الأوائل من رمضان",
+  "secondAnswer" : "في العشر الأواخر من رمضان",
+  "thirdAnswer" : "في العشر الثانية في رمضان",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 414,
+  "number" : 54,
+  "type" : 1,
+  "question" : "من دخل عليها وقت الصلاة وهي طاهرة ثم حاضت قبل أن تصلي...",
+  "firstAnswer" : "يستحب لها قضاء تلك الصلاة.",
+  "secondAnswer" : "لا يجب عليها قضاء تلك الصلاة.",
+  "thirdAnswer" : "يجب عليها قضاء تلك الصلاة.",
+  "link" : "https://queenapp.page.link/4AKK",
+  "appNumber" : 3
+}, {
+  "id" : 415,
+  "number" : 55,
+  "type" : 1,
+  "question" : "... الاعتكاف في غير المسجد.",
+  "firstAnswer" : "يصح",
+  "secondAnswer" : "لا يصح",
+  "thirdAnswer" : "يكره",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 416,
+  "number" : 56,
+  "type" : 1,
+  "question" : "ينعقد الاعتكاف في ... ",
+  "firstAnswer" : "أي مسجد",
+  "secondAnswer" : "أحد المساجد الثلاثة فقط",
+  "thirdAnswer" : "المسجد الحرام والمسجد النبوي",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 417,
+  "number" : 57,
+  "type" : 1,
+  "question" : "أيًا من هذه التمور غير مناسب لمرضى السكري؟",
+  "firstAnswer" : " تمر السكري",
+  "secondAnswer" : "تمر الخلاص",
+  "thirdAnswer" : "تمر البرحي",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 418,
+  "number" : 58,
+  "type" : 1,
+  "question" : "من نوى اعتكاف العشر الأواخر يدخل المسجد ...",
+  "firstAnswer" : "قبل صلاة عشاء اليوم العشرين.",
+  "secondAnswer" : "قبل غروب شمس اليوم العشرين.",
+  "thirdAnswer" : "قبل غروب شمس اليوم الحادي والعشرين.",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 419,
+  "number" : 59,
+  "type" : 1,
+  "question" : "خروج المعتكف لإيصال امرأته لبيتها ليلًا ... ",
+  "firstAnswer" : "يفسد الاعتكاف.",
+  "secondAnswer" : "لا يفسد الاعتكاف.",
+  "thirdAnswer" : "يفسد الاعتكاف ويبدأ من جديد.",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 420,
+  "number" : 60,
+  "type" : 1,
+  "question" : "كم المدة الزمنية بين غزوة بدر وفتح مكة؟",
+  "firstAnswer" : "6 سنوات",
+  "secondAnswer" : "8 سنوات",
+  "thirdAnswer" : "10 سنوات",
+  "link" : "https://nabaa.page.link/CPyG",
+  "appNumber" : 4
+}, {
+  "id" : 421,
+  "number" : 61,
+  "type" : 1,
+  "question" : "تنظيف المعتكف نفسه وترجله وتطيبه ولبسه أحسن الثياب ... اعتكافه.",
+  "firstAnswer" : "يفسد",
+  "secondAnswer" : "لا يفسد",
+  "thirdAnswer" : "يبطل",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 422,
+  "number" : 62,
+  "type" : 1,
+  "question" : "... خروج المعتكف لعيادة المريض وحضور الجنازة، إن اشترط ذلك عند الدخول في الاعتكاف.",
+  "firstAnswer" : "لا يصح",
+  "secondAnswer" : "يصح",
+  "thirdAnswer" : "يكره",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 423,
+  "number" : 63,
+  "type" : 1,
+  "question" : "معنى {مَنَاكِبِها} في قوله تعالى: {هُوَ الَّذِي جَعَلَ لَكُمُ الْأَرْضَ ذَلُولًا فَامْشُوا فِي مَنَاكِبِهَا}",
+  "firstAnswer" : "سهولها ووديانها",
+  "secondAnswer" : "نواحيها وجوانبها",
+  "thirdAnswer" : "مزارعها ومراعيها",
+  "link" : "https://mushafalmadinah.page.link/J6y1",
+  "appNumber" : 1
+}, {
+  "id" : 424,
+  "number" : 64,
+  "type" : 1,
+  "question" : "زكاة الفطر ... ",
+  "firstAnswer" : "واجبة",
+  "secondAnswer" : "سنة مؤكدة",
+  "thirdAnswer" : "مستحبة",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 425,
+  "number" : 65,
+  "type" : 1,
+  "question" : "تجب  زكاة الفطر على الصائم عندما ... ",
+  "firstAnswer" : "يبلغ ماله النصاب.",
+  "secondAnswer" : "يتوفر لديه صاع زائد عن قوته وقوت عياله يومًا وليلة.",
+  "thirdAnswer" : "يتوفر لديه طعام يكفيه سنة.",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 426,
+  "number" : 66,
+  "type" : 1,
+  "question" : "طهرت من الحيض أو النفاس قبل الفجر ولم تغتسل إلا بعد الفجر فإن صيامها...",
+  "firstAnswer" : "صحيح.",
+  "secondAnswer" : "باطل.",
+  "thirdAnswer" : "فاسد.",
+  "link" : "https://queenapp.page.link/bgiP",
+  "appNumber" : 3
+}, {
+  "id" : 427,
+  "number" : 67,
+  "type" : 1,
+  "question" : "تجب زكاة الفطر عن ... ",
+  "firstAnswer" : "المزكي ومن تلزمه نفقته ",
+  "secondAnswer" : "المزكي فقط",
+  "thirdAnswer" : "المزكي وكل قرابته",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 428,
+  "number" : 68,
+  "type" : 1,
+  "question" : "الواجب في زكاة الفطر ... (مما يعتبر قوتًا).",
+  "firstAnswer" : "صاع",
+  "secondAnswer" : "مد",
+  "thirdAnswer" : "قدح ",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 429,
+  "number" : 69,
+  "type" : 1,
+  "question" : "هل كل أنواع التمور في رمضان تناسب جميع مرضي السكر؟",
+  "firstAnswer" : "يوجد أنواع مناسبة وأنواع غير مناسبة ",
+  "secondAnswer" : "للأسف التمر غني بالسكريات، ولا يجب على مريض السكري تناوله",
+  "thirdAnswer" : "كل التمور مفيدة للمريض لأنها تنظم السكر والإنسولين في الدم",
+  "link" : "https://rashaqa.page.link/z1bu",
+  "appNumber" : 2
+}, {
+  "id" : 430,
+  "number" : 70,
+  "type" : 1,
+  "question" : "الصاع يساوي ...",
+  "firstAnswer" : "أربعة أمداد (والمد: ملء اليدين المعتدلتين)",
+  "secondAnswer" : "خمسة أمداد (والمد: ملء اليدين المعتدلتين)",
+  "thirdAnswer" : "ستة أمداد (والمد: ملء اليدين المعتدلتين)",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 431,
+  "number" : 71,
+  "type" : 1,
+  "question" : "تجب زكاة الفطر ... ",
+  "firstAnswer" : "بعد عصر آخر يوم من رمضان.",
+  "secondAnswer" : "بطلوع فجر آخر يوم من رمضان.",
+  "thirdAnswer" : "بغروب الشمس من آخر يوم من رمضان.",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 432,
+  "number" : 72,
+  "type" : 1,
+  "question" : "فتح القسطنطينية كان في عام ...",
+  "firstAnswer" : "866 هجرية ",
+  "secondAnswer" : "857 هجرية ",
+  "thirdAnswer" : "863 هجرية ",
+  "link" : "https://nabaa.page.link/kr9R",
+  "appNumber" : 4
+}, {
+  "id" : 433,
+  "number" : 73,
+  "type" : 1,
+  "question" : "تعمد تأخير زكاة الفطر عن صلاة العيد ...",
+  "firstAnswer" : "مكروه",
+  "secondAnswer" : "محرم",
+  "thirdAnswer" : "جائز",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 434,
+  "number" : 74,
+  "type" : 1,
+  "question" : "يستحب أكل تمرات أو نحوها قبل الغدو إلى صلاة عيد ... ",
+  "firstAnswer" : "الأضحى",
+  "secondAnswer" : "الفطر والأضحى",
+  "thirdAnswer" : "الفطر",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 435,
+  "number" : 75,
+  "type" : 1,
+  "question" : "تعجيل  زكاة الفطر عن وقت وجوبها بيوم أو يومين ... ",
+  "firstAnswer" : "جائز عند الجمهور.",
+  "secondAnswer" : "غير جائز",
+  "thirdAnswer" : "مكروه",
+  "link" : "8517",
+  "appNumber" : 0
+}, {
+  "id" : 436,
+  "number" : 1,
+  "type" : 2,
+  "question" : "Abstaining from things that break the fast from dawn to sunset without the intention of fasting...",
+  "firstAnswer" : "Fast is valid",
+  "secondAnswer" : "Fast no longer valid",
+  "thirdAnswer" : "Fast is valid, but he needs to feed the poor",
+  "link" : "8495",
+  "appNumber" : 0
+}, {
+  "id" : 437,
+  "number" : 2,
+  "type" : 2,
+  "question" : "He who intended to break the fast, but abstain from eating or drink, his fast is then",
+  "firstAnswer" : "Not valid",
+  "secondAnswer" : "Valid",
+  "thirdAnswer" : "Valid, needs to feed the poor",
+  "link" : "8521",
+  "appNumber" : 0
+}, {
+  "id" : 438,
+  "number" : 3,
+  "type" : 2,
+  "question" : "The sick who does not find difficulty in fasting, ",
+  "firstAnswer" : "Has an excuse to break the fast",
+  "secondAnswer" : "Does not have an excuse to break the fast",
+  "thirdAnswer" : "It is obligatory for them to fast",
+  "link" : "8520",
+  "appNumber" : 0
+}, {
+  "id" : 439,
+  "number" : 4,
+  "type" : 2,
+  "question" : "He who travels and finds difficulty in fasting, then breaking the fast is",
+  "firstAnswer" : "Obligatory",
+  "secondAnswer" : "Makruh “Not recommended”",
+  "thirdAnswer" : "Is better to break the fast",
+  "link" : "8520",
+  "appNumber" : 0
+}, {
+  "id" : 440,
+  "number" : 5,
+  "type" : 2,
+  "question" : "He who travels and does not find difficulty in fasting, ",
+  "firstAnswer" : "It is better to fast",
+  "secondAnswer" : "It is obligatory to fast",
+  "thirdAnswer" : "It is Makruh to fast",
+  "link" : "8520",
+  "appNumber" : 0
+}, {
+  "id" : 441,
+  "number" : 6,
+  "type" : 2,
+  "question" : "If the ghusl of Janabah “impurity”, menstruation or childbirth is delayed until after dawn",
+  "firstAnswer" : "The fast is no longer valid",
+  "secondAnswer" : "The fast is valid",
+  "thirdAnswer" : "The fast is not totally pure",
+  "link" : "8521",
+  "appNumber" : 0
+}, {
+  "id" : 442,
+  "number" : 7,
+  "type" : 2,
+  "question" : "If a woman who has post-partum or menstrual bleeding becomes pure during the day, then ",
+  "firstAnswer" : "She Should not make up for that day",
+  "secondAnswer" : "She Should make up for that day",
+  "thirdAnswer" : "It is Musthab “Recommended” to make up for that day",
+  "link" : "8521",
+  "appNumber" : 0
+}, {
+  "id" : 443,
+  "number" : 8,
+  "type" : 2,
+  "question" : "Injections that are not for the purpose of nutrition, such as penicillin, insulin, etc ",
+  "firstAnswer" : "Does not break the fast",
+  "secondAnswer" : "Breaks the fast",
+  "thirdAnswer" : "Does not break the fast, but needs to feed the poor.",
+  "link" : "8522",
+  "appNumber" : 0
+}, {
+  "id" : 444,
+  "number" : 9,
+  "type" : 2,
+  "question" : "If the fasting person performs dental treatment and molar extraction, but made sure the blood does not reach the throat.",
+  "firstAnswer" : "The fast is valid",
+  "secondAnswer" : "The fast is not valid, they may eat or drink",
+  "thirdAnswer" : "The fast is not valid, but they cannot eat nor drink",
+  "link" : "8522",
+  "appNumber" : 0
+}, {
+  "id" : 445,
+  "number" : 10,
+  "type" : 2,
+  "question" : "He who had a wet dream on a Ramadan day",
+  "firstAnswer" : "Fasting remains valid",
+  "secondAnswer" : "Fast is no longer valid, the day should be made up",
+  "thirdAnswer" : "Fasting is no longer valid; the day should be made up and to offer Kaffarah “Compensation”",
+  "link" : "8522",
+  "appNumber" : 0
+}, {
+  "id" : 446,
+  "number" : 11,
+  "type" : 2,
+  "question" : "He who used an inhaler while fasting",
+  "firstAnswer" : "Fasting is no longer valid, needs to make up the day",
+  "secondAnswer" : "Fasting is no longer valid, needs to make up the day and to pay a charitable form of compensation.",
+  "thirdAnswer" : "Fasting remains valid",
+  "link" : "8522",
+  "appNumber" : 0
+}, {
+  "id" : 447,
+  "number" : 12,
+  "type" : 2,
+  "question" : "Does a blood test break the fast?",
+  "firstAnswer" : "Does not break the fast",
+  "secondAnswer" : "Breaks the fast",
+  "thirdAnswer" : "Breaks the fast, should abstain from eating or drinking and to make up the day.",
+  "link" : "8522",
+  "appNumber" : 0
+}, {
+  "id" : 448,
+  "number" : 13,
+  "type" : 2,
+  "question" : "If water reaches the throat unintentionally by rinsing the mouth, sniffing, or washing",
+  "firstAnswer" : "Breaks the fast, not sinning",
+  "secondAnswer" : "Does not break the fast",
+  "thirdAnswer" : "Breaks the fast, sinning",
+  "link" : "8522",
+  "appNumber" : 0
+}, {
+  "id" : 449,
+  "number" : 14,
+  "type" : 2,
+  "question" : "If a patient does not receive nutrient solutions, then anesthesia",
+  "firstAnswer" : "Is Haram to use, it breaks the fast",
+  "secondAnswer" : "Does not break the fast",
+  "thirdAnswer" : "Not Haram to use, however breaks the fast",
+  "link" : "8522",
+  "appNumber" : 0
+}, {
+  "id" : 450,
+  "number" : 15,
+  "type" : 2,
+  "question" : "Whoever delays making up for Ramadan for an excuse until after the next Ramadan",
+  "firstAnswer" : "Should make up the missed days, needs to feed the poor",
+  "secondAnswer" : "Should make up the missed days, and to pay a charitable form of compensation",
+  "thirdAnswer" : "Should make up the missed days, does not need to feed the poor",
+  "link" : "8522",
+  "appNumber" : 0
+}, {
+  "id" : 451,
+  "number" : 16,
+  "type" : 2,
+  "question" : "Whoever delays making up the missed days until after the next Ramadan without an excuse, then he is sinning",
+  "firstAnswer" : "Should make up the missed days, does not need to feed the poor",
+  "secondAnswer" : "Should make up the missed days, needs to pay a charitable form of compensation",
+  "thirdAnswer" : "Needs to compensate, does not need to make up the missed days",
+  "link" : "8522",
+  "appNumber" : 0
+}, {
+  "id" : 452,
+  "number" : 17,
+  "type" : 2,
+  "question" : "The old man who finds difficulty in fasting",
+  "firstAnswer" : "Does not need to fast, nor to feed the poor",
+  "secondAnswer" : "Does not need to fast, needs to feed the poor and to pay a charitable form of compensation",
+  "thirdAnswer" : "Does not need to fast, needs to feed the poor",
+  "link" : "8522",
+  "appNumber" : 0
+}, {
+  "id" : 453,
+  "number" : 18,
+  "type" : 2,
+  "question" : "The patient whose recovery is not hoped for and who cannot fast Ramadan",
+  "firstAnswer" : "Does not need to fast, needs to feed the poor",
+  "secondAnswer" : "Does not need to fast, nor to feed the poor",
+  "thirdAnswer" : "Does not need to fast, needs to feed the poor and to pay a charitable form of compensation",
+  "link" : "8521",
+  "appNumber" : 0
+}, {
+  "id" : 454,
+  "number" : 19,
+  "type" : 2,
+  "question" : "Pregnant and breastfeeding women, if they break their fast for fear of themselves or their children,",
+  "firstAnswer" : "Should make up the missed days and to feed the poor",
+  "secondAnswer" : "Should only feed the poor.",
+  "thirdAnswer" : "Should make up the missed days only “The soundest opinion”",
+  "link" : "8521",
+  "appNumber" : 0
+}, {
+  "id" : 455,
+  "number" : 20,
+  "type" : 2,
+  "question" : "He who had a wet dream",
+  "firstAnswer" : "He should make up the day",
+  "secondAnswer" : "He should feed the poor",
+  "thirdAnswer" : "His fast is valid",
+  "link" : "8521",
+  "appNumber" : 0
+}, {
+  "id" : 456,
+  "number" : 21,
+  "type" : 2,
+  "question" : "The fasting of the patient who finds difficulty in fasting, however it does not harm him",
+  "firstAnswer" : "Haram “Forbidden”",
+  "secondAnswer" : "Makruh “Not recommended”",
+  "thirdAnswer" : "Mustahab “Recommended”",
+  "link" : "8521",
+  "appNumber" : 0
+}, {
+  "id" : 457,
+  "number" : 22,
+  "type" : 2,
+  "question" : "He who travels in Ramadan and breaks their fast",
+  "firstAnswer" : "Makes up and feeds the poor for each missed day",
+  "secondAnswer" : "Only feeds the poor for each missed day",
+  "thirdAnswer" : "Makes up the missed days only",
+  "link" : "8521",
+  "appNumber" : 0
+}, {
+  "id" : 458,
+  "number" : 23,
+  "type" : 2,
+  "question" : "It a person does not find difficulty in fasting while traveling nor fasting harms them by any means",
+  "firstAnswer" : "It’s preferable to not fast",
+  "secondAnswer" : "It’s preferable to fast",
+  "thirdAnswer" : "He is entitled to choose whether to fast",
+  "link" : "8521",
+  "appNumber" : 0
+}, {
+  "id" : 459,
+  "number" : 24,
+  "type" : 2,
+  "question" : "If a menstruating woman and breastfeeding during postpartum break their fast, they must",
+  "firstAnswer" : "Feed the poor only",
+  "secondAnswer" : "Make up the missed days only",
+  "thirdAnswer" : "Make up the missed days and to compensate",
+  "link" : "8521",
+  "appNumber" : 0
+}, {
+  "id" : 460,
+  "number" : 25,
+  "type" : 2,
+  "question" : "The day of doubt is",
+  "firstAnswer" : "29th of Shaban",
+  "secondAnswer" : "28th of Shaban",
+  "thirdAnswer" : "30th of Shaban, if the moon is not sighted",
+  "link" : "8519",
+  "appNumber" : 0
+}, {
+  "id" : 461,
+  "number" : 26,
+  "type" : 2,
+  "question" : "Fasting the day of doubt for He who used to fast it",
+  "firstAnswer" : "Haram",
+  "secondAnswer" : "Permissible",
+  "thirdAnswer" : "Makruh",
+  "link" : "8519",
+  "appNumber" : 0
+}, {
+  "id" : 462,
+  "number" : 27,
+  "type" : 2,
+  "question" : "Kuhl and eyedrops for a fasting person",
+  "firstAnswer" : "Haram",
+  "secondAnswer" : "Mustahab",
+  "thirdAnswer" : "Permissible, soundest opinion",
+  "link" : "8522",
+  "appNumber" : 0
+}, {
+  "id" : 463,
+  "number" : 28,
+  "type" : 2,
+  "question" : "If dawn is due and the fasting person has food in his mouth, then",
+  "firstAnswer" : "It is not obligatory to spit out the food",
+  "secondAnswer" : "It is obligatory to spit out that food",
+  "thirdAnswer" : "It is Mustahab to spit out that food",
+  "link" : "8522",
+  "appNumber" : 0
+}, {
+  "id" : 464,
+  "number" : 29,
+  "type" : 2,
+  "question" : "Vomiting while fasting",
+  "firstAnswer" : "Breaks the fast it was intentional",
+  "secondAnswer" : "Always breaks the fast",
+  "thirdAnswer" : "Does not break fast, at all times",
+  "link" : "8522",
+  "appNumber" : 0
+}, {
+  "id" : 465,
+  "number" : 30,
+  "type" : 2,
+  "question" : "Semen ejection as a result of kissing, touching or masturbating",
+  "firstAnswer" : "Breaks the fast, needs to make up the day",
+  "secondAnswer" : "Does not break the fast",
+  "thirdAnswer" : "Breaks the fast, needs to feed the poor",
+  "link" : "8522",
+  "appNumber" : 0
+}, {
+  "id" : 466,
+  "number" : 31,
+  "type" : 2,
+  "question" : "Urethral fluid ejection",
+  "firstAnswer" : "Breaks the fast",
+  "secondAnswer" : "Does not break the fast",
+  "thirdAnswer" : "Does not break the fast, but needs to do Ghusl",
+  "link" : "8522",
+  "appNumber" : 0
+}, {
+  "id" : 467,
+  "number" : 32,
+  "type" : 2,
+  "question" : "He ate thinking that the sun had set or that the dawn had not yet appeared, and it turned out otherwise",
+  "firstAnswer" : "Does not need to make up the day “Soundest opinion”",
+  "secondAnswer" : "Should make up the day “Soundest opinion”",
+  "thirdAnswer" : "Needs only to feed the poor “Soundest opinion”",
+  "link" : "8522",
+  "appNumber" : 0
+}, {
+  "id" : 468,
+  "number" : 33,
+  "type" : 2,
+  "question" : "Martial sexual intercourse during a Ramadan day",
+  "firstAnswer" : "You should make up the day and pay a charitable form of compensation",
+  "secondAnswer" : "You should only make up the day",
+  "thirdAnswer" : "You should only pay a charitable form of compensation",
+  "link" : "8522",
+  "appNumber" : 0
+}, {
+  "id" : 469,
+  "number" : 34,
+  "type" : 2,
+  "question" : "A woman fasts voluntarily and her husband is available",
+  "firstAnswer" : "Permissible only if she has his permission",
+  "secondAnswer" : "Always permissible",
+  "thirdAnswer" : "Not permissible at all times",
+  "link" : "8522",
+  "appNumber" : 0
+}, {
+  "id" : 470,
+  "number" : 35,
+  "type" : 2,
+  "question" : "Zakat Al Fitr",
+  "firstAnswer" : "Confirmed Sunnah",
+  "secondAnswer" : "Obligatory",
+  "thirdAnswer" : "Mustahab",
+  "link" : "8524",
+  "appNumber" : 0
+}, {
+  "id" : 471,
+  "number" : 36,
+  "type" : 2,
+  "question" : "Zakat al-Fitr is obligatory upon the fasting person",
+  "firstAnswer" : "If his money reaches Nisab",
+  "secondAnswer" : "He has a saa’ in excess of his food and that of his family, day and night",
+  "thirdAnswer" : "He has enough food for a year",
+  "link" : "8524",
+  "appNumber" : 0
+}, {
+  "id" : 472,
+  "number" : 37,
+  "type" : 2,
+  "question" : "Zakat Al Fitr is obligatory for",
+  "firstAnswer" : "He who gives it",
+  "secondAnswer" : "He who gives it and his dependents",
+  "thirdAnswer" : "He who gives it and all of His relatives",
+  "link" : "8524",
+  "appNumber" : 0
+}, {
+  "id" : 473,
+  "number" : 38,
+  "type" : 2,
+  "question" : "Zakat Al Fitr must include  “Of enough eating for an adult”",
+  "firstAnswer" : "One Saa’",
+  "secondAnswer" : "One Madd",
+  "thirdAnswer" : "What’s equivalent to a cup",
+  "link" : "8524",
+  "appNumber" : 0
+}, {
+  "id" : 474,
+  "number" : 39,
+  "type" : 2,
+  "question" : "Saa’ is equal to",
+  "firstAnswer" : "Four Madds (and madd: Handful of two moderate hands)",
+  "secondAnswer" : "Three madds",
+  "thirdAnswer" : "Five Madds",
+  "link" : "8524",
+  "appNumber" : 0
+}, {
+  "id" : 475,
+  "number" : 40,
+  "type" : 2,
+  "question" : "Zakat Al Fitr is due by",
+  "firstAnswer" : "By sunset on the night of the Eid",
+  "secondAnswer" : "By dawn of the day of Eid",
+  "thirdAnswer" : "By dawn of the last day of Ramadan",
+  "link" : "8524",
+  "appNumber" : 0
+}, {
+  "id" : 476,
+  "number" : 41,
+  "type" : 2,
+  "question" : "Hastening to perform Zakat Al-Fitr from the time it is due by one or two days",
+  "firstAnswer" : "Permissible according to majority of scholars",
+  "secondAnswer" : "Not permissible",
+  "thirdAnswer" : "Makruh",
+  "link" : "8524",
+  "appNumber" : 0
+}, {
+  "id" : 477,
+  "number" : 42,
+  "type" : 2,
+  "question" : "Deliberately delaying zakat al-Fitr after the Eid prayer",
+  "firstAnswer" : "Haram",
+  "secondAnswer" : "Makruh",
+  "thirdAnswer" : "Permissible",
+  "link" : "8524",
+  "appNumber" : 0
+}, {
+  "id" : 478,
+  "number" : 43,
+  "type" : 2,
+  "question" : "Taraweeh prayer is",
+  "firstAnswer" : "Confirmed Sunnah",
+  "secondAnswer" : "Obligatory",
+  "thirdAnswer" : "Fard Kifayah “Sufficiency duty”",
+  "link" : "8524",
+  "appNumber" : 0
+}, {
+  "id" : 479,
+  "number" : 44,
+  "type" : 2,
+  "question" : "The best number of rak'ahs of the night prayer",
+  "firstAnswer" : "11 Rakaa",
+  "secondAnswer" : "23 Rakaa",
+  "thirdAnswer" : "40 Rakaa",
+  "link" : "8524",
+  "appNumber" : 0
+}, {
+  "id" : 480,
+  "number" : 45,
+  "type" : 2,
+  "question" : "Combining all Tarawih prayers with Witr in one Salam",
+  "firstAnswer" : "Permissible",
+  "secondAnswer" : "Not permissible",
+  "thirdAnswer" : "Mustahab",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 481,
+  "number" : 46,
+  "type" : 2,
+  "question" : "Going over the face with your hands after Duaa is",
+  "firstAnswer" : "Sunnah",
+  "secondAnswer" : "Not Sunnah",
+  "thirdAnswer" : "Obligatory",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 482,
+  "number" : 47,
+  "type" : 2,
+  "question" : "If the imam recites before bowing and after reciting, then the prayer",
+  "firstAnswer" : "Not valid, the AI-Ma'moom should not follow Imam",
+  "secondAnswer" : "Valid",
+  "thirdAnswer" : "Not valid, the AI-Ma'moom should follow Imam",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 483,
+  "number" : 48,
+  "type" : 2,
+  "question" : "Whoever delays making up missed days from last Ramadan until the next Ramadan without an excuse, then he is sinning",
+  "firstAnswer" : "Needs to make up the missed days and to feed the poor",
+  "secondAnswer" : "Needs to make up the missed days, but does not need to feed the poor",
+  "thirdAnswer" : "Needs to feed the poor, does not need to make up the missed days",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 484,
+  "number" : 49,
+  "type" : 2,
+  "question" : "Supererogatory fasting before making up for the missed days, if there is time",
+  "firstAnswer" : "Not permissible",
+  "secondAnswer" : "Permissible",
+  "thirdAnswer" : "Makru “Not recommended”",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 485,
+  "number" : 50,
+  "type" : 2,
+  "question" : "If a sick person whose recovery is hoped for misses Ramadan",
+  "firstAnswer" : "Fasting remains obligatory for him until he recovers",
+  "secondAnswer" : "He needs to feed the poor, does not need to make up the missed days",
+  "thirdAnswer" : "Needs to make up the missed days and to feed the poor",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 486,
+  "number" : 51,
+  "type" : 2,
+  "question" : "The patient whose recovery is not hoped for if Allah healed him and he had fed the poor",
+  "firstAnswer" : "He has to make up for the missed days",
+  "secondAnswer" : "He has to make up for the missed days and to re-feed the poor",
+  "thirdAnswer" : "He is all set",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 487,
+  "number" : 52,
+  "type" : 2,
+  "question" : "He died and had missed fasting days Ramadan, and he was able to make up for it, but he did not",
+  "firstAnswer" : "Their next of kin feeds the poor of His money",
+  "secondAnswer" : "Their next of kin makes the days up on their behalf",
+  "thirdAnswer" : "Their next of kin makes the days up on their behalf and feeds the poor from His money",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 488,
+  "number" : 53,
+  "type" : 2,
+  "question" : "If Eid coincides with the Friday prayer... for the one who prays the Eid prayer, can miss the Friday prayer, and he should pray as Dhur",
+  "firstAnswer" : "Not permissible",
+  "secondAnswer" : "Permissible",
+  "thirdAnswer" : "Makruh “Not recommended”",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 489,
+  "number" : 54,
+  "type" : 2,
+  "question" : "It is Mustahab to eat dates before going to Eid",
+  "firstAnswer" : "Al Adha",
+  "secondAnswer" : "Both the Eids",
+  "thirdAnswer" : "Al Fitr",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 490,
+  "number" : 55,
+  "type" : 2,
+  "question" : "Adhan and Iqamah for Eid prayer is",
+  "firstAnswer" : "Sunnah",
+  "secondAnswer" : "Not permissible",
+  "thirdAnswer" : "Permissible",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 491,
+  "number" : 56,
+  "type" : 2,
+  "question" : "He who missed Eid prayer",
+  "firstAnswer" : "Does not need to make the prayer up, the soundest opinion",
+  "secondAnswer" : "Should make the prayer up",
+  "thirdAnswer" : "Does not need to make the prayer up, needs to feed the poor",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 492,
+  "number" : 57,
+  "type" : 2,
+  "question" : "The Itikaf that is not performed in Masjid is",
+  "firstAnswer" : "Not valid",
+  "secondAnswer" : "Valid",
+  "thirdAnswer" : "Makruh “Not recommended”",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 493,
+  "number" : 58,
+  "type" : 2,
+  "question" : "Itikaf should be performed in",
+  "firstAnswer" : "One of the three Masjids only",
+  "secondAnswer" : "Any Masjid",
+  "thirdAnswer" : "Masjid Al Haram or Masjid Al Nabawi only",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 494,
+  "number" : 59,
+  "type" : 2,
+  "question" : "Whoever intends to observe i'tikaf during the last ten days enters the Masjid",
+  "firstAnswer" : "Before Isha prayer of the twentieth day",
+  "secondAnswer" : "Before sunset on the twentieth day",
+  "thirdAnswer" : "Before sunset on the twenty-first day",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 495,
+  "number" : 60,
+  "type" : 2,
+  "question" : "If a person who is in I'tikaaf goes out to take his wife home at night",
+  "firstAnswer" : "Itikaf remains valid",
+  "secondAnswer" : "Renders Itikaf invalid",
+  "thirdAnswer" : "Renders Itikaf invalid, should start Itikaf over",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 496,
+  "number" : 61,
+  "type" : 2,
+  "question" : "If a person in i'tikaaf cleans himself, put on perfumes and the best clothes",
+  "firstAnswer" : "Renders Itikaf invalid",
+  "secondAnswer" : "Itikaf remains valid",
+  "thirdAnswer" : "It is Makruh “Recommended”",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 497,
+  "number" : 62,
+  "type" : 2,
+  "question" : "Leaving the person who is in i'tikaaf for an urgent need, such as visiting the sick and attending a funeral, if this is stipulated when entering into i'tikaaf",
+  "firstAnswer" : "Not permissible",
+  "secondAnswer" : "Permissible",
+  "thirdAnswer" : "Makruh “Not recommended”",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 498,
+  "number" : 63,
+  "type" : 2,
+  "question" : "Fasting, by definition is",
+  "firstAnswer" : "Hunger",
+  "secondAnswer" : "Abstaining",
+  "thirdAnswer" : "Thirst",
+  "link" : "8495",
+  "appNumber" : 0
+}, {
+  "id" : 499,
+  "number" : 64,
+  "type" : 2,
+  "question" : "One intention to fast the entire Ramadan is",
+  "firstAnswer" : "Sufficient, soundest opinion",
+  "secondAnswer" : "Not sufficient",
+  "thirdAnswer" : "Sufficient for only the half of Ramadan",
+  "link" : "8495",
+  "appNumber" : 0
+}, {
+  "id" : 500,
+  "number" : 65,
+  "type" : 2,
+  "question" : "Using and inhaling perfume",
+  "firstAnswer" : "Breaks the fast only",
+  "secondAnswer" : "Does not break the fast",
+  "thirdAnswer" : "Breaks the fast, is sinning",
+  "link" : "8522",
+  "appNumber" : 0
+}, {
+  "id" : 501,
+  "number" : 66,
+  "type" : 2,
+  "question" : "The fasting of a menstruating woman is",
+  "firstAnswer" : "Valid",
+  "secondAnswer" : "Not valid",
+  "thirdAnswer" : "Haram",
+  "link" : "8521",
+  "appNumber" : 0
+}, {
+  "id" : 502,
+  "number" : 67,
+  "type" : 2,
+  "question" : "The one who eats and suspects Fajr is due in Ramadan, this is",
+  "firstAnswer" : "Permissible",
+  "secondAnswer" : "Not permissible",
+  "thirdAnswer" : "Makruh “Not recommended”",
+  "link" : "8520",
+  "appNumber" : 0
+}, {
+  "id" : 503,
+  "number" : 68,
+  "type" : 2,
+  "question" : "The best fast after Ramadan is fasting",
+  "firstAnswer" : "Muharam",
+  "secondAnswer" : "Shawwal",
+  "thirdAnswer" : "Shaban",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 504,
+  "number" : 69,
+  "type" : 2,
+  "question" : "Zakat Al Fitr",
+  "firstAnswer" : "Obligatory",
+  "secondAnswer" : "Confirmed Sunnah",
+  "thirdAnswer" : "Mustahab “Recommended",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 505,
+  "number" : 70,
+  "type" : 2,
+  "question" : "Delaying zakat Al-fitr until after the Eid prayer",
+  "firstAnswer" : "Not permissible",
+  "secondAnswer" : "Permissible",
+  "thirdAnswer" : "Mustahab “Recommended",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 506,
+  "number" : 71,
+  "type" : 2,
+  "question" : "IF you miss Qyam, then you should do.. in the following morning",
+  "firstAnswer" : "Should feed the poor",
+  "secondAnswer" : "Make up the missed Qyam, soundest opinion",
+  "thirdAnswer" : "Does not need to make up the missed Qyam, but should feed the poor",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 507,
+  "number" : 72,
+  "type" : 2,
+  "question" : "It is best to pray Eid in",
+  "firstAnswer" : "The Masjid",
+  "secondAnswer" : "In Eid designated avenues",
+  "thirdAnswer" : "At home",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 508,
+  "number" : 73,
+  "type" : 2,
+  "question" : "If people knew the arrival of Shawwal on the afternoon of Eid",
+  "firstAnswer" : "Prays Eid on the following day",
+  "secondAnswer" : "Should perform Eid immediately",
+  "thirdAnswer" : "Should not perform Eid",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 509,
+  "number" : 74,
+  "type" : 2,
+  "question" : "devoting oneself to ibadah by staying in a mosque for a certain number of days is called",
+  "firstAnswer" : "Qyam",
+  "secondAnswer" : "Fasting",
+  "thirdAnswer" : "Itikaf",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 510,
+  "number" : 75,
+  "type" : 2,
+  "question" : "Sunnah entails that Itikaf should be performed in",
+  "firstAnswer" : "The last ten nights of Ramadan",
+  "secondAnswer" : "The first ten night of Ramadan",
+  "thirdAnswer" : "From the 10th through the 20th of Ramadan",
+  "link" : "8525",
+  "appNumber" : 0
+}, {
+  "id" : 511,
+  "number" : 1,
+  "type" : 3,
+  "question" : "Menahan diri dari hal-hal yang membatalkan puasa dari terbit fajar hingga terbenamnya matahari tanpa niat puasa, maka…",
+  "firstAnswer" : "Dianggap berpuasa",
+  "secondAnswer" : "Tidak dianggap berpuasa",
+  "thirdAnswer" : "Dianggap berpuasa dan harus memberi makan",
+  "link" : "8505",
+  "appNumber" : 0
+}, {
+  "id" : 512,
+  "number" : 2,
+  "type" : 3,
+  "question" : "Jika seseorang bertekad untuk berbuka, meskipun dia tidak makan atau minum, maka puasanya …",
+  "firstAnswer" : "Tidak sah",
+  "secondAnswer" : "Sah",
+  "thirdAnswer" : "Sah dan dia harus memberi makan",
+  "link" : "8510",
+  "appNumber" : 0
+}, {
+  "id" : 513,
+  "number" : 3,
+  "type" : 3,
+  "question" : "Orang sakit yang puasanya tidak menyulitkan dan tidak berbahaya baginya, maka…",
+  "firstAnswer" : "Tidak diperbolehkan berbuka puasa",
+  "secondAnswer" : "Dibolehkan baginya untuk tidak berpuasa",
+  "thirdAnswer" : "Harus berbuka puasa",
+  "link" : "8509",
+  "appNumber" : 0
+}, {
+  "id" : 514,
+  "number" : 4,
+  "type" : 3,
+  "question" : "Jika seorang musafir terlalu sulit untuk berpuasa, maka berbuka….",
+  "firstAnswer" : "Lebih utama",
+  "secondAnswer" : "Wajib",
+  "thirdAnswer" : "Makruh",
+  "link" : "8509",
+  "appNumber" : 0
+}, {
+  "id" : 515,
+  "number" : 5,
+  "type" : 3,
+  "question" : "Jika berbuka dan puasa bagi musafir sama saja, maka puasa…",
+  "firstAnswer" : "Lebih utama",
+  "secondAnswer" : "Wajib",
+  "thirdAnswer" : "Makruh",
+  "link" : "8509",
+  "appNumber" : 0
+}, {
+  "id" : 516,
+  "number" : 6,
+  "type" : 3,
+  "question" : "Jika mandi junub, haid atau nifas ditunda sampai setelah subuh, maka…",
+  "firstAnswer" : "Puasanya salah",
+  "secondAnswer" : "Puasanya sah",
+  "thirdAnswer" : "Puasanya tidak sah",
+  "link" : "8510",
+  "appNumber" : 0
+}, {
+  "id" : 517,
+  "number" : 7,
+  "type" : 3,
+  "question" : "maka pada hari itu?",
+  "firstAnswer" : "Dia tidak wajib Qadha’/mengganti",
+  "secondAnswer" : "Dia wajib mengganti",
+  "thirdAnswer" : "Dia disunahkan mengganti",
+  "link" : "8510",
+  "appNumber" : 0
+}, {
+  "id" : 518,
+  "number" : 8,
+  "type" : 3,
+  "question" : "Jarum suntik yang tidak memberikan nutrisi/gizi; Seperti penisilin, insulin dll, hukumnya?",
+  "firstAnswer" : "Tidak membatalkan puasa",
+  "secondAnswer" : "Membatalkan puasa",
+  "thirdAnswer" : "Tidak membatalkan puasa dan wajib memberi makan",
+  "link" : "8511",
+  "appNumber" : 0
+}, {
+  "id" : 519,
+  "number" : 9,
+  "type" : 3,
+  "question" : "Pengobatan gigi dan cabut geraham bagi orang yang berpuasa jika dia berusaha mencegah darah masuk ke tenggorokannya, maka…",
+  "firstAnswer" : "Tidak membatalkan puasa",
+  "secondAnswer" : "Puasa batal dan tidak perlu menahan puasa",
+  "thirdAnswer" : "Membatalkan puasa dan mesti menahan puasa dan qadha",
+  "link" : "8511",
+  "appNumber" : 0
+}, {
+  "id" : 520,
+  "number" : 10,
+  "type" : 3,
+  "question" : "Siapa yang mengalami mimpi basah di siang hari bulan Ramadhan saat ia sedang tidur, maka…",
+  "firstAnswer" : "Tidak membatalkan puasa",
+  "secondAnswer" : "Puasanya batal dan harus qadha",
+  "thirdAnswer" : "Puasanya batal dan dia wajib mengqadha dan membayar Kafarat",
+  "link" : "8511",
+  "appNumber" : 0
+}, {
+  "id" : 521,
+  "number" : 11,
+  "type" : 3,
+  "question" : "Orang yang menggunakan spray Asma/sesak napas saat berpuasa maka…",
+  "firstAnswer" : "Puasanya batal dan wajib mengqadha",
+  "secondAnswer" : "Puasanya batal, wajib mengqadha dan membayar fidyah.",
+  "thirdAnswer" : "Puasanya tidak batal",
+  "link" : "8511",
+  "appNumber" : 0
+}, {
+  "id" : 522,
+  "number" : 12,
+  "type" : 3,
+  "question" : "Mengambil darah untuk pemeriksaan…",
+  "firstAnswer" : "Tidak membatalkan puasa",
+  "secondAnswer" : "Membatalkan puasa",
+  "thirdAnswer" : "Puasanya batal dan wajib menahan dan mengqadha",
+  "link" : "8511",
+  "appNumber" : 0
+}, {
+  "id" : 523,
+  "number" : 13,
+  "type" : 3,
+  "question" : "Air yang masuk ke tenggorokan secara tidak sengaja dengan berkumur, mengendus, atau membasuh…",
+  "firstAnswer" : "Hanya membatalkan puasa",
+  "secondAnswer" : "Tidak membatalkan puasa",
+  "thirdAnswer" : "Puasa batal dan berdosa",
+  "link" : "8511",
+  "appNumber" : 0
+}, {
+  "id" : 524,
+  "number" : 14,
+  "type" : 3,
+  "question" : "Jika pasien tidak diberikan larutan nutrisi, saat anestesi umum dan lokal, maka…",
+  "firstAnswer" : "Dilarang menggunakannya bagi orang yang berpuasa karena membatalkan puasa",
+  "secondAnswer" : "Tidak membatalkan puasa",
+  "thirdAnswer" : "Tidak dilarang menggunakannya, tetapi membatalkan puasa",
+  "link" : "8511",
+  "appNumber" : 0
+}, {
+  "id" : 525,
+  "number" : 15,
+  "type" : 3,
+  "question" : "Siapa yang menunda mengqadha Ramadhan karena suatu uzur sampai setelah Ramadhan berikutnya…",
+  "firstAnswer" : "Dia wajib berpuasa dan makan",
+  "secondAnswer" : "Dia wajib berpuasa beserta bayar kafarat",
+  "thirdAnswer" : "Dia wajib berpuasa dan tidak wajib memberi makan",
+  "link" : "8511",
+  "appNumber" : 0
+}, {
+  "id" : 526,
+  "number" : 16,
+  "type" : 3,
+  "question" : "Siapa yang menunda mengqadha sampai setelah Ramadhan berikutnya tanpa uzur, maka ia berdosa…",
+  "firstAnswer" : "Wajib Mengqadhanya dan tidak memberi makan",
+  "secondAnswer" : "Wajib Qadha dan bayar Fidyah",
+  "thirdAnswer" : "Wajib bayar Fidyah, dan tidak wajib qadha",
+  "link" : "8511",
+  "appNumber" : 0
+}, {
+  "id" : 527,
+  "number" : 17,
+  "type" : 3,
+  "question" : "Orang tua renta yang tidak sanggup berpuasa Ramadhan...",
+  "firstAnswer" : "Dia berbuka dan tidak wajib memberi makan",
+  "secondAnswer" : "Dia berbuka, wajib membayar fidyah dan kafarat",
+  "thirdAnswer" : "Dia berbuka puasa dan wajib memberi makan",
+  "link" : "8511",
+  "appNumber" : 0
+}, {
+  "id" : 528,
+  "number" : 18,
+  "type" : 3,
+  "question" : "Pasien yang tidak bisa diharapkan sembuh dan tidak bisa berpuasa Ramadhan...",
+  "firstAnswer" : "Dia berbuka puasa dan wajib memberi makan",
+  "secondAnswer" : "Dia berbuka dan tidak wajib memberi makan",
+  "thirdAnswer" : "Dia berbuka, wajib membayar fidyah dan kafarat",
+  "link" : "8510",
+  "appNumber" : 0
+}, {
+  "id" : 529,
+  "number" : 19,
+  "type" : 3,
+  "question" : "Jika ibu hamil dan menyusui tidak berpuasa karena takut terhadap diri sendiri atau anaknya, maka mereka...",
+  "firstAnswer" : "Mengqadha dan memberi makan",
+  "secondAnswer" : "Hanya memberi makan",
+  "thirdAnswer" : "Hanya mengqadha",
+  "link" : "8510",
+  "appNumber" : 0
+}, {
+  "id" : 530,
+  "number" : 20,
+  "type" : 3,
+  "question" : "Siapa yang mengalami mimpi basah saat sedang tidur...",
+  "firstAnswer" : "Wajib Qadha",
+  "secondAnswer" : "Wajib memberi makan",
+  "thirdAnswer" : "Puasanya sah",
+  "link" : "8510",
+  "appNumber" : 0
+}, {
+  "id" : 531,
+  "number" : 21,
+  "type" : 3,
+  "question" : "Puasa orang sakit yang kesulitan berpuasa namun tidak membahayakannya, hukumnya...",
+  "firstAnswer" : "Haram",
+  "secondAnswer" : "Makruh",
+  "thirdAnswer" : "Sunah",
+  "link" : "8510",
+  "appNumber" : 0
+}, {
+  "id" : 532,
+  "number" : 22,
+  "type" : 3,
+  "question" : "Jika seorang musafir berbuka puasa di bulan Ramadhan, maka dia...",
+  "firstAnswer" : "Mengqadha dan memberi makan 1 orang miskin setiap hari",
+  "secondAnswer" : "Hanya memberi makan 1 orang miskin setiap hari",
+  "thirdAnswer" : "Hanya mengqadha",
+  "link" : "8510",
+  "appNumber" : 0
+}, {
+  "id" : 533,
+  "number" : 23,
+  "type" : 3,
+  "question" : "Jika berbuka puasa dan berpuasa sama saja, yaitu tidak ada perbedaan antara keduanya bagi musafir dan tidak menyebabkan bahaya atau efek negatif, maka …",
+  "firstAnswer" : "Lebih utama tidak berpuasa",
+  "secondAnswer" : "Lebih utama berpuasa",
+  "thirdAnswer" : "Berbuka puasa dan puasa sama saja kedudukannya",
+  "link" : "8510",
+  "appNumber" : 0
+}, {
+  "id" : 534,
+  "number" : 24,
+  "type" : 3,
+  "question" : "Jika wanita haid dan nifas berbuka puasa, mereka harus...",
+  "firstAnswer" : "Memberi makan saja",
+  "secondAnswer" : "Qadha saja",
+  "thirdAnswer" : "Qadha & memberi makan",
+  "link" : "8510",
+  "appNumber" : 0
+}, {
+  "id" : 535,
+  "number" : 25,
+  "type" : 3,
+  "question" : "Hari keraguan adalah…",
+  "firstAnswer" : "Hari ke-29 bulan Sya'ban",
+  "secondAnswer" : "Hari ke-28 bulan Sya'ban",
+  "thirdAnswer" : "Hari ke-30 bulan Sya'ban, jika hilal Ramadhan tidak terlihat",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 536,
+  "number" : 26,
+  "type" : 3,
+  "question" : "Berpuasa di hari keraguan yang bertepatan bagi orang yang biasa berpuasa, hukumnya…",
+  "firstAnswer" : "Haram",
+  "secondAnswer" : "Mubah",
+  "thirdAnswer" : "Makruh",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 537,
+  "number" : 27,
+  "type" : 3,
+  "question" : "Celak dan obat tetes mata bagi orang yang berpuasa.",
+  "firstAnswer" : "Haram",
+  "secondAnswer" : "Mustahab",
+  "thirdAnswer" : "Mubah",
+  "link" : "8511",
+  "appNumber" : 0
+}, {
+  "id" : 538,
+  "number" : 28,
+  "type" : 3,
+  "question" : "Jika fajar terbit dan orang yang berpuasa masih ada makanan di mulutnya...maka memuntahkannya adalah?",
+  "firstAnswer" : "Tidak wajib",
+  "secondAnswer" : "Wajib",
+  "thirdAnswer" : "Mustahab",
+  "link" : "8511",
+  "appNumber" : 0
+}, {
+  "id" : 539,
+  "number" : 29,
+  "type" : 3,
+  "question" : "Muntah (mengeluarkan makanan dari dalam perut) hukumnya...",
+  "firstAnswer" : "Membatalkan puasa jika disengaja",
+  "secondAnswer" : "Membatalkan puasa secara mutlak",
+  "thirdAnswer" : "Tidak membatalkan puasa sama sekali",
+  "link" : "8511",
+  "appNumber" : 0
+}, {
+  "id" : 540,
+  "number" : 30,
+  "type" : 3,
+  "question" : "Keluarnya Mani karena ciuman, sentuhan, atau masturbasi dengan tangan/alat...",
+  "firstAnswer" : "Puasanya batal dan wajib di qadha",
+  "secondAnswer" : "Tidak membatalkan puasa",
+  "thirdAnswer" : "Puasanya batal dan wajib memberi makan",
+  "link" : "8511",
+  "appNumber" : 0
+}, {
+  "id" : 541,
+  "number" : 31,
+  "type" : 3,
+  "question" : "Keluarnya Madzi (cairan yang keluar saat syahwat)...",
+  "firstAnswer" : "Puasanya batal",
+  "secondAnswer" : "Tidak membatalkan puasa",
+  "thirdAnswer" : "Tidak membatalkan puasa, tetapi wajib mandi.",
+  "link" : "8511",
+  "appNumber" : 0
+}, {
+  "id" : 542,
+  "number" : 32,
+  "type" : 3,
+  "question" : "Orang yang makan mengira bahwa matahari telah terbenam atau masuk waktu fajar, ditengah itu baru jelas ...",
+  "firstAnswer" : "Tidak wajib mengqadhanya",
+  "secondAnswer" : "Wajib mengqadhanya",
+  "thirdAnswer" : "Dia hanya wajib memberi makan",
+  "link" : "8511",
+  "appNumber" : 0
+}, {
+  "id" : 543,
+  "number" : 33,
+  "type" : 3,
+  "question" : "Bersenggama suami istri di siang hari bulan Ramadhan hukumnya...",
+  "firstAnswer" : "Wajib qadha & bayar kafarat",
+  "secondAnswer" : "Wajib hanya mengqadha",
+  "thirdAnswer" : "Wajib hanya bayar kafarat",
+  "link" : "8511",
+  "appNumber" : 0
+}, {
+  "id" : 544,
+  "number" : 34,
+  "type" : 3,
+  "question" : "Puasa sunnah seorang wanita sementara suaminya ada di rumah…",
+  "firstAnswer" : "Dibolehkan dengan izin suaminya",
+  "secondAnswer" : "Boleh secara mutlak",
+  "thirdAnswer" : "Tidak diperbolehkan sama sekali",
+  "link" : "8511",
+  "appNumber" : 0
+}, {
+  "id" : 545,
+  "number" : 35,
+  "type" : 3,
+  "question" : "Zakat Fitrah hukumnya...",
+  "firstAnswer" : "Sunah muakad",
+  "secondAnswer" : "Wajib",
+  "thirdAnswer" : "Mustahab",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 546,
+  "number" : 36,
+  "type" : 3,
+  "question" : "Zakat fitrah wajib bagi orang yang berpuasa ketika?",
+  "firstAnswer" : "Uangnya mencapai nisab.",
+  "secondAnswer" : "Dia memiliki 1 sha’ lebih dari makanan untuk keluarganya selama sehari-semalam.",
+  "thirdAnswer" : "Dia memiliki cukup makanan selama setahun.",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 547,
+  "number" : 37,
+  "type" : 3,
+  "question" : "Zakat fitrah harus dibayar untuk ...",
+  "firstAnswer" : "Muzakki saja",
+  "secondAnswer" : "Muzakki dan orang yang menjadi tanggungan nafkahnya",
+  "thirdAnswer" : "Muzakki dan semua kerabatnya",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 548,
+  "number" : 38,
+  "type" : 3,
+  "question" : "Kewajiban dalam zakat fitrah… (ukuran mengeyangkan).",
+  "firstAnswer" : "Sha’",
+  "secondAnswer" : "Mud",
+  "thirdAnswer" : "Mug",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 549,
+  "number" : 39,
+  "type" : 3,
+  "question" : "Satu Sha’ sama dengan…",
+  "firstAnswer" : "4 Mud",
+  "secondAnswer" : "3 Mud",
+  "thirdAnswer" : "5 Mud",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 550,
+  "number" : 40,
+  "type" : 3,
+  "question" : "Waktu wajib Zakat Fitrah...",
+  "firstAnswer" : "Menjelang matahari terbenam pada malam hari raya.",
+  "secondAnswer" : "Subuh hari Idul Fitri.",
+  "thirdAnswer" : "Subuh hari terakhir Ramadhan.",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 551,
+  "number" : 41,
+  "type" : 3,
+  "question" : "Membayar Zakat Fitrah sebelum jatuh tempo 1 atau 2 hari...",
+  "firstAnswer" : "Boleh menurut jumhur Ulama.",
+  "secondAnswer" : "Tidak boleh",
+  "thirdAnswer" : "Makruh",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 552,
+  "number" : 42,
+  "type" : 3,
+  "question" : "Sengaja menunda Zakat Fitrah karena shalat Idul Fitri...",
+  "firstAnswer" : "Haram",
+  "secondAnswer" : "Makruh",
+  "thirdAnswer" : "Boleh",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 553,
+  "number" : 43,
+  "type" : 3,
+  "question" : "Hukum Shalat Tarawih...",
+  "firstAnswer" : "Sunah muakad",
+  "secondAnswer" : "Wajib",
+  "thirdAnswer" : "Fardhu Kifayah",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 554,
+  "number" : 44,
+  "type" : 3,
+  "question" : "Jumlah rakaat Qiyamul lail/Tarawih/Tahajud yang paling utama adalah…",
+  "firstAnswer" : "11 rakaat",
+  "secondAnswer" : "23 rakaat",
+  "thirdAnswer" : "40 rakaat",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 555,
+  "number" : 45,
+  "type" : 3,
+  "question" : "Menggabungkan semua shalat Tarawih dengan Witir dalam 1 salam, hukumnya?.",
+  "firstAnswer" : "Boleh",
+  "secondAnswer" : "Tidak boleh",
+  "thirdAnswer" : "Mustahab",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 556,
+  "number" : 46,
+  "type" : 3,
+  "question" : "​​Mengusap kedua telapak tangan ke wajah setelah berdoa, adalah....",
+  "firstAnswer" : "Sunah",
+  "secondAnswer" : "Bukan sunah",
+  "thirdAnswer" : "Wajib",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 557,
+  "number" : 47,
+  "type" : 3,
+  "question" : "Jika imam berQunut sebelum rukuk dan setelah membaca ayat, maka shalatnya...",
+  "firstAnswer" : "Tidak sah dan makmum tidak boleh mengikuti",
+  "secondAnswer" : "Sah",
+  "thirdAnswer" : "Tidak sah dan makmum boleh mengikuti",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 558,
+  "number" : 48,
+  "type" : 3,
+  "question" : "Siapa yang menunda mengqadha puasa Ramadhan yang lalu sampai Ramadhan berikutnya tanpa uzur, maka dia berdosa…..",
+  "firstAnswer" : "Wajib mengqadha dan memberi makan",
+  "secondAnswer" : "Wajib mengqadha dan tidak memberi makan",
+  "thirdAnswer" : "Wajib memberi makan dan tidak wajib mengqadha",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 559,
+  "number" : 49,
+  "type" : 3,
+  "question" : "Berpuasa sunah sebelum mengqadha puasa ramadhan jika masih ada waktu....",
+  "firstAnswer" : "Boleh",
+  "secondAnswer" : "Tidak boleh",
+  "thirdAnswer" : "Makruh",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 560,
+  "number" : 50,
+  "type" : 3,
+  "question" : "Jika orang sakit melewati Ramadhan, ada harapan penyakitnya hilang....",
+  "firstAnswer" : "Puasa wajib baginya sampai sembuh",
+  "secondAnswer" : "Wajib memberi makan dan tidak wajib mengqadha",
+  "thirdAnswer" : "Wajib mengqadha dan memberi makan",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 561,
+  "number" : 51,
+  "type" : 3,
+  "question" : "Pasien yang tidak diharapkan kesembuhannya, jika Allah telah menyembuhkannya dengan kekuasaan-Nya, dan dia telah memberi makan orang miskin…",
+  "firstAnswer" : "Dia wajib mengqadha",
+  "secondAnswer" : "Dia wajib mengqadha dan memberi makan Kembali",
+  "thirdAnswer" : "Tidak apa-apa",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 562,
+  "number" : 52,
+  "type" : 3,
+  "question" : "Seseorang meninggal dunia dan belum menyelesaikan puasa Ramadhan, namun dulu dia mampu mengqadhanya, tetapi dia tidak melakukannya, maka….",
+  "firstAnswer" : "Ahli warisnya yang memberi makan atas namanya sejumlah puasa yang dia tinggalkan",
+  "secondAnswer" : "Ahli warisnya yang mengqadha atas namanya",
+  "thirdAnswer" : "Ahli warisnya yang mengqadha dan memberi makan atas namanya sejumlah puasa yang dia tinggalkan",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 563,
+  "number" : 53,
+  "type" : 3,
+  "question" : "orang yang melaksanakan shalat Idul Fitri melewatkan shalat Jumat dan dia shalat Zuhur pada siang hari.",
+  "firstAnswer" : "Tidak boleh",
+  "secondAnswer" : "Boleh",
+  "thirdAnswer" : "Makruh",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 564,
+  "number" : 54,
+  "type" : 3,
+  "question" : "Disunahkan makan kurma atau sejenisnya sebelum berangkat shalat Hari Raya…",
+  "firstAnswer" : "Idul Adha",
+  "secondAnswer" : "Idul Fitri dan Idul Adha",
+  "thirdAnswer" : "Idul Fitri",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 565,
+  "number" : 55,
+  "type" : 3,
+  "question" : "Azan dan Iqamah pada Shalat Idul Fitri melakukannya adalah...",
+  "firstAnswer" : "Sunah",
+  "secondAnswer" : "Tidak disyariatkan",
+  "thirdAnswer" : "Mubah",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 566,
+  "number" : 56,
+  "type" : 3,
+  "question" : "Siapa yang meninggalkan shalat Idul Fitri, maka dia...",
+  "firstAnswer" : "Tidak Mengqadhanya",
+  "secondAnswer" : "Mengqadhanya",
+  "thirdAnswer" : "Mengqadhanya dan wajib memberi makan",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 567,
+  "number" : 57,
+  "type" : 3,
+  "question" : "Iktikaf di selain masjid",
+  "firstAnswer" : "Tidak sah",
+  "secondAnswer" : "Sah",
+  "thirdAnswer" : "Makruh",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 568,
+  "number" : 58,
+  "type" : 3,
+  "question" : "Iktikaf dilakukan di ...",
+  "firstAnswer" : "Salah satu dari 3 masjid saja",
+  "secondAnswer" : "Semua Masjid",
+  "thirdAnswer" : "Masjidil Haram dan Masjid Nabawi",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 569,
+  "number" : 59,
+  "type" : 3,
+  "question" : "Siapa yang berniat Iktikaf selama 10 hari terakhir, waktu masuk ke masjid...",
+  "firstAnswer" : "Sebelum shalat Isya hari ke-20.",
+  "secondAnswer" : "Sebelum matahari terbenam pada hari ke-20.",
+  "thirdAnswer" : "Sebelum matahari terbenam pada hari ke-21.",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 570,
+  "number" : 60,
+  "type" : 3,
+  "question" : "Orang yang Iktikaf keluar untuk mengantar istrinya pulang pada malam hari...",
+  "firstAnswer" : "Iktikaf tidak batal.",
+  "secondAnswer" : "Iktikaf batal.",
+  "thirdAnswer" : "Iktikaf rusak dan mulai dari awal.",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 571,
+  "number" : 61,
+  "type" : 3,
+  "question" : "maka Iktikafnya.",
+  "firstAnswer" : "Rusak",
+  "secondAnswer" : "Tidak rusak",
+  "thirdAnswer" : "Makruh",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 572,
+  "number" : 62,
+  "type" : 3,
+  "question" : "Orang yang berIktikaf keluar untuk keperluan yang mendesak, seperti menjenguk orang sakit dan menghadiri pemakaman, jika hal ini disyaratkan saat berIktikaf.",
+  "firstAnswer" : "Tidak sah",
+  "secondAnswer" : "Sah",
+  "thirdAnswer" : "Makruh",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 573,
+  "number" : 63,
+  "type" : 3,
+  "question" : "Puasa dalam bahasa adalah…",
+  "firstAnswer" : "Lapar",
+  "secondAnswer" : "Menahan",
+  "thirdAnswer" : "Haus",
+  "link" : "8505",
+  "appNumber" : 0
+}, {
+  "id" : 574,
+  "number" : 64,
+  "type" : 3,
+  "question" : "Satu kali niat puasa untuk sebulan penuh di bulan Ramadhan...",
+  "firstAnswer" : "Mendapat pahala",
+  "secondAnswer" : "Tidak mendapat pahala",
+  "thirdAnswer" : "Hanya mendapat pahala setengah Ramadhan",
+  "link" : "8505",
+  "appNumber" : 0
+}, {
+  "id" : 575,
+  "number" : 65,
+  "type" : 3,
+  "question" : "Menggunakan parfum dan menghirupnya...",
+  "firstAnswer" : "Hanya membatalkan puasa",
+  "secondAnswer" : "Tidak membatalkan puasa",
+  "thirdAnswer" : "Puasa batal serta berdosa",
+  "link" : "8511",
+  "appNumber" : 0
+}, {
+  "id" : 576,
+  "number" : 66,
+  "type" : 3,
+  "question" : "Puasa wanita yang Istihadhah...",
+  "firstAnswer" : "Sah",
+  "secondAnswer" : "Batal",
+  "thirdAnswer" : "Haram",
+  "link" : "8510",
+  "appNumber" : 0
+}, {
+  "id" : 577,
+  "number" : 67,
+  "type" : 3,
+  "question" : "Orang yang makan sahur dan dia ragu terbitnya fajar di bulan Ramadhan, maka yang dilakukannya...",
+  "firstAnswer" : "Boleh",
+  "secondAnswer" : "Tidak boleh",
+  "thirdAnswer" : "Makruh",
+  "link" : "8509",
+  "appNumber" : 0
+}, {
+  "id" : 578,
+  "number" : 68,
+  "type" : 3,
+  "question" : "Puasa yang paling utama setelah Ramadhan adalah puasa…",
+  "firstAnswer" : "Syawal",
+  "secondAnswer" : "Sya’ban",
+  "thirdAnswer" : "Yang dilarang",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 579,
+  "number" : 69,
+  "type" : 3,
+  "question" : "Hukum Zakat Fitrah...",
+  "firstAnswer" : "Wajib",
+  "secondAnswer" : "Sunah muakad",
+  "thirdAnswer" : "Mustahab",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 580,
+  "number" : 70,
+  "type" : 3,
+  "question" : "Menunda Zakat Fitrah sampai setelah shalat Idul Fitri...",
+  "firstAnswer" : "Tidak boleh",
+  "secondAnswer" : "Boleh",
+  "thirdAnswer" : "Mustahab",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 581,
+  "number" : 71,
+  "type" : 3,
+  "question" : "di siang hari.",
+  "firstAnswer" : "Tidak mengqadhanya dan memberi makan orang miskin",
+  "secondAnswer" : "Memberi makan orang miskin",
+  "thirdAnswer" : "Mengqadhanya",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 582,
+  "number" : 72,
+  "type" : 3,
+  "question" : "Melaksanakan shalat Idul Fitri lebih utama di...",
+  "firstAnswer" : "Masjid",
+  "secondAnswer" : "Lapangan shalat Idul Fitri",
+  "thirdAnswer" : "Rumah",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 583,
+  "number" : 73,
+  "type" : 3,
+  "question" : "Jika seseorang baru mengetahui pada sore hari Idul Fitri bahwa Syawal telah masuk, maka...",
+  "firstAnswer" : "Mereka langsung shalat Idul Fitri",
+  "secondAnswer" : "Mereka shalat Idul Fitri esok hari",
+  "thirdAnswer" : "Mereka tidak shalat Idul Fitri",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 584,
+  "number" : 74,
+  "type" : 3,
+  "question" : "Beribadah kepada Allah dengan berdiam di masjid disebut...?",
+  "firstAnswer" : "Berdiri",
+  "secondAnswer" : "Puasa",
+  "thirdAnswer" : "Iktikaf",
+  "link" : "8513",
+  "appNumber" : 0
+}, {
+  "id" : 585,
+  "number" : 75,
+  "type" : 3,
+  "question" : "Iktikaf orang tua adalah...",
+  "firstAnswer" : "Pada 10 hari terakhir Ramadhan",
+  "secondAnswer" : "Pada 10 hari pertama Ramadhan",
+  "thirdAnswer" : "Pada 10 hari kedua Ramadhan",
+  "link" : "8513",
+  "appNumber" : 0
+} ]

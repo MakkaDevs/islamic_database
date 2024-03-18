@@ -1,0 +1,249 @@
+[ {
+  "doaaTypeId" : 15,
+  "doaaTypeName" : "ارق نفسك",
+  "lang" : "ar"
+}, {
+  "doaaTypeId" : 16,
+  "doaaTypeName" : "ارق غيرك",
+  "lang" : "ar"
+}, {
+  "doaaTypeId" : 1,
+  "doaaTypeName" : "ورد ١",
+  "lang" : "ar"
+}, {
+  "doaaTypeId" : 2,
+  "doaaTypeName" : "ورد ٢",
+  "lang" : "ar"
+}, {
+  "doaaTypeId" : 3,
+  "doaaTypeName" : "ورد ٣",
+  "lang" : "ar"
+}, {
+  "doaaTypeId" : 4,
+  "doaaTypeName" : "ورد ٤",
+  "lang" : "ar"
+}, {
+  "doaaTypeId" : 5,
+  "doaaTypeName" : "ورد ٥",
+  "lang" : "ar"
+}, {
+  "doaaTypeId" : 1,
+  "doaaTypeName" : "werd 1",
+  "lang" : "en"
+}, {
+  "doaaTypeId" : 2,
+  "doaaTypeName" : "werd 2",
+  "lang" : "en"
+}, {
+  "doaaTypeId" : 3,
+  "doaaTypeName" : "werd 3",
+  "lang" : "en"
+}, {
+  "doaaTypeId" : 4,
+  "doaaTypeName" : "werd 4",
+  "lang" : "en"
+}, {
+  "doaaTypeId" : 5,
+  "doaaTypeName" : "werd 5",
+  "lang" : "en"
+}, {
+  "doaaTypeId" : 6,
+  "doaaTypeName" : "werd 6",
+  "lang" : "null\n"
+}, {
+  "doaaTypeId" : 7,
+  "doaaTypeName" : "werd 7",
+  "lang" : "null\n"
+}, {
+  "doaaTypeId" : 8,
+  "doaaTypeName" : "werd 8",
+  "lang" : "null\n"
+}, {
+  "doaaTypeId" : 9,
+  "doaaTypeName" : "werd 9",
+  "lang" : "null\n"
+}, {
+  "doaaTypeId" : 10,
+  "doaaTypeName" : "werd 10",
+  "lang" : "null\n"
+}, {
+  "doaaTypeId" : 11,
+  "doaaTypeName" : "werd 11",
+  "lang" : "null\n"
+}, {
+  "doaaTypeId" : 12,
+  "doaaTypeName" : "werd 12",
+  "lang" : "null\n"
+}, {
+  "doaaTypeId" : 13,
+  "doaaTypeName" : "werd 13",
+  "lang" : "null\n"
+}, {
+  "doaaTypeId" : 14,
+  "doaaTypeName" : "werd 14",
+  "lang" : "null\n"
+}, {
+  "doaaTypeId" : 6,
+  "doaaTypeName" : "ورد 6",
+  "lang" : "null\n"
+}, {
+  "doaaTypeId" : 7,
+  "doaaTypeName" : "ورد 7",
+  "lang" : "null\n"
+}, {
+  "doaaTypeId" : 8,
+  "doaaTypeName" : "ورد 8",
+  "lang" : "null\n"
+}, {
+  "doaaTypeId" : 9,
+  "doaaTypeName" : "ورد 9",
+  "lang" : "null\n"
+}, {
+  "doaaTypeId" : 10,
+  "doaaTypeName" : "ورد 10",
+  "lang" : "null\n"
+}, {
+  "doaaTypeId" : 11,
+  "doaaTypeName" : "ورد 11",
+  "lang" : "null\n"
+}, {
+  "doaaTypeId" : 12,
+  "doaaTypeName" : "ورد 12",
+  "lang" : "null\n"
+}, {
+  "doaaTypeId" : 13,
+  "doaaTypeName" : "ورد 13",
+  "lang" : "null\n"
+}, {
+  "doaaTypeId" : 14,
+  "doaaTypeName" : "ورد 14",
+  "lang" : "null\n"
+}, {
+  "doaaTypeId" : 1,
+  "doaaTypeName" : "werd 1",
+  "lang" : "ur"
+}, {
+  "doaaTypeId" : 2,
+  "doaaTypeName" : "werd 2",
+  "lang" : "ur"
+}, {
+  "doaaTypeId" : 3,
+  "doaaTypeName" : "werd 3",
+  "lang" : "ur"
+}, {
+  "doaaTypeId" : 4,
+  "doaaTypeName" : "werd 4",
+  "lang" : "ur"
+}, {
+  "doaaTypeId" : 5,
+  "doaaTypeName" : "werd 5",
+  "lang" : "ur"
+}, {
+  "doaaTypeId" : 1,
+  "doaaTypeName" : "werd 1",
+  "lang" : "fr"
+}, {
+  "doaaTypeId" : 2,
+  "doaaTypeName" : "werd 2",
+  "lang" : "fr"
+}, {
+  "doaaTypeId" : 3,
+  "doaaTypeName" : "werd 3",
+  "lang" : "fr"
+}, {
+  "doaaTypeId" : 4,
+  "doaaTypeName" : "werd 4",
+  "lang" : "fr"
+}, {
+  "doaaTypeId" : 5,
+  "doaaTypeName" : "werd 5",
+  "lang" : "fr"
+}, {
+  "doaaTypeId" : 1,
+  "doaaTypeName" : "werd 1",
+  "lang" : "de"
+}, {
+  "doaaTypeId" : 2,
+  "doaaTypeName" : "werd 2",
+  "lang" : "de"
+}, {
+  "doaaTypeId" : 3,
+  "doaaTypeName" : "werd 3",
+  "lang" : "de"
+}, {
+  "doaaTypeId" : 4,
+  "doaaTypeName" : "werd 4",
+  "lang" : "de"
+}, {
+  "doaaTypeId" : 5,
+  "doaaTypeName" : "werd 5",
+  "lang" : "de"
+}, {
+  "doaaTypeId" : 1,
+  "doaaTypeName" : "Wirid 1",
+  "lang" : "in"
+}, {
+  "doaaTypeId" : 2,
+  "doaaTypeName" : "Wirid 2",
+  "lang" : "in"
+}, {
+  "doaaTypeId" : 3,
+  "doaaTypeName" : "Wirid 3",
+  "lang" : "in"
+}, {
+  "doaaTypeId" : 4,
+  "doaaTypeName" : "Wirid 4",
+  "lang" : "in"
+}, {
+  "doaaTypeId" : 5,
+  "doaaTypeName" : "Wirid 5",
+  "lang" : "in"
+}, {
+  "doaaTypeId" : 1,
+  "doaaTypeName" : "werd 1",
+  "lang" : "ug"
+}, {
+  "doaaTypeId" : 2,
+  "doaaTypeName" : "werd 2",
+  "lang" : "ug"
+}, {
+  "doaaTypeId" : 3,
+  "doaaTypeName" : "werd 3",
+  "lang" : "ug"
+}, {
+  "doaaTypeId" : 4,
+  "doaaTypeName" : "werd 4",
+  "lang" : "ug"
+}, {
+  "doaaTypeId" : 5,
+  "doaaTypeName" : "werd 5",
+  "lang" : "ug"
+}, {
+  "doaaTypeId" : 1,
+  "doaaTypeName" : "werd 1",
+  "lang" : "es"
+}, {
+  "doaaTypeId" : 2,
+  "doaaTypeName" : "werd 2",
+  "lang" : "es"
+}, {
+  "doaaTypeId" : 3,
+  "doaaTypeName" : "werd 3",
+  "lang" : "es"
+}, {
+  "doaaTypeId" : 4,
+  "doaaTypeName" : "werd 4",
+  "lang" : "es"
+}, {
+  "doaaTypeId" : 5,
+  "doaaTypeName" : "werd 5",
+  "lang" : "es"
+}, {
+  "doaaTypeId" : 15,
+  "doaaTypeName" : "Tingkatkan dirimu",
+  "lang" : "in"
+}, {
+  "doaaTypeId" : 16,
+  "doaaTypeName" : "Tingkatkan selainmu",
+  "lang" : "in"
+} ]

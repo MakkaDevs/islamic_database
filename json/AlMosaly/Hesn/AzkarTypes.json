@@ -1,0 +1,10 @@
+[ {
+  "ZekrTypeID" : 1,
+  "ZekrTypeName" : "الصلاة"
+}, {
+  "ZekrTypeID" : 2,
+  "ZekrTypeName" : "الصباح"
+}, {
+  "ZekrTypeID" : 3,
+  "ZekrTypeName" : "المساء"
+} ]

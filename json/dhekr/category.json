@@ -1,0 +1,726 @@
+[ {
+  "id" : 1,
+  "name" : "الأذكار الصوتية",
+  "parent" : 0,
+  "iconFileName" : "sound_azkar_active.png"
+}, {
+  "id" : 2,
+  "name" : "حصن المسلم",
+  "parent" : 0,
+  "iconFileName" : "hesn_active.png"
+}, {
+  "id" : 3,
+  "name" : "الدعاء",
+  "parent" : 0,
+  "iconFileName" : "doaa_active.png"
+}, {
+  "id" : 4,
+  "name" : "أدعية من القرآن",
+  "parent" : 3,
+  "iconFileName" : "doaa_quran.png"
+}, {
+  "id" : 5,
+  "name" : "أدعية من السنة",
+  "parent" : 3,
+  "iconFileName" : "doaa_sona.png"
+}, {
+  "id" : 6,
+  "name" : "أذكار النوم و اليقظة",
+  "parent" : 2,
+  "iconFileName" : "azkar_sleep.png"
+}, {
+  "id" : 7,
+  "name" : "أذكار الصباح",
+  "parent" : 2,
+  "iconFileName" : "azkar_sabah.png"
+}, {
+  "id" : 8,
+  "name" : "أذكار المساء",
+  "parent" : 2,
+  "iconFileName" : "azkar_masaa.png"
+}, {
+  "id" : 9,
+  "name" : "أذكار البيت",
+  "parent" : 2,
+  "iconFileName" : "azkar_home.png"
+}, {
+  "id" : 10,
+  "name" : "أذكار الطهارة",
+  "parent" : 2,
+  "iconFileName" : "azkar_khalaa.png"
+}, {
+  "id" : 11,
+  "name" : "أذكار المسجد",
+  "parent" : 2,
+  "iconFileName" : "azkar_masjed.png"
+}, {
+  "id" : 12,
+  "name" : "أذكار الأذان والصلاة",
+  "parent" : 2,
+  "iconFileName" : "azkar_salah.png"
+}, {
+  "id" : 13,
+  "name" : "أذكار الأكل و الشرب",
+  "parent" : 2,
+  "iconFileName" : "azkar_eating.png"
+}, {
+  "id" : 14,
+  "name" : "أذكار المرض و الهم والكرب والدين",
+  "parent" : 2,
+  "iconFileName" : "azkar_sick.png"
+}, {
+  "id" : 15,
+  "name" : "أذكار السفر",
+  "parent" : 2,
+  "iconFileName" : "azkar_travel.png"
+}, {
+  "id" : 16,
+  "name" : "أذكار التعوذ من السحر والعين والحسد والوسوسة",
+  "parent" : 2,
+  "iconFileName" : "azkar_magic.png"
+}, {
+  "id" : 17,
+  "name" : "ما يقال عند العطاس و ما يفعل عند التثاؤب",
+  "parent" : 2,
+  "iconFileName" : "azkar_tathaob.png"
+}, {
+  "id" : 18,
+  "name" : "أذكار الظواهر الكونية",
+  "parent" : 2,
+  "iconFileName" : "azkar_world.png"
+}, {
+  "id" : 19,
+  "name" : "أذكار الزواج و الأسرة",
+  "parent" : 2,
+  "iconFileName" : "azkar_family.png"
+}, {
+  "id" : 20,
+  "name" : "أذكار الخوف والفزع",
+  "parent" : 2,
+  "iconFileName" : "azkar_fear.png"
+}, {
+  "id" : 21,
+  "name" : "أذكار الصيام",
+  "parent" : 2,
+  "iconFileName" : "azkar_siaam.png"
+}, {
+  "id" : 22,
+  "name" : "الأذكار الاجتماعية",
+  "parent" : 2,
+  "iconFileName" : "azkar_social.png"
+}, {
+  "id" : 23,
+  "name" : "أذكار المال البيع و التجارة",
+  "parent" : 2,
+  "iconFileName" : "azkar_money.png"
+}, {
+  "id" : 24,
+  "name" : "أذكار الحج و العمرة",
+  "parent" : 2,
+  "iconFileName" : "azkar_hej.png"
+}, {
+  "id" : 25,
+  "name" : "أذكار الموت والحياة",
+  "parent" : 2,
+  "iconFileName" : "azkar_life.png"
+}, {
+  "id" : 26,
+  "name" : "أذكار النوم",
+  "parent" : 6,
+  "iconFileName" : null
+}, {
+  "id" : 27,
+  "name" : "أذكار اللباس و الزينة",
+  "parent" : 2,
+  "iconFileName" : "azkar_clothes.png"
+}, {
+  "id" : 28,
+  "name" : "ما يقال عند الفزع فى النوم",
+  "parent" : 6,
+  "iconFileName" : null
+}, {
+  "id" : 29,
+  "name" : "أذَكارُ الاْنتَباه منَ الَّنوْم",
+  "parent" : 6,
+  "iconFileName" : null
+}, {
+  "id" : 30,
+  "name" : "أذكار الرقية والتعوذ من  الفتن",
+  "parent" : 2,
+  "iconFileName" : "azkar_roqua.png"
+}, {
+  "id" : 31,
+  "name" : "ما يقوله من رأى فى منامه ما يحب أو يكره",
+  "parent" : 6,
+  "iconFileName" : null
+}, {
+  "id" : 32,
+  "name" : "أذكار الاستيقاظ من النوم",
+  "parent" : 6,
+  "iconFileName" : null
+}, {
+  "id" : 33,
+  "name" : "الذكر عند الخروج من المنزل",
+  "parent" : 9,
+  "iconFileName" : null
+}, {
+  "id" : 34,
+  "name" : "الذكر عند دخول المنزل",
+  "parent" : 9,
+  "iconFileName" : null
+}, {
+  "id" : 35,
+  "name" : "أذكار الخلاء و قضاء الحاجة",
+  "parent" : 10,
+  "iconFileName" : null
+}, {
+  "id" : 36,
+  "name" : "أذكار الوضوء والغسل",
+  "parent" : 10,
+  "iconFileName" : null
+}, {
+  "id" : 37,
+  "name" : "دعاء الخروج من المسجد",
+  "parent" : 11,
+  "iconFileName" : null
+}, {
+  "id" : 38,
+  "name" : "ما يقوله من سمع الأذان",
+  "parent" : 12,
+  "iconFileName" : null
+}, {
+  "id" : 39,
+  "name" : "ذكر دخول المسجد",
+  "parent" : 11,
+  "iconFileName" : null
+}, {
+  "id" : 40,
+  "name" : "ذكر الذهاب إلى المسجد",
+  "parent" : 11,
+  "iconFileName" : null
+}, {
+  "id" : 41,
+  "name" : "بعد انتهاء الأذان",
+  "parent" : 12,
+  "iconFileName" : null
+}, {
+  "id" : 42,
+  "name" : "دعاء صلاة الاستخارة",
+  "parent" : 12,
+  "iconFileName" : null
+}, {
+  "id" : 43,
+  "name" : "الاستعاذة والتّفل فى الصّلاة لدفع الوسوسة",
+  "parent" : 12,
+  "iconFileName" : null
+}, {
+  "id" : 44,
+  "name" : "دعاء سجود التّلاوة",
+  "parent" : 12,
+  "iconFileName" : null
+}, {
+  "id" : 45,
+  "name" : "أذكار استفتاح الصلاة",
+  "parent" : 12,
+  "iconFileName" : null
+}, {
+  "id" : 46,
+  "name" : "أذكار الرّكوع و القيام منه",
+  "parent" : 12,
+  "iconFileName" : null
+}, {
+  "id" : 47,
+  "name" : "أذكار السّجود و الجلسة بين السجدتين",
+  "parent" : 12,
+  "iconFileName" : null
+}, {
+  "id" : 48,
+  "name" : "أذكار التّشّهد",
+  "parent" : 12,
+  "iconFileName" : null
+}, {
+  "id" : 49,
+  "name" : "الصلاة على النبي صلى الله عليه وسلم بعد التشهد",
+  "parent" : 12,
+  "iconFileName" : null
+}, {
+  "id" : 50,
+  "name" : "الدعاء الوارد ما بين التشهد والتسليم",
+  "parent" : 12,
+  "iconFileName" : null
+}, {
+  "id" : 51,
+  "name" : "الأذكار بعد السلام",
+  "parent" : 12,
+  "iconFileName" : null
+}, {
+  "id" : 52,
+  "name" : "دعاء القنوت فى صلاة الوتر",
+  "parent" : 12,
+  "iconFileName" : null
+}, {
+  "id" : 53,
+  "name" : "الذكر عقب السلام من الوتر",
+  "parent" : 12,
+  "iconFileName" : null
+}, {
+  "id" : 54,
+  "name" : "الذكر َقبْلَ الَّطَعامِ",
+  "parent" : 13,
+  "iconFileName" : null
+}, {
+  "id" : 55,
+  "name" : "الذكر عند الفراغ من الطعام",
+  "parent" : 13,
+  "iconFileName" : null
+}, {
+  "id" : 56,
+  "name" : "ما يقول ويفعل من أذنب ذنباً",
+  "parent" : 145,
+  "iconFileName" : null
+}, {
+  "id" : 57,
+  "name" : "الدعاء لمن سقاه أو إذا أراد ذلك",
+  "parent" : 13,
+  "iconFileName" : null
+}, {
+  "id" : 58,
+  "name" : "الَّتعْريضُ بِالدُّعاءُ لِطَلَبِ الطَّعَامِ أَوِ الشَّرَاب",
+  "parent" : 13,
+  "iconFileName" : null
+}, {
+  "id" : 59,
+  "name" : "ما يقوله الضّيف لصاحب الطّعام",
+  "parent" : 13,
+  "iconFileName" : null
+}, {
+  "id" : 60,
+  "name" : "أذكار المرض وما يرقى به المريض وما يقال له",
+  "parent" : 14,
+  "iconFileName" : null
+}, {
+  "id" : 61,
+  "name" : "أذكار الكرب",
+  "parent" : 14,
+  "iconFileName" : null
+}, {
+  "id" : 62,
+  "name" : "ما يَقولُ إذَا أَصَاَبتْهُ ُمصيبَةٌ",
+  "parent" : 14,
+  "iconFileName" : null
+}, {
+  "id" : 63,
+  "name" : "دعاء الغَّم وَالهَمّ وَالحُزن",
+  "parent" : 14,
+  "iconFileName" : null
+}, {
+  "id" : 64,
+  "name" : "ما يَقُولُهُ مَنْ عَلْيه دَين",
+  "parent" : 14,
+  "iconFileName" : null
+}, {
+  "id" : 65,
+  "name" : "ما يقول المسلم إذا زكي",
+  "parent" : 145,
+  "iconFileName" : null
+}, {
+  "id" : 66,
+  "name" : "الاستغفار والتوبة",
+  "parent" : 2,
+  "iconFileName" : "azkar_tawba.png"
+}, {
+  "id" : 67,
+  "name" : "فضل التسبيح والتحميد ، والتهليل ، والتكبير",
+  "parent" : 2,
+  "iconFileName" : "azkar_tasbeeh.png"
+}, {
+  "id" : 68,
+  "name" : "من استصعب عليه الأمر",
+  "parent" : 23,
+  "iconFileName" : null
+}, {
+  "id" : 69,
+  "name" : "لمن عرض عليك ماله",
+  "parent" : 23,
+  "iconFileName" : null
+}, {
+  "id" : 70,
+  "name" : "الدعاء لمن أقرض عند القضاء",
+  "parent" : 23,
+  "iconFileName" : null
+}, {
+  "id" : 71,
+  "name" : "أذَكارُ رُكوب الَّداَّبة َوالسَّفَر",
+  "parent" : 15,
+  "iconFileName" : null
+}, {
+  "id" : 72,
+  "name" : "دعاء السّفر",
+  "parent" : 15,
+  "iconFileName" : null
+}, {
+  "id" : 73,
+  "name" : "دعاء المقيم للمسافر",
+  "parent" : 15,
+  "iconFileName" : null
+}, {
+  "id" : 74,
+  "name" : "دعاء المسافر للمقيم",
+  "parent" : 15,
+  "iconFileName" : null
+}, {
+  "id" : 75,
+  "name" : "إذا عثرت الدّابّة أو ما يقوم مقامها",
+  "parent" : 15,
+  "iconFileName" : null
+}, {
+  "id" : 76,
+  "name" : "التكبير والتسبيح في سير السفر",
+  "parent" : 15,
+  "iconFileName" : null
+}, {
+  "id" : 77,
+  "name" : "عند دخول القرية أو البلدة",
+  "parent" : 15,
+  "iconFileName" : null
+}, {
+  "id" : 78,
+  "name" : "ما يقوله إذا نزل منزلا أو رأى  قرية أو بلدة يريد دخولها",
+  "parent" : 15,
+  "iconFileName" : null
+}, {
+  "id" : 79,
+  "name" : "دعاء المسافر إذا أسحر",
+  "parent" : 15,
+  "iconFileName" : null
+}, {
+  "id" : 80,
+  "name" : "عند الرّجوع من السّفر",
+  "parent" : 15,
+  "iconFileName" : null
+}, {
+  "id" : 81,
+  "name" : "ما يعوّذ به الأولاد",
+  "parent" : 30,
+  "iconFileName" : null
+}, {
+  "id" : 82,
+  "name" : "ُدَعاءُ مَنْ خَشيَ أَنْ يُصيبَ شَيئاً بِعْينِهِ",
+  "parent" : 16,
+  "iconFileName" : null
+}, {
+  "id" : 83,
+  "name" : "ما يَقولُ لِرَدِّ كَيدِ مَرَدَةِ الَّشَياِطينِ",
+  "parent" : 16,
+  "iconFileName" : null
+}, {
+  "id" : 84,
+  "name" : "ما يقال لطَرْدِ الَّشيَطانِ وَوسَاِوسِهِ",
+  "parent" : 16,
+  "iconFileName" : null
+}, {
+  "id" : 85,
+  "name" : "الخوف من الشّرك",
+  "parent" : 30,
+  "iconFileName" : null
+}, {
+  "id" : 86,
+  "name" : "من أصابه شكّ فى إيمانه",
+  "parent" : 30,
+  "iconFileName" : null
+}, {
+  "id" : 87,
+  "name" : "العصمة من الدّجّال",
+  "parent" : 30,
+  "iconFileName" : null
+}, {
+  "id" : 88,
+  "name" : "ما يقال عند هبوب الريح",
+  "parent" : 18,
+  "iconFileName" : null
+}, {
+  "id" : 89,
+  "name" : "ما يقال عند سماع الرعد",
+  "parent" : 18,
+  "iconFileName" : null
+}, {
+  "id" : 90,
+  "name" : "دعاء الإستسقاء",
+  "parent" : 18,
+  "iconFileName" : null
+}, {
+  "id" : 91,
+  "name" : "ما ُيقال عند نزول الغيث وبعده",
+  "parent" : 18,
+  "iconFileName" : null
+}, {
+  "id" : 92,
+  "name" : "ما يُقالُ عْندَ كُسوف الشَّمس أَوْ خُسوف القَمَر",
+  "parent" : 18,
+  "iconFileName" : null
+}, {
+  "id" : 93,
+  "name" : "ما يُقالُ عْندَ رُؤيَة الهلاَل",
+  "parent" : 18,
+  "iconFileName" : null
+}, {
+  "id" : 94,
+  "name" : "دعاء صياح الديك ونهيق الحمار",
+  "parent" : 145,
+  "iconFileName" : null
+}, {
+  "id" : 95,
+  "name" : "عند سماع نباح الكلب باللّيل",
+  "parent" : 145,
+  "iconFileName" : null
+}, {
+  "id" : 96,
+  "name" : "ذكْرُ النّكَاح وَالَّتهْنئَة به",
+  "parent" : 19,
+  "iconFileName" : null
+}, {
+  "id" : 97,
+  "name" : "ذكر الدُّخُول بالزَّوْجة",
+  "parent" : 19,
+  "iconFileName" : null
+}, {
+  "id" : 98,
+  "name" : "الّذكر المتعلّق بالأبناء",
+  "parent" : 19,
+  "iconFileName" : null
+}, {
+  "id" : 99,
+  "name" : "ما يقول ويفعل من أتاه أمر يسره أو يكرهه",
+  "parent" : 145,
+  "iconFileName" : null
+}, {
+  "id" : 100,
+  "name" : "ما يفعل من أتاه أمر يسره",
+  "parent" : 145,
+  "iconFileName" : null
+}, {
+  "id" : 101,
+  "name" : "ما يقول عند التعجب والأمر السار",
+  "parent" : 145,
+  "iconFileName" : null
+}, {
+  "id" : 102,
+  "name" : "عند رؤية باكورة الثّمر",
+  "parent" : 145,
+  "iconFileName" : null
+}, {
+  "id" : 103,
+  "name" : "ما يُقالُ عْندَ لقَاء الَعدُوّ وذي السلطان",
+  "parent" : 20,
+  "iconFileName" : null
+}, {
+  "id" : 104,
+  "name" : "ما يقول َمنْ َخافَ ظُلْمَ السُّلْطَانِ",
+  "parent" : 20,
+  "iconFileName" : null
+}, {
+  "id" : 105,
+  "name" : "َما يَقولُ َمنْ َخافَ َقوْماً",
+  "parent" : 20,
+  "iconFileName" : null
+}, {
+  "id" : 106,
+  "name" : "َما يَقولُ الَّصائِمُ إِذَا سَاَّبهُ أَحدٌ",
+  "parent" : 21,
+  "iconFileName" : null
+}, {
+  "id" : 107,
+  "name" : "ما يقوله الصائم إِذَا أَفْطَرَ ِعنْدَ أَهْلِ َبيْتٍ",
+  "parent" : 21,
+  "iconFileName" : null
+}, {
+  "id" : 108,
+  "name" : "الدعاء عند إفطار الصائم",
+  "parent" : 21,
+  "iconFileName" : null
+}, {
+  "id" : 109,
+  "name" : "ذكر الصَّائِمِ إِذَا حَضَرَ الَّطعَامُ وَلَمْ يُفْطِرْ",
+  "parent" : 21,
+  "iconFileName" : null
+}, {
+  "id" : 110,
+  "name" : "أذكار المجالس",
+  "parent" : 22,
+  "iconFileName" : null
+}, {
+  "id" : 111,
+  "name" : "السلام والتحية",
+  "parent" : 22,
+  "iconFileName" : null
+}, {
+  "id" : 112,
+  "name" : "العلاقات العامة",
+  "parent" : 22,
+  "iconFileName" : null
+}, {
+  "id" : 113,
+  "name" : "ما يُقالُ عْندَ الغَضَب",
+  "parent" : 22,
+  "iconFileName" : null
+}, {
+  "id" : 114,
+  "name" : "ذكر دخول السوق",
+  "parent" : 23,
+  "iconFileName" : null
+}, {
+  "id" : 115,
+  "name" : "كيْفَ يُلَبِّي المُحْرِمُ فِي الْحجِّ أَوِ اْلعُمْرَةِ",
+  "parent" : 24,
+  "iconFileName" : null
+}, {
+  "id" : 116,
+  "name" : "الذكر إِذا َأتَى الْحَجَرَ اَلأْسوَد",
+  "parent" : 24,
+  "iconFileName" : null
+}, {
+  "id" : 117,
+  "name" : "الذكر َبيْنَ الُّركْنِ اْليَماِنيِّ َوالْحَجَرِ اَلأْسوَد",
+  "parent" : 24,
+  "iconFileName" : null
+}, {
+  "id" : 118,
+  "name" : "ذكر اْلوُقوفِ عَلَى الصَّفا َوالمَرْوَة",
+  "parent" : 24,
+  "iconFileName" : null
+}, {
+  "id" : 119,
+  "name" : "الِّذكْرُ عِندَ المَشعَرِ الْحَرَام",
+  "parent" : 24,
+  "iconFileName" : null
+}, {
+  "id" : 120,
+  "name" : "الذكر َيوْمَ عَرَفةَ",
+  "parent" : 24,
+  "iconFileName" : null
+}, {
+  "id" : 121,
+  "name" : "الذكر عند رمى الجمار",
+  "parent" : 24,
+  "iconFileName" : null
+}, {
+  "id" : 122,
+  "name" : "ما يقوله مَن أُصِيبَ بِمُصِيَبةٍ",
+  "parent" : 25,
+  "iconFileName" : null
+}, {
+  "id" : 123,
+  "name" : "ما ُيقالُ عند مَنْ حَضَرَهُ اَلمْوتُ",
+  "parent" : 25,
+  "iconFileName" : null
+}, {
+  "id" : 124,
+  "name" : "ما ُيقال في الصلاة على الجنازة",
+  "parent" : 25,
+  "iconFileName" : null
+}, {
+  "id" : 125,
+  "name" : "ما ُيقال عند دفن الميت وبعده، وعند التعزية، وزيارة المقابر",
+  "parent" : 25,
+  "iconFileName" : null
+}, {
+  "id" : 126,
+  "name" : "ذكر ُلبْسِ الثَّوبِ",
+  "parent" : 27,
+  "iconFileName" : null
+}, {
+  "id" : 127,
+  "name" : "ذكر ُلبْسِ الثَّوبِ اَلجدِيد",
+  "parent" : 27,
+  "iconFileName" : null
+}, {
+  "id" : 128,
+  "name" : "ما يقال لِمَنْ َلبِسَ َثوْباً َجِديداً",
+  "parent" : 27,
+  "iconFileName" : null
+}, {
+  "id" : 129,
+  "name" : "ما يقول إذا وضع الثوب",
+  "parent" : 27,
+  "iconFileName" : null
+}, {
+  "id" : 130,
+  "name" : "دعاء شراء الدابة",
+  "parent" : 145,
+  "iconFileName" : null
+}, {
+  "id" : 131,
+  "name" : "من أدعية الاستصحاء",
+  "parent" : 18,
+  "iconFileName" : null
+}, {
+  "id" : 132,
+  "name" : "الدعاء حينما يقع مالا يرضاه أو غلب على أمره",
+  "parent" : 145,
+  "iconFileName" : null
+}, {
+  "id" : 133,
+  "name" : "الدعاء عند إغماض الميت",
+  "parent" : 25,
+  "iconFileName" : null
+}, {
+  "id" : 134,
+  "name" : "الدعاء للفرط في الصلاة عليه",
+  "parent" : 25,
+  "iconFileName" : null
+}, {
+  "id" : 135,
+  "name" : "دعاء المتزوج لنفسه ودعاء شراء الدابة",
+  "parent" : 19,
+  "iconFileName" : null
+}, {
+  "id" : 136,
+  "name" : "دعاء من رأى مبتلى",
+  "parent" : 14,
+  "iconFileName" : null
+}, {
+  "id" : 137,
+  "name" : "الدعاء لمن قال غفر الله لك",
+  "parent" : 145,
+  "iconFileName" : null
+}, {
+  "id" : 138,
+  "name" : "الدعاء لمن قال إني أحبك في الله",
+  "parent" : 145,
+  "iconFileName" : null
+}, {
+  "id" : 139,
+  "name" : "دعاء كراهية الطيرة",
+  "parent" : 145,
+  "iconFileName" : null
+}, {
+  "id" : 140,
+  "name" : "ما يقول من أحس وجعاً في جسده",
+  "parent" : 14,
+  "iconFileName" : null
+}, {
+  "id" : 141,
+  "name" : "ما يقال عند الفزع",
+  "parent" : 20,
+  "iconFileName" : null
+}, {
+  "id" : 142,
+  "name" : "ما يقول عند الذبح أو النحر",
+  "parent" : 145,
+  "iconFileName" : null
+}, {
+  "id" : 143,
+  "name" : "كيف كان النبي صلى الله عليه وسلم يسبح ؟",
+  "parent" : 2,
+  "iconFileName" : "azkar_rasol.png"
+}, {
+  "id" : 144,
+  "name" : "الدعاء على العدو",
+  "parent" : 20,
+  "iconFileName" : null
+}, {
+  "id" : 145,
+  "name" : "أذكار متفرقة",
+  "parent" : 2,
+  "iconFileName" : "azkar_more.png"
+} ]

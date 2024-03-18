@@ -1,0 +1,4171 @@
+[ {
+  "timezoneID" : 405,
+  "countryCode" : "NU",
+  "TimeZoneIdStr" : "Pacific/Niue",
+  "gmt" : -11.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت نيوي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 408,
+  "countryCode" : "AS",
+  "TimeZoneIdStr" : "Pacific/Pago_Pago",
+  "gmt" : -11.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت ساموا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 54,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Adak",
+  "gmt" : -10.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت هاواي أليوتيان الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 396,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "Pacific/Honolulu",
+  "gmt" : -10.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت هاواي أليوتيان الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 397,
+  "countryCode" : "UM",
+  "TimeZoneIdStr" : "Pacific/Johnston",
+  "gmt" : -10.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت هاواي أليوتيان الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 413,
+  "countryCode" : "CK",
+  "TimeZoneIdStr" : "Pacific/Rarotonga",
+  "gmt" : -10.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت جزر كووك الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 415,
+  "countryCode" : "PF",
+  "TimeZoneIdStr" : "Pacific/Tahiti",
+  "gmt" : -10.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت تاهيتي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 402,
+  "countryCode" : "PF",
+  "TimeZoneIdStr" : "Pacific/Marquesas",
+  "gmt" : -9.5,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت ماركيساس",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 55,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Anchorage",
+  "gmt" : -9.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي لألاسكا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 128,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Juneau",
+  "gmt" : -9.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي لألاسكا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 156,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Nome",
+  "gmt" : -9.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي لألاسكا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 183,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Sitka",
+  "gmt" : -9.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي لألاسكا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 200,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Yakutat",
+  "gmt" : -9.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي لألاسكا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 393,
+  "countryCode" : "PF",
+  "TimeZoneIdStr" : "Pacific/Gambier",
+  "gmt" : -9.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت جامبير",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 97,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Dawson",
+  "gmt" : -8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت المحيط الهادي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 134,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Los_Angeles",
+  "gmt" : -8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت المحيط الهادي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 145,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Metlakatla",
+  "gmt" : -8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت المحيط الهادي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 176,
+  "countryCode" : "MX",
+  "TimeZoneIdStr" : "America/Santa_Isabel",
+  "gmt" : -7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "GMT-08:00",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 194,
+  "countryCode" : "MX",
+  "TimeZoneIdStr" : "America/Tijuana",
+  "gmt" : -7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت المحيط الهادي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 197,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Vancouver",
+  "gmt" : -8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت المحيط الهادي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 198,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Whitehorse",
+  "gmt" : -8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت المحيط الهادي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 410,
+  "countryCode" : "PN",
+  "TimeZoneIdStr" : "Pacific/Pitcairn",
+  "gmt" : -8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت بيتكيرن",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 82,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Boise",
+  "gmt" : -7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الجبلي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 83,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Cambridge_Bay",
+  "gmt" : -7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الجبلي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 90,
+  "countryCode" : "MX",
+  "TimeZoneIdStr" : "America/Chihuahua",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "GMT-07:00",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 92,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Creston",
+  "gmt" : -7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الجبلي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 96,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Dawson_Creek",
+  "gmt" : -8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الجبلي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 98,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Denver",
+  "gmt" : -7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الجبلي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 101,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Edmonton",
+  "gmt" : -7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الجبلي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 116,
+  "countryCode" : "MX",
+  "TimeZoneIdStr" : "America/Hermosillo",
+  "gmt" : -7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "GMT-07:00",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 125,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Inuvik",
+  "gmt" : -7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الجبلي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 142,
+  "countryCode" : "MX",
+  "TimeZoneIdStr" : "America/Mazatlan",
+  "gmt" : -7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "GMT-07:00",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 161,
+  "countryCode" : "MX",
+  "TimeZoneIdStr" : "America/Ojinaga",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الجبلي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 165,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Phoenix",
+  "gmt" : -7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الجبلي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 182,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Shiprock",
+  "gmt" : -7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الجبلي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 201,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Yellowknife",
+  "gmt" : -7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الجبلي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 74,
+  "countryCode" : "BR",
+  "TimeZoneIdStr" : "America/Bahia",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت برازيليا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 78,
+  "countryCode" : "BZ",
+  "TimeZoneIdStr" : "America/Belize",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 85,
+  "countryCode" : "MX",
+  "TimeZoneIdStr" : "America/Cancun",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 89,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Chicago",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 91,
+  "countryCode" : "CR",
+  "TimeZoneIdStr" : "America/Costa_Rica",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 103,
+  "countryCode" : "SV",
+  "TimeZoneIdStr" : "America/El_Salvador",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 111,
+  "countryCode" : "GT",
+  "TimeZoneIdStr" : "America/Guatemala",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 118,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Indiana/Knox",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 121,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Indiana/Tell_City",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 137,
+  "countryCode" : "NI",
+  "TimeZoneIdStr" : "America/Managua",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 141,
+  "countryCode" : "MX",
+  "TimeZoneIdStr" : "America/Matamoros",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 143,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Menominee",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 144,
+  "countryCode" : "MX",
+  "TimeZoneIdStr" : "America/Merida",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 146,
+  "countryCode" : "MX",
+  "TimeZoneIdStr" : "America/Mexico_City",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 149,
+  "countryCode" : "MX",
+  "TimeZoneIdStr" : "America/Monterrey",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 158,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/North_Dakota/Beulah",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 159,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/North_Dakota/Center",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 160,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/North_Dakota/New_Salem",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 170,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Rainy_River",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 171,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Rankin_Inlet",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 173,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Regina",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 174,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Resolute",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 190,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Swift_Current",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 191,
+  "countryCode" : "HN",
+  "TimeZoneIdStr" : "America/Tegucigalpa",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 199,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Winnipeg",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 392,
+  "countryCode" : "EC",
+  "TimeZoneIdStr" : "Pacific/Galapagos",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غلاباغوس",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 73,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Atikokan",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 81,
+  "countryCode" : "CO",
+  "TimeZoneIdStr" : "America/Bogota",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت كولومبيا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 88,
+  "countryCode" : "KY",
+  "TimeZoneIdStr" : "America/Cayman",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 99,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Detroit",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 108,
+  "countryCode" : "TC",
+  "TimeZoneIdStr" : "America/Grand_Turk",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 112,
+  "countryCode" : "EC",
+  "TimeZoneIdStr" : "America/Guayaquil",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الإكوادور",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 115,
+  "countryCode" : "CU",
+  "TimeZoneIdStr" : "America/Havana",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت كوبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 117,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Indiana/Indianapolis",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 119,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Indiana/Marengo",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 120,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Indiana/Petersburg",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 122,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Indiana/Vevay",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 123,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Indiana/Vincennes",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 124,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Indiana/Winamac",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 126,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Iqaluit",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 127,
+  "countryCode" : "JM",
+  "TimeZoneIdStr" : "America/Jamaica",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 129,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Kentucky/Louisville",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 130,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/Kentucky/Monticello",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 133,
+  "countryCode" : "PE",
+  "TimeZoneIdStr" : "America/Lima",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت بيرو الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 151,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Montreal",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "GMT-05:00",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 153,
+  "countryCode" : "BS",
+  "TimeZoneIdStr" : "America/Nassau",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 154,
+  "countryCode" : "US",
+  "TimeZoneIdStr" : "America/New_York",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 155,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Nipigon",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 162,
+  "countryCode" : "PA",
+  "TimeZoneIdStr" : "America/Panama",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 163,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Pangnirtung",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 166,
+  "countryCode" : "HT",
+  "TimeZoneIdStr" : "America/Port-au-Prince",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 193,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Thunder_Bay",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 195,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Toronto",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 386,
+  "countryCode" : "CL",
+  "TimeZoneIdStr" : "Pacific/Easter",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت جزر استر الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 86,
+  "countryCode" : "VE",
+  "TimeZoneIdStr" : "America/Caracas",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت فنزويلا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 56,
+  "countryCode" : "AI",
+  "TimeZoneIdStr" : "America/Anguilla",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 57,
+  "countryCode" : "AG",
+  "TimeZoneIdStr" : "America/Antigua",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 71,
+  "countryCode" : "AW",
+  "TimeZoneIdStr" : "America/Aruba",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 76,
+  "countryCode" : "BB",
+  "TimeZoneIdStr" : "America/Barbados",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 79,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Blanc-Sablon",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 80,
+  "countryCode" : "BR",
+  "TimeZoneIdStr" : "America/Boa_Vista",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الأمازون الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 94,
+  "countryCode" : "CW",
+  "TimeZoneIdStr" : "America/Curacao",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 100,
+  "countryCode" : "DM",
+  "TimeZoneIdStr" : "America/Dominica",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 102,
+  "countryCode" : "BR",
+  "TimeZoneIdStr" : "America/Eirunepe",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "GMT-05:00",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 105,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Glace_Bay",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 107,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Goose_Bay",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 109,
+  "countryCode" : "GD",
+  "TimeZoneIdStr" : "America/Grenada",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 110,
+  "countryCode" : "GP",
+  "TimeZoneIdStr" : "America/Guadeloupe",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 113,
+  "countryCode" : "GY",
+  "TimeZoneIdStr" : "America/Guyana",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غيانا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 114,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Halifax",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 131,
+  "countryCode" : "BQ",
+  "TimeZoneIdStr" : "America/Kralendijk",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 132,
+  "countryCode" : "BO",
+  "TimeZoneIdStr" : "America/La_Paz",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت بوليفيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 135,
+  "countryCode" : "SX",
+  "TimeZoneIdStr" : "America/Lower_Princes",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 138,
+  "countryCode" : "BR",
+  "TimeZoneIdStr" : "America/Manaus",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الأمازون الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 139,
+  "countryCode" : "MF",
+  "TimeZoneIdStr" : "America/Marigot",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 140,
+  "countryCode" : "MQ",
+  "TimeZoneIdStr" : "America/Martinique",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 148,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/Moncton",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 152,
+  "countryCode" : "MS",
+  "TimeZoneIdStr" : "America/Montserrat",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 167,
+  "countryCode" : "TT",
+  "TimeZoneIdStr" : "America/Port_of_Spain",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 168,
+  "countryCode" : "BR",
+  "TimeZoneIdStr" : "America/Porto_Velho",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الأمازون الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 169,
+  "countryCode" : "PR",
+  "TimeZoneIdStr" : "America/Puerto_Rico",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 175,
+  "countryCode" : "BR",
+  "TimeZoneIdStr" : "America/Rio_Branco",
+  "gmt" : -5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "GMT-05:00",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 179,
+  "countryCode" : "DO",
+  "TimeZoneIdStr" : "America/Santo_Domingo",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 184,
+  "countryCode" : "BL",
+  "TimeZoneIdStr" : "America/St_Barthelemy",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 186,
+  "countryCode" : "KN",
+  "TimeZoneIdStr" : "America/St_Kitts",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 187,
+  "countryCode" : "LC",
+  "TimeZoneIdStr" : "America/St_Lucia",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 188,
+  "countryCode" : "VI",
+  "TimeZoneIdStr" : "America/St_Thomas",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 189,
+  "countryCode" : "VC",
+  "TimeZoneIdStr" : "America/St_Vincent",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 192,
+  "countryCode" : "GL",
+  "TimeZoneIdStr" : "America/Thule",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 196,
+  "countryCode" : "VG",
+  "TimeZoneIdStr" : "America/Tortola",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 294,
+  "countryCode" : "BM",
+  "TimeZoneIdStr" : "Atlantic/Bermuda",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الأطلسي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 185,
+  "countryCode" : "CA",
+  "TimeZoneIdStr" : "America/St_Johns",
+  "gmt" : -3.5,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت نيوفاوندلاند الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 59,
+  "countryCode" : "AR",
+  "TimeZoneIdStr" : "America/Argentina/Buenos_Aires",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الأرجنتين الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 60,
+  "countryCode" : "AR",
+  "TimeZoneIdStr" : "America/Argentina/Catamarca",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الأرجنتين الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 61,
+  "countryCode" : "AR",
+  "TimeZoneIdStr" : "America/Argentina/Cordoba",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الأرجنتين الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 62,
+  "countryCode" : "AR",
+  "TimeZoneIdStr" : "America/Argentina/Jujuy",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الأرجنتين الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 63,
+  "countryCode" : "AR",
+  "TimeZoneIdStr" : "America/Argentina/La_Rioja",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الأرجنتين الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 64,
+  "countryCode" : "AR",
+  "TimeZoneIdStr" : "America/Argentina/Mendoza",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الأرجنتين الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 65,
+  "countryCode" : "AR",
+  "TimeZoneIdStr" : "America/Argentina/Rio_Gallegos",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الأرجنتين الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 66,
+  "countryCode" : "AR",
+  "TimeZoneIdStr" : "America/Argentina/Salta",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الأرجنتين الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 67,
+  "countryCode" : "AR",
+  "TimeZoneIdStr" : "America/Argentina/San_Juan",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الأرجنتين الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 68,
+  "countryCode" : "AR",
+  "TimeZoneIdStr" : "America/Argentina/San_Luis",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الأرجنتين الغربي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 69,
+  "countryCode" : "AR",
+  "TimeZoneIdStr" : "America/Argentina/Tucuman",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الأرجنتين الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 70,
+  "countryCode" : "AR",
+  "TimeZoneIdStr" : "America/Argentina/Ushuaia",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الأرجنتين الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 72,
+  "countryCode" : "PY",
+  "TimeZoneIdStr" : "America/Asuncion",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت باراغواي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 75,
+  "countryCode" : "MX",
+  "TimeZoneIdStr" : "America/Bahia_Banderas",
+  "gmt" : -6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمى المركزى",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 77,
+  "countryCode" : "BR",
+  "TimeZoneIdStr" : "America/Belem",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت برازيليا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 84,
+  "countryCode" : "BR",
+  "TimeZoneIdStr" : "America/Campo_Grande",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الأمازون الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 87,
+  "countryCode" : "GF",
+  "TimeZoneIdStr" : "America/Cayenne",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غويانا الفرنسية",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 93,
+  "countryCode" : "BR",
+  "TimeZoneIdStr" : "America/Cuiaba",
+  "gmt" : -4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الأمازون الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 104,
+  "countryCode" : "BR",
+  "TimeZoneIdStr" : "America/Fortaleza",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت برازيليا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 106,
+  "countryCode" : "GL",
+  "TimeZoneIdStr" : "America/Godthab",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب غرينلاند الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 136,
+  "countryCode" : "BR",
+  "TimeZoneIdStr" : "America/Maceio",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت برازيليا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 147,
+  "countryCode" : "PM",
+  "TimeZoneIdStr" : "America/Miquelon",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت سانت بيير وميكولون الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 164,
+  "countryCode" : "SR",
+  "TimeZoneIdStr" : "America/Paramaribo",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت سورينام",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 172,
+  "countryCode" : "BR",
+  "TimeZoneIdStr" : "America/Recife",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت برازيليا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 177,
+  "countryCode" : "BR",
+  "TimeZoneIdStr" : "America/Santarem",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت برازيليا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 178,
+  "countryCode" : "CL",
+  "TimeZoneIdStr" : "America/Santiago",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شيلي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 208,
+  "countryCode" : "AQ",
+  "TimeZoneIdStr" : "Antarctica/Palmer",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شيلي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 209,
+  "countryCode" : "AQ",
+  "TimeZoneIdStr" : "Antarctica/Rothera",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت روثيرا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 302,
+  "countryCode" : "FK",
+  "TimeZoneIdStr" : "Atlantic/Stanley",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت جزر فوكلاند الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 58,
+  "countryCode" : "BR",
+  "TimeZoneIdStr" : "America/Araguaina",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت برازيليا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 150,
+  "countryCode" : "UY",
+  "TimeZoneIdStr" : "America/Montevideo",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت أورغواي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 157,
+  "countryCode" : "BR",
+  "TimeZoneIdStr" : "America/Noronha",
+  "gmt" : -2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت فرناندو دي نورونها الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 180,
+  "countryCode" : "BR",
+  "TimeZoneIdStr" : "America/Sao_Paulo",
+  "gmt" : -3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت برازيليا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 300,
+  "countryCode" : "GS",
+  "TimeZoneIdStr" : "Atlantic/South_Georgia",
+  "gmt" : -2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت جنوب جورجيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 181,
+  "countryCode" : "GL",
+  "TimeZoneIdStr" : "America/Scoresbysund",
+  "gmt" : -1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق غرينلاند الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 293,
+  "countryCode" : "PT",
+  "TimeZoneIdStr" : "Atlantic/Azores",
+  "gmt" : -1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت أزورس الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 296,
+  "countryCode" : "CV",
+  "TimeZoneIdStr" : "Atlantic/Cape_Verde",
+  "gmt" : -1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الرأس الأخضر الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 2,
+  "countryCode" : "CI",
+  "TimeZoneIdStr" : "Africa/Abidjan",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرينتش",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 3,
+  "countryCode" : "GH",
+  "TimeZoneIdStr" : "Africa/Accra",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرينتش",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 7,
+  "countryCode" : "ML",
+  "TimeZoneIdStr" : "Africa/Bamako",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرينتش",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 9,
+  "countryCode" : "GM",
+  "TimeZoneIdStr" : "Africa/Banjul",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرينتش",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 10,
+  "countryCode" : "GW",
+  "TimeZoneIdStr" : "Africa/Bissau",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرينتش",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 15,
+  "countryCode" : "MA",
+  "TimeZoneIdStr" : "Africa/Casablanca",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 17,
+  "countryCode" : "GN",
+  "TimeZoneIdStr" : "Africa/Conakry",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرينتش",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 18,
+  "countryCode" : "SN",
+  "TimeZoneIdStr" : "Africa/Dakar",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرينتش",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 22,
+  "countryCode" : "EH",
+  "TimeZoneIdStr" : "Africa/El_Aaiun",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 23,
+  "countryCode" : "SL",
+  "TimeZoneIdStr" : "Africa/Freetown",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرينتش",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 34,
+  "countryCode" : "TG",
+  "TimeZoneIdStr" : "Africa/Lome",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرينتش",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 43,
+  "countryCode" : "LR",
+  "TimeZoneIdStr" : "Africa/Monrovia",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرينتش",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 47,
+  "countryCode" : "MR",
+  "TimeZoneIdStr" : "Africa/Nouakchott",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرينتش",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 48,
+  "countryCode" : "BF",
+  "TimeZoneIdStr" : "Africa/Ouagadougou",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرينتش",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 50,
+  "countryCode" : "ST",
+  "TimeZoneIdStr" : "Africa/Sao_Tome",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرينتش",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 95,
+  "countryCode" : "GL",
+  "TimeZoneIdStr" : "America/Danmarkshavn",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرينتش",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 295,
+  "countryCode" : "ES",
+  "TimeZoneIdStr" : "Atlantic/Canary",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 297,
+  "countryCode" : "FO",
+  "TimeZoneIdStr" : "Atlantic/Faroe",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 298,
+  "countryCode" : "PT",
+  "TimeZoneIdStr" : "Atlantic/Madeira",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 299,
+  "countryCode" : "IS",
+  "TimeZoneIdStr" : "Atlantic/Reykjavik",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرينتش",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 301,
+  "countryCode" : "SH",
+  "TimeZoneIdStr" : "Atlantic/St_Helena",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرينتش",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 327,
+  "countryCode" : "IE",
+  "TimeZoneIdStr" : "Europe/Dublin",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرينتش",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 329,
+  "countryCode" : "GG",
+  "TimeZoneIdStr" : "Europe/Guernsey",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرينتش",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 331,
+  "countryCode" : "IM",
+  "TimeZoneIdStr" : "Europe/Isle_of_Man",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرينتش",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 333,
+  "countryCode" : "JE",
+  "TimeZoneIdStr" : "Europe/Jersey",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرينتش",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 336,
+  "countryCode" : "PT",
+  "TimeZoneIdStr" : "Europe/Lisbon",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 338,
+  "countryCode" : "GB",
+  "TimeZoneIdStr" : "Europe/London",
+  "gmt" : 0.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرينتش",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 5,
+  "countryCode" : "DZ",
+  "TimeZoneIdStr" : "Africa/Algiers",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 8,
+  "countryCode" : "CF",
+  "TimeZoneIdStr" : "Africa/Bangui",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب أفريقيا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 12,
+  "countryCode" : "CG",
+  "TimeZoneIdStr" : "Africa/Brazzaville",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب أفريقيا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 16,
+  "countryCode" : "ES",
+  "TimeZoneIdStr" : "Africa/Ceuta",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 21,
+  "countryCode" : "CM",
+  "TimeZoneIdStr" : "Africa/Douala",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب أفريقيا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 31,
+  "countryCode" : "CD",
+  "TimeZoneIdStr" : "Africa/Kinshasa",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب أفريقيا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 32,
+  "countryCode" : "NG",
+  "TimeZoneIdStr" : "Africa/Lagos",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب أفريقيا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 33,
+  "countryCode" : "GA",
+  "TimeZoneIdStr" : "Africa/Libreville",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب أفريقيا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 35,
+  "countryCode" : "AO",
+  "TimeZoneIdStr" : "Africa/Luanda",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب أفريقيا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 38,
+  "countryCode" : "GQ",
+  "TimeZoneIdStr" : "Africa/Malabo",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب أفريقيا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 45,
+  "countryCode" : "TD",
+  "TimeZoneIdStr" : "Africa/Ndjamena",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب أفريقيا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 46,
+  "countryCode" : "NE",
+  "TimeZoneIdStr" : "Africa/Niamey",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب أفريقيا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 49,
+  "countryCode" : "BJ",
+  "TimeZoneIdStr" : "Africa/Porto-Novo",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب أفريقيا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 52,
+  "countryCode" : "TN",
+  "TimeZoneIdStr" : "Africa/Tunis",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 213,
+  "countryCode" : "SJ",
+  "TimeZoneIdStr" : "Arctic/Longyearbyen",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 238,
+  "countryCode" : "PS",
+  "TimeZoneIdStr" : "Asia/Hebron",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 315,
+  "countryCode" : "NL",
+  "TimeZoneIdStr" : "Europe/Amsterdam",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 316,
+  "countryCode" : "AD",
+  "TimeZoneIdStr" : "Europe/Andorra",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 318,
+  "countryCode" : "RS",
+  "TimeZoneIdStr" : "Europe/Belgrade",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 319,
+  "countryCode" : "DE",
+  "TimeZoneIdStr" : "Europe/Berlin",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 320,
+  "countryCode" : "SK",
+  "TimeZoneIdStr" : "Europe/Bratislava",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 321,
+  "countryCode" : "BE",
+  "TimeZoneIdStr" : "Europe/Brussels",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 323,
+  "countryCode" : "HU",
+  "TimeZoneIdStr" : "Europe/Budapest",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 324,
+  "countryCode" : "DE",
+  "TimeZoneIdStr" : "Europe/Busingen",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 326,
+  "countryCode" : "DK",
+  "TimeZoneIdStr" : "Europe/Copenhagen",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 328,
+  "countryCode" : "GI",
+  "TimeZoneIdStr" : "Europe/Gibraltar",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 337,
+  "countryCode" : "SI",
+  "TimeZoneIdStr" : "Europe/Ljubljana",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 339,
+  "countryCode" : "LU",
+  "TimeZoneIdStr" : "Europe/Luxembourg",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 340,
+  "countryCode" : "ES",
+  "TimeZoneIdStr" : "Europe/Madrid",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 341,
+  "countryCode" : "MT",
+  "TimeZoneIdStr" : "Europe/Malta",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 344,
+  "countryCode" : "MC",
+  "TimeZoneIdStr" : "Europe/Monaco",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 346,
+  "countryCode" : "NO",
+  "TimeZoneIdStr" : "Europe/Oslo",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 347,
+  "countryCode" : "FR",
+  "TimeZoneIdStr" : "Europe/Paris",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 348,
+  "countryCode" : "ME",
+  "TimeZoneIdStr" : "Europe/Podgorica",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 349,
+  "countryCode" : "CZ",
+  "TimeZoneIdStr" : "Europe/Prague",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 351,
+  "countryCode" : "IT",
+  "TimeZoneIdStr" : "Europe/Rome",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 353,
+  "countryCode" : "SM",
+  "TimeZoneIdStr" : "Europe/San_Marino",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 354,
+  "countryCode" : "BA",
+  "TimeZoneIdStr" : "Europe/Sarajevo",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 356,
+  "countryCode" : "MK",
+  "TimeZoneIdStr" : "Europe/Skopje",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 358,
+  "countryCode" : "SE",
+  "TimeZoneIdStr" : "Europe/Stockholm",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 360,
+  "countryCode" : "AL",
+  "TimeZoneIdStr" : "Europe/Tirane",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 362,
+  "countryCode" : "LI",
+  "TimeZoneIdStr" : "Europe/Vaduz",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 363,
+  "countryCode" : "VA",
+  "TimeZoneIdStr" : "Europe/Vatican",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 364,
+  "countryCode" : "AT",
+  "TimeZoneIdStr" : "Europe/Vienna",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 367,
+  "countryCode" : "PL",
+  "TimeZoneIdStr" : "Europe/Warsaw",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 368,
+  "countryCode" : "HR",
+  "TimeZoneIdStr" : "Europe/Zagreb",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 370,
+  "countryCode" : "CH",
+  "TimeZoneIdStr" : "Europe/Zurich",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 11,
+  "countryCode" : "MW",
+  "TimeZoneIdStr" : "Africa/Blantyre",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 13,
+  "countryCode" : "BI",
+  "TimeZoneIdStr" : "Africa/Bujumbura",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 14,
+  "countryCode" : "EG",
+  "TimeZoneIdStr" : "Africa/Cairo",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 24,
+  "countryCode" : "BW",
+  "TimeZoneIdStr" : "Africa/Gaborone",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 25,
+  "countryCode" : "ZW",
+  "TimeZoneIdStr" : "Africa/Harare",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 26,
+  "countryCode" : "ZA",
+  "TimeZoneIdStr" : "Africa/Johannesburg",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت جنوب أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 30,
+  "countryCode" : "RW",
+  "TimeZoneIdStr" : "Africa/Kigali",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 36,
+  "countryCode" : "CD",
+  "TimeZoneIdStr" : "Africa/Lubumbashi",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 37,
+  "countryCode" : "ZM",
+  "TimeZoneIdStr" : "Africa/Lusaka",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 39,
+  "countryCode" : "MZ",
+  "TimeZoneIdStr" : "Africa/Maputo",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 40,
+  "countryCode" : "LS",
+  "TimeZoneIdStr" : "Africa/Maseru",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت جنوب أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 41,
+  "countryCode" : "SZ",
+  "TimeZoneIdStr" : "Africa/Mbabane",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت جنوب أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 51,
+  "countryCode" : "LY",
+  "TimeZoneIdStr" : "Africa/Tripoli",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 53,
+  "countryCode" : "NA",
+  "TimeZoneIdStr" : "Africa/Windhoek",
+  "gmt" : 1.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب أفريقيا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 216,
+  "countryCode" : "JO",
+  "TimeZoneIdStr" : "Asia/Amman",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 225,
+  "countryCode" : "LB",
+  "TimeZoneIdStr" : "Asia/Beirut",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 231,
+  "countryCode" : "SY",
+  "TimeZoneIdStr" : "Asia/Damascus",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 236,
+  "countryCode" : "PS",
+  "TimeZoneIdStr" : "Asia/Gaza",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 245,
+  "countryCode" : "IL",
+  "TimeZoneIdStr" : "Asia/Jerusalem",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت إسرائيل الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 262,
+  "countryCode" : "CY",
+  "TimeZoneIdStr" : "Asia/Nicosia",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 317,
+  "countryCode" : "GR",
+  "TimeZoneIdStr" : "Europe/Athens",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 322,
+  "countryCode" : "RO",
+  "TimeZoneIdStr" : "Europe/Bucharest",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 325,
+  "countryCode" : "MD",
+  "TimeZoneIdStr" : "Europe/Chisinau",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 330,
+  "countryCode" : "FI",
+  "TimeZoneIdStr" : "Europe/Helsinki",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 332,
+  "countryCode" : "TR",
+  "TimeZoneIdStr" : "Europe/Istanbul",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 335,
+  "countryCode" : "UA",
+  "TimeZoneIdStr" : "Europe/Kiev",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 342,
+  "countryCode" : "AX",
+  "TimeZoneIdStr" : "Europe/Mariehamn",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 350,
+  "countryCode" : "LV",
+  "TimeZoneIdStr" : "Europe/Riga",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 355,
+  "countryCode" : "UA",
+  "TimeZoneIdStr" : "Europe/Simferopol",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت موسكو الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 357,
+  "countryCode" : "BG",
+  "TimeZoneIdStr" : "Europe/Sofia",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 359,
+  "countryCode" : "EE",
+  "TimeZoneIdStr" : "Europe/Tallinn",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 361,
+  "countryCode" : "UA",
+  "TimeZoneIdStr" : "Europe/Uzhgorod",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 365,
+  "countryCode" : "LT",
+  "TimeZoneIdStr" : "Europe/Vilnius",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 369,
+  "countryCode" : "UA",
+  "TimeZoneIdStr" : "Europe/Zaporozhye",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 4,
+  "countryCode" : "ET",
+  "TimeZoneIdStr" : "Africa/Addis_Ababa",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 6,
+  "countryCode" : "ER",
+  "TimeZoneIdStr" : "Africa/Asmara",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 19,
+  "countryCode" : "TZ",
+  "TimeZoneIdStr" : "Africa/Dar_es_Salaam",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 20,
+  "countryCode" : "DJ",
+  "TimeZoneIdStr" : "Africa/Djibouti",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 27,
+  "countryCode" : "SS",
+  "TimeZoneIdStr" : "Africa/Juba",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 28,
+  "countryCode" : "UG",
+  "TimeZoneIdStr" : "Africa/Kampala",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 29,
+  "countryCode" : "SD",
+  "TimeZoneIdStr" : "Africa/Khartoum",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 42,
+  "countryCode" : "SO",
+  "TimeZoneIdStr" : "Africa/Mogadishu",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 44,
+  "countryCode" : "KE",
+  "TimeZoneIdStr" : "Africa/Nairobi",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 211,
+  "countryCode" : "AQ",
+  "TimeZoneIdStr" : "Antarctica/Syowa",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت سايووا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 214,
+  "countryCode" : "YE",
+  "TimeZoneIdStr" : "Asia/Aden",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت العربي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 221,
+  "countryCode" : "IQ",
+  "TimeZoneIdStr" : "Asia/Baghdad",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت العربي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 222,
+  "countryCode" : "BH",
+  "TimeZoneIdStr" : "Asia/Bahrain",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت العربي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 256,
+  "countryCode" : "KW",
+  "TimeZoneIdStr" : "Asia/Kuwait",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت العربي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 270,
+  "countryCode" : "QA",
+  "TimeZoneIdStr" : "Asia/Qatar",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت العربي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 273,
+  "countryCode" : "SA",
+  "TimeZoneIdStr" : "Asia/Riyadh",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت العربي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 334,
+  "countryCode" : "RU",
+  "TimeZoneIdStr" : "Europe/Kaliningrad",
+  "gmt" : 2.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أوروبا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 343,
+  "countryCode" : "BY",
+  "TimeZoneIdStr" : "Europe/Minsk",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "GMT+03:00",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 371,
+  "countryCode" : "MG",
+  "TimeZoneIdStr" : "Indian/Antananarivo",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 375,
+  "countryCode" : "KM",
+  "TimeZoneIdStr" : "Indian/Comoro",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 380,
+  "countryCode" : "YT",
+  "TimeZoneIdStr" : "Indian/Mayotte",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق أفريقيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 282,
+  "countryCode" : "IR",
+  "TimeZoneIdStr" : "Asia/Tehran",
+  "gmt" : 3.5,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت إيران الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 223,
+  "countryCode" : "AZ",
+  "TimeZoneIdStr" : "Asia/Baku",
+  "gmt" : 4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت أذربيجان الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 234,
+  "countryCode" : "AE",
+  "TimeZoneIdStr" : "Asia/Dubai",
+  "gmt" : 4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الخليج",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 261,
+  "countryCode" : "OM",
+  "TimeZoneIdStr" : "Asia/Muscat",
+  "gmt" : 4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الخليج",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 281,
+  "countryCode" : "GE",
+  "TimeZoneIdStr" : "Asia/Tbilisi",
+  "gmt" : 4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت جورجيا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 292,
+  "countryCode" : "AM",
+  "TimeZoneIdStr" : "Asia/Yerevan",
+  "gmt" : 4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت أرمينيا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 345,
+  "countryCode" : "RU",
+  "TimeZoneIdStr" : "Europe/Moscow",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت موسكو الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 352,
+  "countryCode" : "RU",
+  "TimeZoneIdStr" : "Europe/Samara",
+  "gmt" : 4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت سمارا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 366,
+  "countryCode" : "RU",
+  "TimeZoneIdStr" : "Europe/Volgograd",
+  "gmt" : 3.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت موسكو الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 377,
+  "countryCode" : "SC",
+  "TimeZoneIdStr" : "Indian/Mahe",
+  "gmt" : 4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت سيشل",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 379,
+  "countryCode" : "MU",
+  "TimeZoneIdStr" : "Indian/Mauritius",
+  "gmt" : 4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت موريشيوس الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 381,
+  "countryCode" : "RE",
+  "TimeZoneIdStr" : "Indian/Reunion",
+  "gmt" : 4.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت ريونيون",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 246,
+  "countryCode" : "AF",
+  "TimeZoneIdStr" : "Asia/Kabul",
+  "gmt" : 4.5,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت أفغانستان",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 206,
+  "countryCode" : "AQ",
+  "TimeZoneIdStr" : "Antarctica/Mawson",
+  "gmt" : 5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت ماوسون",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 218,
+  "countryCode" : "KZ",
+  "TimeZoneIdStr" : "Asia/Aqtau",
+  "gmt" : 5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب كازاخستان",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 219,
+  "countryCode" : "KZ",
+  "TimeZoneIdStr" : "Asia/Aqtobe",
+  "gmt" : 5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب كازاخستان",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 220,
+  "countryCode" : "TM",
+  "TimeZoneIdStr" : "Asia/Ashgabat",
+  "gmt" : 5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت تركمانستان الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 235,
+  "countryCode" : "TJ",
+  "TimeZoneIdStr" : "Asia/Dushanbe",
+  "gmt" : 5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت طاجكستان",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 248,
+  "countryCode" : "PK",
+  "TimeZoneIdStr" : "Asia/Karachi",
+  "gmt" : 5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت باكستان الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 266,
+  "countryCode" : "KZ",
+  "TimeZoneIdStr" : "Asia/Oral",
+  "gmt" : 5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب كازاخستان",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 275,
+  "countryCode" : "UZ",
+  "TimeZoneIdStr" : "Asia/Samarkand",
+  "gmt" : 5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت أوزبكستان الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 280,
+  "countryCode" : "UZ",
+  "TimeZoneIdStr" : "Asia/Tashkent",
+  "gmt" : 5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت أوزبكستان الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 376,
+  "countryCode" : "TF",
+  "TimeZoneIdStr" : "Indian/Kerguelen",
+  "gmt" : 5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت المقاطعات الفرنسية الجنوبية والأنتارتيكية",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 378,
+  "countryCode" : "MV",
+  "TimeZoneIdStr" : "Indian/Maldives",
+  "gmt" : 5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الـمالديف",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 230,
+  "countryCode" : "LK",
+  "TimeZoneIdStr" : "Asia/Colombo",
+  "gmt" : 5.5,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الهند",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 252,
+  "countryCode" : "IN",
+  "TimeZoneIdStr" : "Asia/Kolkata",
+  "gmt" : 5.5,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الهند",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 250,
+  "countryCode" : "NP",
+  "TimeZoneIdStr" : "Asia/Kathmandu",
+  "gmt" : 5.75,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت نيبال",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 212,
+  "countryCode" : "AQ",
+  "TimeZoneIdStr" : "Antarctica/Vostok",
+  "gmt" : 6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت فوستوك",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 215,
+  "countryCode" : "KZ",
+  "TimeZoneIdStr" : "Asia/Almaty",
+  "gmt" : 6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق كازاخستان",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 226,
+  "countryCode" : "KG",
+  "TimeZoneIdStr" : "Asia/Bishkek",
+  "gmt" : 6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت قرغيزستان",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 232,
+  "countryCode" : "BD",
+  "TimeZoneIdStr" : "Asia/Dhaka",
+  "gmt" : 6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت بنجلاديش الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 271,
+  "countryCode" : "KZ",
+  "TimeZoneIdStr" : "Asia/Qyzylorda",
+  "gmt" : 6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق كازاخستان",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 283,
+  "countryCode" : "BT",
+  "TimeZoneIdStr" : "Asia/Thimphu",
+  "gmt" : 6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت بوتان",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 291,
+  "countryCode" : "RU",
+  "TimeZoneIdStr" : "Asia/Yekaterinburg",
+  "gmt" : 5.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت يكاترينبورغ الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 372,
+  "countryCode" : "IO",
+  "TimeZoneIdStr" : "Indian/Chagos",
+  "gmt" : 6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت المحيط الهندي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 272,
+  "countryCode" : "MM",
+  "TimeZoneIdStr" : "Asia/Rangoon",
+  "gmt" : 6.5,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت ميانمار",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 374,
+  "countryCode" : "CC",
+  "TimeZoneIdStr" : "Indian/Cocos",
+  "gmt" : 6.5,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت جزر كوكوس",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 203,
+  "countryCode" : "AQ",
+  "TimeZoneIdStr" : "Antarctica/Davis",
+  "gmt" : 7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت دافيز",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 224,
+  "countryCode" : "TH",
+  "TimeZoneIdStr" : "Asia/Bangkok",
+  "gmt" : 7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الهند الصينية",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 239,
+  "countryCode" : "VN",
+  "TimeZoneIdStr" : "Asia/Ho_Chi_Minh",
+  "gmt" : 7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الهند الصينية",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 241,
+  "countryCode" : "MN",
+  "TimeZoneIdStr" : "Asia/Hovd",
+  "gmt" : 7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت هوفد الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 243,
+  "countryCode" : "ID",
+  "TimeZoneIdStr" : "Asia/Jakarta",
+  "gmt" : 7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب إندونيسيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 263,
+  "countryCode" : "RU",
+  "TimeZoneIdStr" : "Asia/Novokuznetsk",
+  "gmt" : 7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت كراسنويارسك الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 264,
+  "countryCode" : "RU",
+  "TimeZoneIdStr" : "Asia/Novosibirsk",
+  "gmt" : 6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت نوفوسيبيرسك الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 265,
+  "countryCode" : "RU",
+  "TimeZoneIdStr" : "Asia/Omsk",
+  "gmt" : 6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت أومسك الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 267,
+  "countryCode" : "KH",
+  "TimeZoneIdStr" : "Asia/Phnom_Penh",
+  "gmt" : 7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الهند الصينية",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 268,
+  "countryCode" : "ID",
+  "TimeZoneIdStr" : "Asia/Pontianak",
+  "gmt" : 7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت غرب إندونيسيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 288,
+  "countryCode" : "LA",
+  "TimeZoneIdStr" : "Asia/Vientiane",
+  "gmt" : 7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الهند الصينية",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 373,
+  "countryCode" : "CX",
+  "TimeZoneIdStr" : "Indian/Christmas",
+  "gmt" : 7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت جزر الكريسماس",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 202,
+  "countryCode" : "AQ",
+  "TimeZoneIdStr" : "Antarctica/Casey",
+  "gmt" : 8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الغربي لأستراليا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 227,
+  "countryCode" : "BN",
+  "TimeZoneIdStr" : "Asia/Brunei",
+  "gmt" : 8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت بروناي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 228,
+  "countryCode" : "MN",
+  "TimeZoneIdStr" : "Asia/Choibalsan",
+  "gmt" : 8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شويبالسان الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 229,
+  "countryCode" : "CN",
+  "TimeZoneIdStr" : "Asia/Chongqing",
+  "gmt" : 8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الصين الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 237,
+  "countryCode" : "CN",
+  "TimeZoneIdStr" : "Asia/Harbin",
+  "gmt" : 8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الصين الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 240,
+  "countryCode" : "HK",
+  "TimeZoneIdStr" : "Asia/Hong_Kong",
+  "gmt" : 8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت هونغ كونغ الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 249,
+  "countryCode" : "CN",
+  "TimeZoneIdStr" : "Asia/Kashgar",
+  "gmt" : 6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "GMT+06:00",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 253,
+  "countryCode" : "RU",
+  "TimeZoneIdStr" : "Asia/Krasnoyarsk",
+  "gmt" : 7.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت كراسنويارسك الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 254,
+  "countryCode" : "MY",
+  "TimeZoneIdStr" : "Asia/Kuala_Lumpur",
+  "gmt" : 8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت ماليزيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 255,
+  "countryCode" : "MY",
+  "TimeZoneIdStr" : "Asia/Kuching",
+  "gmt" : 8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت ماليزيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 257,
+  "countryCode" : "MO",
+  "TimeZoneIdStr" : "Asia/Macau",
+  "gmt" : 8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الصين الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 259,
+  "countryCode" : "ID",
+  "TimeZoneIdStr" : "Asia/Makassar",
+  "gmt" : 8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت وسط إندونيسيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 260,
+  "countryCode" : "PH",
+  "TimeZoneIdStr" : "Asia/Manila",
+  "gmt" : 8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الفيلبين الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 277,
+  "countryCode" : "CN",
+  "TimeZoneIdStr" : "Asia/Shanghai",
+  "gmt" : 8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت الصين الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 278,
+  "countryCode" : "SG",
+  "TimeZoneIdStr" : "Asia/Singapore",
+  "gmt" : 8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت سنغافورة",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 279,
+  "countryCode" : "TW",
+  "TimeZoneIdStr" : "Asia/Taipei",
+  "gmt" : 8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت تايبيه الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 285,
+  "countryCode" : "MN",
+  "TimeZoneIdStr" : "Asia/Ulaanbaatar",
+  "gmt" : 8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت أولان باتور الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 286,
+  "countryCode" : "CN",
+  "TimeZoneIdStr" : "Asia/Urumqi",
+  "gmt" : 6.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "GMT+06:00",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 313,
+  "countryCode" : "AU",
+  "TimeZoneIdStr" : "Australia/Perth",
+  "gmt" : 8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الغربي لأستراليا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 308,
+  "countryCode" : "AU",
+  "TimeZoneIdStr" : "Australia/Eucla",
+  "gmt" : 8.75,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الغربي المركزي بأستراليا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 233,
+  "countryCode" : "TL",
+  "TimeZoneIdStr" : "Asia/Dili",
+  "gmt" : 9.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت تيمور الشرقية",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 242,
+  "countryCode" : "RU",
+  "TimeZoneIdStr" : "Asia/Irkutsk",
+  "gmt" : 8.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت إركوتسك الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 244,
+  "countryCode" : "ID",
+  "TimeZoneIdStr" : "Asia/Jayapura",
+  "gmt" : 9.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت شرق إندونيسيا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 269,
+  "countryCode" : "KP",
+  "TimeZoneIdStr" : "Asia/Pyongyang",
+  "gmt" : 9.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت كوريا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 276,
+  "countryCode" : "KR",
+  "TimeZoneIdStr" : "Asia/Seoul",
+  "gmt" : 9.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت كوريا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 284,
+  "countryCode" : "JP",
+  "TimeZoneIdStr" : "Asia/Tokyo",
+  "gmt" : 9.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت اليابان الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 409,
+  "countryCode" : "PW",
+  "TimeZoneIdStr" : "Pacific/Palau",
+  "gmt" : 9.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت بالاو",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 307,
+  "countryCode" : "AU",
+  "TimeZoneIdStr" : "Australia/Darwin",
+  "gmt" : 9.5,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي بأستراليا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 204,
+  "countryCode" : "AQ",
+  "TimeZoneIdStr" : "Antarctica/DumontDUrville",
+  "gmt" : 10.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت دي مونت دو روفيل",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 251,
+  "countryCode" : "RU",
+  "TimeZoneIdStr" : "Asia/Khandyga",
+  "gmt" : 9.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت ياكوتسك الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 290,
+  "countryCode" : "RU",
+  "TimeZoneIdStr" : "Asia/Yakutsk",
+  "gmt" : 9.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت ياكوتسك الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 304,
+  "countryCode" : "AU",
+  "TimeZoneIdStr" : "Australia/Brisbane",
+  "gmt" : 10.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي لأستراليا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 310,
+  "countryCode" : "AU",
+  "TimeZoneIdStr" : "Australia/Lindeman",
+  "gmt" : 10.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي لأستراليا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 385,
+  "countryCode" : "FM",
+  "TimeZoneIdStr" : "Pacific/Chuuk",
+  "gmt" : 10.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت تشاك",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 395,
+  "countryCode" : "GU",
+  "TimeZoneIdStr" : "Pacific/Guam",
+  "gmt" : 10.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت تشامورو",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 412,
+  "countryCode" : "PG",
+  "TimeZoneIdStr" : "Pacific/Port_Moresby",
+  "gmt" : 10.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت بابوا غينيا الجديدة",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 414,
+  "countryCode" : "MP",
+  "TimeZoneIdStr" : "Pacific/Saipan",
+  "gmt" : 10.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت تشامورو",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 303,
+  "countryCode" : "AU",
+  "TimeZoneIdStr" : "Australia/Adelaide",
+  "gmt" : 9.5,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي بأستراليا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 305,
+  "countryCode" : "AU",
+  "TimeZoneIdStr" : "Australia/Broken_Hill",
+  "gmt" : 9.5,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي المركزي بأستراليا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 205,
+  "countryCode" : "AU",
+  "TimeZoneIdStr" : "Antarctica/Macquarie",
+  "gmt" : 11.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت ماكواري",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 274,
+  "countryCode" : "RU",
+  "TimeZoneIdStr" : "Asia/Sakhalin",
+  "gmt" : 10.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت ساخالين الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 287,
+  "countryCode" : "RU",
+  "TimeZoneIdStr" : "Asia/Ust-Nera",
+  "gmt" : 10.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت فلاديفوستوك الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 289,
+  "countryCode" : "RU",
+  "TimeZoneIdStr" : "Asia/Vladivostok",
+  "gmt" : 10.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت فلاديفوستوك الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 306,
+  "countryCode" : "AU",
+  "TimeZoneIdStr" : "Australia/Currie",
+  "gmt" : 10.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي لأستراليا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 309,
+  "countryCode" : "AU",
+  "TimeZoneIdStr" : "Australia/Hobart",
+  "gmt" : 10.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي لأستراليا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 311,
+  "countryCode" : "AU",
+  "TimeZoneIdStr" : "Australia/Lord_Howe",
+  "gmt" : 10.5,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت لورد هاو الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 312,
+  "countryCode" : "AU",
+  "TimeZoneIdStr" : "Australia/Melbourne",
+  "gmt" : 10.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي لأستراليا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 314,
+  "countryCode" : "AU",
+  "TimeZoneIdStr" : "Australia/Sydney",
+  "gmt" : 10.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "التوقيت الرسمي الشرقي لأستراليا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 387,
+  "countryCode" : "VU",
+  "TimeZoneIdStr" : "Pacific/Efate",
+  "gmt" : 11.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت فانواتو الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 394,
+  "countryCode" : "SB",
+  "TimeZoneIdStr" : "Pacific/Guadalcanal",
+  "gmt" : 11.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت جزر سليمان",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 399,
+  "countryCode" : "FM",
+  "TimeZoneIdStr" : "Pacific/Kosrae",
+  "gmt" : 11.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت كوسرا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 407,
+  "countryCode" : "NC",
+  "TimeZoneIdStr" : "Pacific/Noumea",
+  "gmt" : 11.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت كاليدونيا الجديدة الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 411,
+  "countryCode" : "FM",
+  "TimeZoneIdStr" : "Pacific/Pohnpei",
+  "gmt" : 11.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت باناب",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 406,
+  "countryCode" : "NF",
+  "TimeZoneIdStr" : "Pacific/Norfolk",
+  "gmt" : 11.5,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت نورفوك",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 217,
+  "countryCode" : "RU",
+  "TimeZoneIdStr" : "Asia/Anadyr",
+  "gmt" : 12.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت ماغادان الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 247,
+  "countryCode" : "RU",
+  "TimeZoneIdStr" : "Asia/Kamchatka",
+  "gmt" : 12.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت بيتروبافلوفسك-كامتشاتسكي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 258,
+  "countryCode" : "RU",
+  "TimeZoneIdStr" : "Asia/Magadan",
+  "gmt" : 10.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت ماغادان الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 391,
+  "countryCode" : "TV",
+  "TimeZoneIdStr" : "Pacific/Funafuti",
+  "gmt" : 12.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت توفالو",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 400,
+  "countryCode" : "MH",
+  "TimeZoneIdStr" : "Pacific/Kwajalein",
+  "gmt" : 12.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت جزر مارشال",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 401,
+  "countryCode" : "MH",
+  "TimeZoneIdStr" : "Pacific/Majuro",
+  "gmt" : 12.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت جزر مارشال",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 404,
+  "countryCode" : "NR",
+  "TimeZoneIdStr" : "Pacific/Nauru",
+  "gmt" : 12.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت ناورو",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 416,
+  "countryCode" : "KI",
+  "TimeZoneIdStr" : "Pacific/Tarawa",
+  "gmt" : 12.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت جزر جيلبرت",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 418,
+  "countryCode" : "UM",
+  "TimeZoneIdStr" : "Pacific/Wake",
+  "gmt" : 12.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت واك",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 419,
+  "countryCode" : "WF",
+  "TimeZoneIdStr" : "Pacific/Wallis",
+  "gmt" : 12.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت واليس و فوتونا",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 207,
+  "countryCode" : "AQ",
+  "TimeZoneIdStr" : "Antarctica/McMurdo",
+  "gmt" : 12.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت نيوزيلاندا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 210,
+  "countryCode" : "AQ",
+  "TimeZoneIdStr" : "Antarctica/South_Pole",
+  "gmt" : 12.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت نيوزيلاندا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 383,
+  "countryCode" : "NZ",
+  "TimeZoneIdStr" : "Pacific/Auckland",
+  "gmt" : 12.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت نيوزيلاندا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 388,
+  "countryCode" : "KI",
+  "TimeZoneIdStr" : "Pacific/Enderbury",
+  "gmt" : 13.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت جزر فينكس",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 389,
+  "countryCode" : "TK",
+  "TimeZoneIdStr" : "Pacific/Fakaofo",
+  "gmt" : 13.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت توكيلاو",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 390,
+  "countryCode" : "FJ",
+  "TimeZoneIdStr" : "Pacific/Fiji",
+  "gmt" : 12.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت فيجي الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 417,
+  "countryCode" : "TO",
+  "TimeZoneIdStr" : "Pacific/Tongatapu",
+  "gmt" : 13.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت تونغا الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 384,
+  "countryCode" : "NZ",
+  "TimeZoneIdStr" : "Pacific/Chatham",
+  "gmt" : 12.75,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت تشاتام الرسمي",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 382,
+  "countryCode" : "WS",
+  "TimeZoneIdStr" : "Pacific/Apia",
+  "gmt" : 13.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "GMT+13:00",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+}, {
+  "timezoneID" : 398,
+  "countryCode" : "KI",
+  "TimeZoneIdStr" : "Pacific/Kiritimati",
+  "gmt" : 14.0,
+  "timeZonesDlsIndependant" : 0.0,
+  "timeZoneDlsDependant" : 0.0,
+  "TimeZoneIdStrAr" : "توقيت جزر لاين",
+  "TimeZoneIdStrGr" : "null",
+  "TimeZoneIdStrTr" : "null"
+} ]

@@ -1,0 +1,301 @@
+[ {
+  "_id" : "1",
+  "hezpID" : "1",
+  "chapterID" : "1",
+  "hezp_name" : "الحزب الأول"
+}, {
+  "_id" : "2",
+  "hezpID" : "2",
+  "chapterID" : "1",
+  "hezp_name" : "الحزب الثاني"
+}, {
+  "_id" : "3",
+  "hezpID" : "3",
+  "chapterID" : "2",
+  "hezp_name" : "الحزب الثالث"
+}, {
+  "_id" : "4",
+  "hezpID" : "4",
+  "chapterID" : "2",
+  "hezp_name" : "الحزب الرابع"
+}, {
+  "_id" : "5",
+  "hezpID" : "5",
+  "chapterID" : "3",
+  "hezp_name" : "الحزب الخامس"
+}, {
+  "_id" : "6",
+  "hezpID" : "6",
+  "chapterID" : "3",
+  "hezp_name" : "الحزب السادس"
+}, {
+  "_id" : "7",
+  "hezpID" : "7",
+  "chapterID" : "4",
+  "hezp_name" : "الحزب السابع"
+}, {
+  "_id" : "8",
+  "hezpID" : "8",
+  "chapterID" : "4",
+  "hezp_name" : "الحزب الثامن"
+}, {
+  "_id" : "9",
+  "hezpID" : "9",
+  "chapterID" : "5",
+  "hezp_name" : "الحزب التاسع"
+}, {
+  "_id" : "10",
+  "hezpID" : "10",
+  "chapterID" : "5",
+  "hezp_name" : "الحزب العاشر"
+}, {
+  "_id" : "11",
+  "hezpID" : "11",
+  "chapterID" : "6",
+  "hezp_name" : "الحزب الحادي عشر"
+}, {
+  "_id" : "12",
+  "hezpID" : "12",
+  "chapterID" : "6",
+  "hezp_name" : "الحزب الثاني عشر"
+}, {
+  "_id" : "13",
+  "hezpID" : "13",
+  "chapterID" : "7",
+  "hezp_name" : "الحزب الثالث عشر"
+}, {
+  "_id" : "14",
+  "hezpID" : "14",
+  "chapterID" : "7",
+  "hezp_name" : "الحزب الرابع عشر"
+}, {
+  "_id" : "15",
+  "hezpID" : "15",
+  "chapterID" : "8",
+  "hezp_name" : "الحزب الخامس عشر"
+}, {
+  "_id" : "16",
+  "hezpID" : "16",
+  "chapterID" : "8",
+  "hezp_name" : "الحزب السادس عشر"
+}, {
+  "_id" : "17",
+  "hezpID" : "17",
+  "chapterID" : "9",
+  "hezp_name" : "الحزب السابع عشر"
+}, {
+  "_id" : "18",
+  "hezpID" : "18",
+  "chapterID" : "9",
+  "hezp_name" : "الحزب الثامن عشر"
+}, {
+  "_id" : "19",
+  "hezpID" : "19",
+  "chapterID" : "10",
+  "hezp_name" : "الحزب التاسع عشر"
+}, {
+  "_id" : "20",
+  "hezpID" : "20",
+  "chapterID" : "10",
+  "hezp_name" : "الحزب العشرون"
+}, {
+  "_id" : "21",
+  "hezpID" : "21",
+  "chapterID" : "11",
+  "hezp_name" : "الحزب الحادي والعشرون"
+}, {
+  "_id" : "22",
+  "hezpID" : "22",
+  "chapterID" : "11",
+  "hezp_name" : "الحزب الثاني والعشرون"
+}, {
+  "_id" : "23",
+  "hezpID" : "23",
+  "chapterID" : "12",
+  "hezp_name" : "الحزب الثالث والعشرون"
+}, {
+  "_id" : "24",
+  "hezpID" : "24",
+  "chapterID" : "12",
+  "hezp_name" : "الحزب الرابع والعشرون"
+}, {
+  "_id" : "25",
+  "hezpID" : "25",
+  "chapterID" : "13",
+  "hezp_name" : "الحزب الخامس والعشرون"
+}, {
+  "_id" : "26",
+  "hezpID" : "26",
+  "chapterID" : "13",
+  "hezp_name" : "الحزب السادس والعشرون"
+}, {
+  "_id" : "27",
+  "hezpID" : "27",
+  "chapterID" : "14",
+  "hezp_name" : "الحزب السابع والعشرون"
+}, {
+  "_id" : "28",
+  "hezpID" : "28",
+  "chapterID" : "14",
+  "hezp_name" : "الحزب الثامن والعشرون"
+}, {
+  "_id" : "29",
+  "hezpID" : "29",
+  "chapterID" : "15",
+  "hezp_name" : "الحزب التاسع والعشرون"
+}, {
+  "_id" : "30",
+  "hezpID" : "30",
+  "chapterID" : "15",
+  "hezp_name" : "الحزب الثلاثون"
+}, {
+  "_id" : "31",
+  "hezpID" : "31",
+  "chapterID" : "16",
+  "hezp_name" : "الحزب الحادي والثلاثون"
+}, {
+  "_id" : "32",
+  "hezpID" : "32",
+  "chapterID" : "16",
+  "hezp_name" : "الحزب الثاني والثلاثون"
+}, {
+  "_id" : "33",
+  "hezpID" : "33",
+  "chapterID" : "17",
+  "hezp_name" : "الحزب الثالث والثلاثون"
+}, {
+  "_id" : "34",
+  "hezpID" : "34",
+  "chapterID" : "17",
+  "hezp_name" : "الحزب الرابع والثلاثون"
+}, {
+  "_id" : "35",
+  "hezpID" : "35",
+  "chapterID" : "18",
+  "hezp_name" : "الحزب الخامس والثلاثون"
+}, {
+  "_id" : "36",
+  "hezpID" : "36",
+  "chapterID" : "18",
+  "hezp_name" : "الحزب السادس والثلاثون"
+}, {
+  "_id" : "37",
+  "hezpID" : "37",
+  "chapterID" : "19",
+  "hezp_name" : "الحزب السابع والثلاثون"
+}, {
+  "_id" : "38",
+  "hezpID" : "38",
+  "chapterID" : "19",
+  "hezp_name" : "الحزب الثامن والثلاثون"
+}, {
+  "_id" : "39",
+  "hezpID" : "39",
+  "chapterID" : "20",
+  "hezp_name" : "الحزب التاسع والثلاثون"
+}, {
+  "_id" : "40",
+  "hezpID" : "40",
+  "chapterID" : "20",
+  "hezp_name" : "الحزب الأربعون"
+}, {
+  "_id" : "41",
+  "hezpID" : "41",
+  "chapterID" : "21",
+  "hezp_name" : "الحزب الحادي والأربعون"
+}, {
+  "_id" : "42",
+  "hezpID" : "42",
+  "chapterID" : "21",
+  "hezp_name" : "الحزب الثاني والأربعون"
+}, {
+  "_id" : "43",
+  "hezpID" : "43",
+  "chapterID" : "22",
+  "hezp_name" : "الحزب الثالث والأربعون"
+}, {
+  "_id" : "44",
+  "hezpID" : "44",
+  "chapterID" : "22",
+  "hezp_name" : "الحزب الرابع والأربعون"
+}, {
+  "_id" : "45",
+  "hezpID" : "45",
+  "chapterID" : "23",
+  "hezp_name" : "الحزب الخامس والأربعون"
+}, {
+  "_id" : "46",
+  "hezpID" : "46",
+  "chapterID" : "23",
+  "hezp_name" : "الحزب السادس والأربعون"
+}, {
+  "_id" : "47",
+  "hezpID" : "47",
+  "chapterID" : "24",
+  "hezp_name" : "الحزب السابع والأربعون"
+}, {
+  "_id" : "48",
+  "hezpID" : "48",
+  "chapterID" : "24",
+  "hezp_name" : "الحزب الثامن والأربعون"
+}, {
+  "_id" : "49",
+  "hezpID" : "49",
+  "chapterID" : "25",
+  "hezp_name" : "الحزب التاسع والأربعون"
+}, {
+  "_id" : "50",
+  "hezpID" : "50",
+  "chapterID" : "25",
+  "hezp_name" : "الحزب الخمسون"
+}, {
+  "_id" : "51",
+  "hezpID" : "51",
+  "chapterID" : "26",
+  "hezp_name" : "الحزب الحادي والخمسون"
+}, {
+  "_id" : "52",
+  "hezpID" : "52",
+  "chapterID" : "26",
+  "hezp_name" : "الحزب الثاني والخمسون"
+}, {
+  "_id" : "53",
+  "hezpID" : "53",
+  "chapterID" : "27",
+  "hezp_name" : "الحزب الثالث والخمسون"
+}, {
+  "_id" : "54",
+  "hezpID" : "54",
+  "chapterID" : "27",
+  "hezp_name" : "الحزب الرابع والخمسون"
+}, {
+  "_id" : "55",
+  "hezpID" : "55",
+  "chapterID" : "28",
+  "hezp_name" : "الحزب الخامس والخمسون"
+}, {
+  "_id" : "56",
+  "hezpID" : "56",
+  "chapterID" : "28",
+  "hezp_name" : "الحزب السادس والخمسون"
+}, {
+  "_id" : "57",
+  "hezpID" : "57",
+  "chapterID" : "29",
+  "hezp_name" : "الحزب السابع والخمسون"
+}, {
+  "_id" : "58",
+  "hezpID" : "58",
+  "chapterID" : "29",
+  "hezp_name" : "الحزب الثامن والخمسون"
+}, {
+  "_id" : "59",
+  "hezpID" : "59",
+  "chapterID" : "30",
+  "hezp_name" : "الحزب التاسع والخمسون"
+}, {
+  "_id" : "60",
+  "hezpID" : "60",
+  "chapterID" : "30",
+  "hezp_name" : "الحزب الستون"
+} ]

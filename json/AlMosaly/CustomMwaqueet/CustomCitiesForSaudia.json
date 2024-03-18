@@ -1,0 +1,169 @@
+[ {
+  "id" : 1,
+  "countryId" : 1,
+  "cityId" : 4,
+  "cityName" : "مدينة جده",
+  "cityLatitude" : 21.5,
+  "cityLongitude" : 39.17
+}, {
+  "id" : 2,
+  "countryId" : 1,
+  "cityId" : 3,
+  "cityName" : "مدينة الرياض",
+  "cityLatitude" : 24.669999999999998,
+  "cityLongitude" : 46.69
+}, {
+  "id" : 3,
+  "countryId" : 1,
+  "cityId" : 12,
+  "cityName" : "أبها",
+  "cityLatitude" : 18.22,
+  "cityLongitude" : 42.510000000000005
+}, {
+  "id" : 4,
+  "countryId" : 1,
+  "cityId" : 117,
+  "cityName" : "بدر",
+  "cityLatitude" : 23.78,
+  "cityLongitude" : 38.8
+}, {
+  "id" : 5,
+  "countryId" : 1,
+  "cityId" : 104,
+  "cityName" : "النعيرية",
+  "cityLatitude" : 27.47,
+  "cityLongitude" : 48.47
+}, {
+  "id" : 6,
+  "countryId" : 1,
+  "cityId" : 5,
+  "cityName" : "الدمام",
+  "cityLatitude" : 26.433000000000003,
+  "cityLongitude" : 50.117
+}, {
+  "id" : 7,
+  "countryId" : 1,
+  "cityId" : 8,
+  "cityName" : "الطائف",
+  "cityLatitude" : 21.25,
+  "cityLongitude" : 40.4
+}, {
+  "id" : 8,
+  "countryId" : 1,
+  "cityId" : 42,
+  "cityName" : "الخبر",
+  "cityLatitude" : 26.26,
+  "cityLongitude" : 50.21
+}, {
+  "id" : 9,
+  "countryId" : 1,
+  "cityId" : 2,
+  "cityName" : "المدينه المنوره",
+  "cityLatitude" : 24.54,
+  "cityLongitude" : 39.63
+}, {
+  "id" : 10,
+  "countryId" : 1,
+  "cityId" : 11,
+  "cityName" : "ينبع",
+  "cityLatitude" : 24.09,
+  "cityLongitude" : 38.07
+}, {
+  "id" : 11,
+  "countryId" : 1,
+  "cityId" : 1,
+  "cityName" : "مكة المكرمة ",
+  "cityLatitude" : 21.426666,
+  "cityLongitude" : 39.831666000000006
+}, {
+  "id" : 12,
+  "countryId" : 1,
+  "cityId" : 13,
+  "cityName" : "حائل",
+  "cityLatitude" : 27.52,
+  "cityLongitude" : 41.7
+}, {
+  "id" : 13,
+  "countryId" : 1,
+  "cityId" : 14,
+  "cityName" : "بريدة",
+  "cityLatitude" : 26.35,
+  "cityLongitude" : 43.96
+}, {
+  "id" : 14,
+  "countryId" : 1,
+  "cityId" : 10,
+  "cityName" : "تبوك",
+  "cityLatitude" : 28.4,
+  "cityLongitude" : 36.58
+}, {
+  "id" : 15,
+  "countryId" : 1,
+  "cityId" : 6,
+  "cityName" : "جازان",
+  "cityLatitude" : 16.89,
+  "cityLongitude" : 42.54
+}, {
+  "id" : 16,
+  "countryId" : 1,
+  "cityId" : 9,
+  "cityName" : "الجبيل",
+  "cityLatitude" : 27.0,
+  "cityLongitude" : 49.660000000000004
+}, {
+  "id" : 17,
+  "countryId" : 1,
+  "cityId" : 185,
+  "cityName" : "ظهران الجنوب",
+  "cityLatitude" : 17.69,
+  "cityLongitude" : 43.510000000000005
+}, {
+  "id" : 18,
+  "countryId" : 1,
+  "cityId" : 22,
+  "cityName" : "الباحة",
+  "cityLatitude" : 20.009999999999998,
+  "cityLongitude" : 41.47
+}, {
+  "id" : 19,
+  "countryId" : 1,
+  "cityId" : 83,
+  "cityName" : "القطيف",
+  "cityLatitude" : 26.560000000000002,
+  "cityLongitude" : 49.989999999999995
+}, {
+  "id" : 20,
+  "countryId" : 1,
+  "cityId" : 16,
+  "cityName" : "نجران",
+  "cityLatitude" : 17.52,
+  "cityLongitude" : 44.2
+}, {
+  "id" : 21,
+  "countryId" : 1,
+  "cityId" : 158,
+  "cityName" : "رفحاء",
+  "cityLatitude" : 29.630000000000003,
+  "cityLongitude" : 43.5
+}, {
+  "id" : 22,
+  "countryId" : 1,
+  "cityId" : 17,
+  "cityName" : "عرعر",
+  "cityLatitude" : 30.99,
+  "cityLongitude" : 41.019999999999996
+}, {
+  "id" : 23,
+  "countryId" : 1,
+  "cityId" : 7,
+  "cityName" : "الهفوف",
+  "cityLatitude" : 25.378000000000004,
+  "cityLongitude" : 49.578
+}, {
+  "id" : 24,
+  "countryId" : 1,
+  "cityId" : 90,
+  "cityName" : "المبرز",
+  "cityLatitude" : 25.41,
+  "cityLongitude" : 49.581
+} ]

@@ -1,0 +1,10 @@
+[ {
+  "BasmalaType" : 0,
+  "BasmalaMeaning" : "لا يوجد استعاذة او بسملة"
+}, {
+  "BasmalaType" : 1,
+  "BasmalaMeaning" : "يوجد بسملة"
+}, {
+  "BasmalaType" : 2,
+  "BasmalaMeaning" : "يوجد استعاذة"
+} ]

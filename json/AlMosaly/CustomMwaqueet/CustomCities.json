@@ -1,0 +1,78 @@
+[ {
+  "id" : 1,
+  "countryId" : 461,
+  "cityId" : 60806,
+  "cityName" : "Birmingham",
+  "cityLatitude" : 52.48142,
+  "cityLongitude" : -1.8998300000000001
+}, {
+  "id" : 2,
+  "countryId" : 461,
+  "cityId" : 60666,
+  "cityName" : "Brighton",
+  "cityLatitude" : 50.828379999999996,
+  "cityLongitude" : -0.13946999999999998
+}, {
+  "id" : 3,
+  "countryId" : 461,
+  "cityId" : 60663,
+  "cityName" : "Bristol",
+  "cityLatitude" : 51.45522999999999,
+  "cityLongitude" : -2.5966500000000003
+}, {
+  "id" : 4,
+  "countryId" : 461,
+  "cityId" : 60550,
+  "cityName" : "Cambridge",
+  "cityLatitude" : 52.2,
+  "cityLongitude" : 0.11667000000000001
+}, {
+  "id" : 5,
+  "countryId" : 461,
+  "cityId" : 60538,
+  "cityName" : "Cardiff",
+  "cityLatitude" : 51.48,
+  "cityLongitude" : -3.18
+}, {
+  "id" : 6,
+  "countryId" : 461,
+  "cityId" : 60020,
+  "cityName" : "Exeter",
+  "cityLatitude" : 50.7236,
+  "cityLongitude" : -3.5275099999999995
+}, {
+  "id" : 7,
+  "countryId" : 461,
+  "cityId" : 59364,
+  "cityName" : "Leeds",
+  "cityLatitude" : 53.796479999999995,
+  "cityLongitude" : -1.54785
+}, {
+  "id" : 8,
+  "countryId" : 461,
+  "cityId" : 59360,
+  "cityName" : "Leicester",
+  "cityLatitude" : 52.6386,
+  "cityLongitude" : -1.13169
+}, {
+  "id" : 9,
+  "countryId" : 461,
+  "cityId" : 59310,
+  "cityName" : "Liverpool",
+  "cityLatitude" : 53.41058,
+  "cityLongitude" : -2.97794
+}, {
+  "id" : 10,
+  "countryId" : 461,
+  "cityId" : 59232,
+  "cityName" : "London",
+  "cityLatitude" : 51.50852999999999,
+  "cityLongitude" : -0.12574000000000002
+}, {
+  "id" : 11,
+  "countryId" : 461,
+  "cityId" : 59156,
+  "cityName" : "Manchester",
+  "cityLatitude" : 53.48094999999999,
+  "cityLongitude" : -2.23743
+} ]

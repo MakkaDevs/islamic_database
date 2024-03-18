@@ -1,0 +1,17 @@
+[ {
+  "_id" : "1",
+  "quarter_no" : "1",
+  "quarter_name" : "ربع الحزب"
+}, {
+  "_id" : "2",
+  "quarter_no" : "2",
+  "quarter_name" : "نصف الحزب"
+}, {
+  "_id" : "3",
+  "quarter_no" : "3",
+  "quarter_name" : "ثلاث ارباع الحزب"
+}, {
+  "_id" : "4",
+  "quarter_no" : "4",
+  "quarter_name" : "الحزب"
+} ]

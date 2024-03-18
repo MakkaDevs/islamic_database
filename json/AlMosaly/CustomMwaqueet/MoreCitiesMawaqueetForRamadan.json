@@ -1,0 +1,10371 @@
+[ {
+  "countryCityID" : 1,
+  "day" : 102,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 18.330000000000002
+}, {
+  "countryCityID" : 1,
+  "day" : 103,
+  "fajr" : 4.0,
+  "maghrib" : 18.35
+}, {
+  "countryCityID" : 1,
+  "day" : 104,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 18.369999999999997
+}, {
+  "countryCityID" : 1,
+  "day" : 105,
+  "fajr" : 3.95,
+  "maghrib" : 18.369999999999997
+}, {
+  "countryCityID" : 1,
+  "day" : 106,
+  "fajr" : 3.9299999999999997,
+  "maghrib" : 18.380000000000003
+}, {
+  "countryCityID" : 1,
+  "day" : 107,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 18.4
+}, {
+  "countryCityID" : 1,
+  "day" : 108,
+  "fajr" : 3.88,
+  "maghrib" : 18.4
+}, {
+  "countryCityID" : 1,
+  "day" : 109,
+  "fajr" : 3.87,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 1,
+  "day" : 110,
+  "fajr" : 3.85,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 1,
+  "day" : 111,
+  "fajr" : 3.8200000000000003,
+  "maghrib" : 18.43
+}, {
+  "countryCityID" : 1,
+  "day" : 112,
+  "fajr" : 3.8,
+  "maghrib" : 18.45
+}, {
+  "countryCityID" : 1,
+  "day" : 113,
+  "fajr" : 3.78,
+  "maghrib" : 18.45
+}, {
+  "countryCityID" : 1,
+  "day" : 114,
+  "fajr" : 3.7700000000000005,
+  "maghrib" : 18.47
+}, {
+  "countryCityID" : 1,
+  "day" : 115,
+  "fajr" : 3.7299999999999995,
+  "maghrib" : 18.48
+}, {
+  "countryCityID" : 1,
+  "day" : 116,
+  "fajr" : 3.72,
+  "maghrib" : 18.48
+}, {
+  "countryCityID" : 1,
+  "day" : 117,
+  "fajr" : 3.7,
+  "maghrib" : 18.5
+}, {
+  "countryCityID" : 1,
+  "day" : 118,
+  "fajr" : 3.6799999999999997,
+  "maghrib" : 18.52
+}, {
+  "countryCityID" : 1,
+  "day" : 119,
+  "fajr" : 3.65,
+  "maghrib" : 18.52
+}, {
+  "countryCityID" : 1,
+  "day" : 120,
+  "fajr" : 3.63,
+  "maghrib" : 18.53
+}, {
+  "countryCityID" : 1,
+  "day" : 121,
+  "fajr" : 3.62,
+  "maghrib" : 18.53
+}, {
+  "countryCityID" : 1,
+  "day" : 122,
+  "fajr" : 3.6,
+  "maghrib" : 18.55
+}, {
+  "countryCityID" : 1,
+  "day" : 123,
+  "fajr" : 3.5799999999999996,
+  "maghrib" : 18.57
+}, {
+  "countryCityID" : 1,
+  "day" : 124,
+  "fajr" : 3.55,
+  "maghrib" : 18.57
+}, {
+  "countryCityID" : 1,
+  "day" : 125,
+  "fajr" : 3.53,
+  "maghrib" : 18.580000000000002
+}, {
+  "countryCityID" : 1,
+  "day" : 126,
+  "fajr" : 3.5200000000000005,
+  "maghrib" : 18.6
+}, {
+  "countryCityID" : 1,
+  "day" : 127,
+  "fajr" : 3.5,
+  "maghrib" : 18.6
+}, {
+  "countryCityID" : 1,
+  "day" : 128,
+  "fajr" : 3.4799999999999995,
+  "maghrib" : 18.619999999999997
+}, {
+  "countryCityID" : 1,
+  "day" : 129,
+  "fajr" : 3.47,
+  "maghrib" : 18.630000000000003
+}, {
+  "countryCityID" : 1,
+  "day" : 130,
+  "fajr" : 3.45,
+  "maghrib" : 18.630000000000003
+}, {
+  "countryCityID" : 1,
+  "day" : 131,
+  "fajr" : 3.4299999999999997,
+  "maghrib" : 18.65
+}, {
+  "countryCityID" : 1,
+  "day" : 132,
+  "fajr" : 3.4200000000000004,
+  "maghrib" : 18.669999999999998
+}, {
+  "countryCityID" : 1,
+  "day" : 133,
+  "fajr" : 3.4,
+  "maghrib" : 18.669999999999998
+}, {
+  "countryCityID" : 1,
+  "day" : 134,
+  "fajr" : 3.38,
+  "maghrib" : 18.68
+}, {
+  "countryCityID" : 1,
+  "day" : 135,
+  "fajr" : 3.37,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 1,
+  "day" : 136,
+  "fajr" : 3.35,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 1,
+  "day" : 137,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 1,
+  "day" : 138,
+  "fajr" : 3.3200000000000003,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 1,
+  "day" : 139,
+  "fajr" : 3.3200000000000003,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 1,
+  "day" : 140,
+  "fajr" : 3.3,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 1,
+  "day" : 141,
+  "fajr" : 3.28,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 1,
+  "day" : 142,
+  "fajr" : 3.2700000000000005,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 1,
+  "day" : 143,
+  "fajr" : 3.2700000000000005,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 1,
+  "day" : 144,
+  "fajr" : 3.25,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 1,
+  "day" : 145,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 1,
+  "day" : 146,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 1,
+  "day" : 147,
+  "fajr" : 3.22,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 1,
+  "day" : 148,
+  "fajr" : 3.2,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 1,
+  "day" : 149,
+  "fajr" : 3.2,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 1,
+  "day" : 150,
+  "fajr" : 3.18,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 1,
+  "day" : 151,
+  "fajr" : 3.18,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 1,
+  "day" : 152,
+  "fajr" : 3.17,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 1,
+  "day" : 153,
+  "fajr" : 3.17,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 1,
+  "day" : 154,
+  "fajr" : 3.17,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 1,
+  "day" : 155,
+  "fajr" : 3.15,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 1,
+  "day" : 156,
+  "fajr" : 3.15,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 1,
+  "day" : 157,
+  "fajr" : 3.13,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 1,
+  "day" : 158,
+  "fajr" : 3.15,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 1,
+  "day" : 159,
+  "fajr" : 3.13,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 1,
+  "day" : 160,
+  "fajr" : 3.13,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 1,
+  "day" : 161,
+  "fajr" : 3.13,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 1,
+  "day" : 162,
+  "fajr" : 3.13,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 2,
+  "day" : 102,
+  "fajr" : 4.08,
+  "maghrib" : 18.45
+}, {
+  "countryCityID" : 2,
+  "day" : 103,
+  "fajr" : 4.05,
+  "maghrib" : 18.45
+}, {
+  "countryCityID" : 2,
+  "day" : 104,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 18.47
+}, {
+  "countryCityID" : 2,
+  "day" : 105,
+  "fajr" : 4.0,
+  "maghrib" : 18.48
+}, {
+  "countryCityID" : 2,
+  "day" : 106,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 18.48
+}, {
+  "countryCityID" : 2,
+  "day" : 107,
+  "fajr" : 3.95,
+  "maghrib" : 18.5
+}, {
+  "countryCityID" : 2,
+  "day" : 108,
+  "fajr" : 3.9299999999999997,
+  "maghrib" : 18.52
+}, {
+  "countryCityID" : 2,
+  "day" : 109,
+  "fajr" : 3.9,
+  "maghrib" : 18.52
+}, {
+  "countryCityID" : 2,
+  "day" : 110,
+  "fajr" : 3.88,
+  "maghrib" : 18.53
+}, {
+  "countryCityID" : 2,
+  "day" : 111,
+  "fajr" : 3.87,
+  "maghrib" : 18.55
+}, {
+  "countryCityID" : 2,
+  "day" : 112,
+  "fajr" : 3.8299999999999996,
+  "maghrib" : 18.55
+}, {
+  "countryCityID" : 2,
+  "day" : 113,
+  "fajr" : 3.8200000000000003,
+  "maghrib" : 18.57
+}, {
+  "countryCityID" : 2,
+  "day" : 114,
+  "fajr" : 3.8,
+  "maghrib" : 18.580000000000002
+}, {
+  "countryCityID" : 2,
+  "day" : 115,
+  "fajr" : 3.7700000000000005,
+  "maghrib" : 18.580000000000002
+}, {
+  "countryCityID" : 2,
+  "day" : 116,
+  "fajr" : 3.75,
+  "maghrib" : 18.6
+}, {
+  "countryCityID" : 2,
+  "day" : 117,
+  "fajr" : 3.7299999999999995,
+  "maghrib" : 18.619999999999997
+}, {
+  "countryCityID" : 2,
+  "day" : 118,
+  "fajr" : 3.72,
+  "maghrib" : 18.619999999999997
+}, {
+  "countryCityID" : 2,
+  "day" : 119,
+  "fajr" : 3.6799999999999997,
+  "maghrib" : 18.630000000000003
+}, {
+  "countryCityID" : 2,
+  "day" : 120,
+  "fajr" : 3.6700000000000004,
+  "maghrib" : 18.65
+}, {
+  "countryCityID" : 2,
+  "day" : 121,
+  "fajr" : 3.65,
+  "maghrib" : 18.65
+}, {
+  "countryCityID" : 2,
+  "day" : 122,
+  "fajr" : 3.63,
+  "maghrib" : 18.669999999999998
+}, {
+  "countryCityID" : 2,
+  "day" : 123,
+  "fajr" : 3.6,
+  "maghrib" : 18.68
+}, {
+  "countryCityID" : 2,
+  "day" : 124,
+  "fajr" : 3.5799999999999996,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 2,
+  "day" : 125,
+  "fajr" : 3.5700000000000003,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 2,
+  "day" : 126,
+  "fajr" : 3.55,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 2,
+  "day" : 127,
+  "fajr" : 3.53,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 2,
+  "day" : 128,
+  "fajr" : 3.5200000000000005,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 2,
+  "day" : 129,
+  "fajr" : 3.4799999999999995,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 2,
+  "day" : 130,
+  "fajr" : 3.47,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 2,
+  "day" : 131,
+  "fajr" : 3.45,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 2,
+  "day" : 132,
+  "fajr" : 3.4299999999999997,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 2,
+  "day" : 133,
+  "fajr" : 3.4200000000000004,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 2,
+  "day" : 134,
+  "fajr" : 3.4,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 2,
+  "day" : 135,
+  "fajr" : 3.38,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 2,
+  "day" : 136,
+  "fajr" : 3.37,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 2,
+  "day" : 137,
+  "fajr" : 3.35,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 2,
+  "day" : 138,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 2,
+  "day" : 139,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 2,
+  "day" : 140,
+  "fajr" : 3.3200000000000003,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 2,
+  "day" : 141,
+  "fajr" : 3.3,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 2,
+  "day" : 142,
+  "fajr" : 3.28,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 2,
+  "day" : 143,
+  "fajr" : 3.2700000000000005,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 2,
+  "day" : 144,
+  "fajr" : 3.2700000000000005,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 2,
+  "day" : 145,
+  "fajr" : 3.25,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 2,
+  "day" : 146,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 2,
+  "day" : 147,
+  "fajr" : 3.22,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 2,
+  "day" : 148,
+  "fajr" : 3.22,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 2,
+  "day" : 149,
+  "fajr" : 3.2,
+  "maghrib" : 18.97
+}, {
+  "countryCityID" : 2,
+  "day" : 150,
+  "fajr" : 3.2,
+  "maghrib" : 18.97
+}, {
+  "countryCityID" : 2,
+  "day" : 151,
+  "fajr" : 3.18,
+  "maghrib" : 18.98
+}, {
+  "countryCityID" : 2,
+  "day" : 152,
+  "fajr" : 3.18,
+  "maghrib" : 18.98
+}, {
+  "countryCityID" : 2,
+  "day" : 153,
+  "fajr" : 3.17,
+  "maghrib" : 19.0
+}, {
+  "countryCityID" : 2,
+  "day" : 154,
+  "fajr" : 3.17,
+  "maghrib" : 19.02
+}, {
+  "countryCityID" : 2,
+  "day" : 155,
+  "fajr" : 3.15,
+  "maghrib" : 19.02
+}, {
+  "countryCityID" : 2,
+  "day" : 156,
+  "fajr" : 3.15,
+  "maghrib" : 19.03
+}, {
+  "countryCityID" : 2,
+  "day" : 157,
+  "fajr" : 3.15,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 2,
+  "day" : 158,
+  "fajr" : 3.15,
+  "maghrib" : 19.03
+}, {
+  "countryCityID" : 2,
+  "day" : 159,
+  "fajr" : 3.13,
+  "maghrib" : 19.03
+}, {
+  "countryCityID" : 2,
+  "day" : 160,
+  "fajr" : 3.13,
+  "maghrib" : 19.05
+}, {
+  "countryCityID" : 2,
+  "day" : 161,
+  "fajr" : 3.13,
+  "maghrib" : 19.05
+}, {
+  "countryCityID" : 2,
+  "day" : 162,
+  "fajr" : 3.13,
+  "maghrib" : 19.07
+}, {
+  "countryCityID" : 3,
+  "day" : 102,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 18.369999999999997
+}, {
+  "countryCityID" : 3,
+  "day" : 103,
+  "fajr" : 4.0,
+  "maghrib" : 18.380000000000003
+}, {
+  "countryCityID" : 3,
+  "day" : 104,
+  "fajr" : 3.97,
+  "maghrib" : 18.380000000000003
+}, {
+  "countryCityID" : 3,
+  "day" : 105,
+  "fajr" : 3.95,
+  "maghrib" : 18.4
+}, {
+  "countryCityID" : 3,
+  "day" : 106,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 3,
+  "day" : 107,
+  "fajr" : 3.9,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 3,
+  "day" : 108,
+  "fajr" : 3.88,
+  "maghrib" : 18.43
+}, {
+  "countryCityID" : 3,
+  "day" : 109,
+  "fajr" : 3.85,
+  "maghrib" : 18.45
+}, {
+  "countryCityID" : 3,
+  "day" : 110,
+  "fajr" : 3.8299999999999996,
+  "maghrib" : 18.45
+}, {
+  "countryCityID" : 3,
+  "day" : 111,
+  "fajr" : 3.8200000000000003,
+  "maghrib" : 18.47
+}, {
+  "countryCityID" : 3,
+  "day" : 112,
+  "fajr" : 3.78,
+  "maghrib" : 18.48
+}, {
+  "countryCityID" : 3,
+  "day" : 113,
+  "fajr" : 3.7700000000000005,
+  "maghrib" : 18.48
+}, {
+  "countryCityID" : 3,
+  "day" : 114,
+  "fajr" : 3.75,
+  "maghrib" : 18.5
+}, {
+  "countryCityID" : 3,
+  "day" : 115,
+  "fajr" : 3.7299999999999995,
+  "maghrib" : 18.52
+}, {
+  "countryCityID" : 3,
+  "day" : 116,
+  "fajr" : 3.7,
+  "maghrib" : 18.52
+}, {
+  "countryCityID" : 3,
+  "day" : 117,
+  "fajr" : 3.6799999999999997,
+  "maghrib" : 18.53
+}, {
+  "countryCityID" : 3,
+  "day" : 118,
+  "fajr" : 3.6700000000000004,
+  "maghrib" : 18.55
+}, {
+  "countryCityID" : 3,
+  "day" : 119,
+  "fajr" : 3.63,
+  "maghrib" : 18.55
+}, {
+  "countryCityID" : 3,
+  "day" : 120,
+  "fajr" : 3.62,
+  "maghrib" : 18.57
+}, {
+  "countryCityID" : 3,
+  "day" : 121,
+  "fajr" : 3.6,
+  "maghrib" : 18.580000000000002
+}, {
+  "countryCityID" : 3,
+  "day" : 122,
+  "fajr" : 3.5799999999999996,
+  "maghrib" : 18.580000000000002
+}, {
+  "countryCityID" : 3,
+  "day" : 123,
+  "fajr" : 3.5700000000000003,
+  "maghrib" : 18.6
+}, {
+  "countryCityID" : 3,
+  "day" : 124,
+  "fajr" : 3.53,
+  "maghrib" : 18.619999999999997
+}, {
+  "countryCityID" : 3,
+  "day" : 125,
+  "fajr" : 3.5200000000000005,
+  "maghrib" : 18.619999999999997
+}, {
+  "countryCityID" : 3,
+  "day" : 126,
+  "fajr" : 3.5,
+  "maghrib" : 18.630000000000003
+}, {
+  "countryCityID" : 3,
+  "day" : 127,
+  "fajr" : 3.4799999999999995,
+  "maghrib" : 18.65
+}, {
+  "countryCityID" : 3,
+  "day" : 128,
+  "fajr" : 3.47,
+  "maghrib" : 18.65
+}, {
+  "countryCityID" : 3,
+  "day" : 129,
+  "fajr" : 3.45,
+  "maghrib" : 18.669999999999998
+}, {
+  "countryCityID" : 3,
+  "day" : 130,
+  "fajr" : 3.4299999999999997,
+  "maghrib" : 18.68
+}, {
+  "countryCityID" : 3,
+  "day" : 131,
+  "fajr" : 3.4200000000000004,
+  "maghrib" : 18.68
+}, {
+  "countryCityID" : 3,
+  "day" : 132,
+  "fajr" : 3.4,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 3,
+  "day" : 133,
+  "fajr" : 3.38,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 3,
+  "day" : 134,
+  "fajr" : 3.37,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 3,
+  "day" : 135,
+  "fajr" : 3.35,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 3,
+  "day" : 136,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 3,
+  "day" : 137,
+  "fajr" : 3.3200000000000003,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 3,
+  "day" : 138,
+  "fajr" : 3.3,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 3,
+  "day" : 139,
+  "fajr" : 3.28,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 3,
+  "day" : 140,
+  "fajr" : 3.2700000000000005,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 3,
+  "day" : 141,
+  "fajr" : 3.2700000000000005,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 3,
+  "day" : 142,
+  "fajr" : 3.25,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 3,
+  "day" : 143,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 3,
+  "day" : 144,
+  "fajr" : 3.22,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 3,
+  "day" : 145,
+  "fajr" : 3.22,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 3,
+  "day" : 146,
+  "fajr" : 3.2,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 3,
+  "day" : 147,
+  "fajr" : 3.18,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 3,
+  "day" : 148,
+  "fajr" : 3.18,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 3,
+  "day" : 149,
+  "fajr" : 3.17,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 3,
+  "day" : 150,
+  "fajr" : 3.15,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 3,
+  "day" : 151,
+  "fajr" : 3.15,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 3,
+  "day" : 152,
+  "fajr" : 3.15,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 3,
+  "day" : 153,
+  "fajr" : 3.13,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 3,
+  "day" : 154,
+  "fajr" : 3.13,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 3,
+  "day" : 155,
+  "fajr" : 3.12,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 3,
+  "day" : 156,
+  "fajr" : 3.12,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 3,
+  "day" : 157,
+  "fajr" : 3.12,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 3,
+  "day" : 158,
+  "fajr" : 3.12,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 3,
+  "day" : 159,
+  "fajr" : 3.1,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 3,
+  "day" : 160,
+  "fajr" : 3.1,
+  "maghrib" : 18.97
+}, {
+  "countryCityID" : 3,
+  "day" : 161,
+  "fajr" : 3.1,
+  "maghrib" : 18.97
+}, {
+  "countryCityID" : 3,
+  "day" : 162,
+  "fajr" : 3.1,
+  "maghrib" : 18.98
+}, {
+  "countryCityID" : 4,
+  "day" : 102,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 18.330000000000002
+}, {
+  "countryCityID" : 4,
+  "day" : 103,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 18.330000000000002
+}, {
+  "countryCityID" : 4,
+  "day" : 104,
+  "fajr" : 3.97,
+  "maghrib" : 18.35
+}, {
+  "countryCityID" : 4,
+  "day" : 105,
+  "fajr" : 3.95,
+  "maghrib" : 18.369999999999997
+}, {
+  "countryCityID" : 4,
+  "day" : 106,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 18.369999999999997
+}, {
+  "countryCityID" : 4,
+  "day" : 107,
+  "fajr" : 3.9,
+  "maghrib" : 18.380000000000003
+}, {
+  "countryCityID" : 4,
+  "day" : 108,
+  "fajr" : 3.88,
+  "maghrib" : 18.4
+}, {
+  "countryCityID" : 4,
+  "day" : 109,
+  "fajr" : 3.87,
+  "maghrib" : 18.4
+}, {
+  "countryCityID" : 4,
+  "day" : 110,
+  "fajr" : 3.8299999999999996,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 4,
+  "day" : 111,
+  "fajr" : 3.8200000000000003,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 4,
+  "day" : 112,
+  "fajr" : 3.8,
+  "maghrib" : 18.43
+}, {
+  "countryCityID" : 4,
+  "day" : 113,
+  "fajr" : 3.7700000000000005,
+  "maghrib" : 18.45
+}, {
+  "countryCityID" : 4,
+  "day" : 114,
+  "fajr" : 3.75,
+  "maghrib" : 18.45
+}, {
+  "countryCityID" : 4,
+  "day" : 115,
+  "fajr" : 3.7299999999999995,
+  "maghrib" : 18.47
+}, {
+  "countryCityID" : 4,
+  "day" : 116,
+  "fajr" : 3.72,
+  "maghrib" : 18.48
+}, {
+  "countryCityID" : 4,
+  "day" : 117,
+  "fajr" : 3.6799999999999997,
+  "maghrib" : 18.48
+}, {
+  "countryCityID" : 4,
+  "day" : 118,
+  "fajr" : 3.6700000000000004,
+  "maghrib" : 18.5
+}, {
+  "countryCityID" : 4,
+  "day" : 119,
+  "fajr" : 3.65,
+  "maghrib" : 18.52
+}, {
+  "countryCityID" : 4,
+  "day" : 120,
+  "fajr" : 3.63,
+  "maghrib" : 18.52
+}, {
+  "countryCityID" : 4,
+  "day" : 121,
+  "fajr" : 3.62,
+  "maghrib" : 18.53
+}, {
+  "countryCityID" : 4,
+  "day" : 122,
+  "fajr" : 3.5799999999999996,
+  "maghrib" : 18.55
+}, {
+  "countryCityID" : 4,
+  "day" : 123,
+  "fajr" : 3.5700000000000003,
+  "maghrib" : 18.55
+}, {
+  "countryCityID" : 4,
+  "day" : 124,
+  "fajr" : 3.55,
+  "maghrib" : 18.57
+}, {
+  "countryCityID" : 4,
+  "day" : 125,
+  "fajr" : 3.53,
+  "maghrib" : 18.57
+}, {
+  "countryCityID" : 4,
+  "day" : 126,
+  "fajr" : 3.5200000000000005,
+  "maghrib" : 18.580000000000002
+}, {
+  "countryCityID" : 4,
+  "day" : 127,
+  "fajr" : 3.5,
+  "maghrib" : 18.6
+}, {
+  "countryCityID" : 4,
+  "day" : 128,
+  "fajr" : 3.4799999999999995,
+  "maghrib" : 18.6
+}, {
+  "countryCityID" : 4,
+  "day" : 129,
+  "fajr" : 3.47,
+  "maghrib" : 18.619999999999997
+}, {
+  "countryCityID" : 4,
+  "day" : 130,
+  "fajr" : 3.45,
+  "maghrib" : 18.630000000000003
+}, {
+  "countryCityID" : 4,
+  "day" : 131,
+  "fajr" : 3.4299999999999997,
+  "maghrib" : 18.630000000000003
+}, {
+  "countryCityID" : 4,
+  "day" : 132,
+  "fajr" : 3.4200000000000004,
+  "maghrib" : 18.65
+}, {
+  "countryCityID" : 4,
+  "day" : 133,
+  "fajr" : 3.4,
+  "maghrib" : 18.669999999999998
+}, {
+  "countryCityID" : 4,
+  "day" : 134,
+  "fajr" : 3.38,
+  "maghrib" : 18.669999999999998
+}, {
+  "countryCityID" : 4,
+  "day" : 135,
+  "fajr" : 3.37,
+  "maghrib" : 18.68
+}, {
+  "countryCityID" : 4,
+  "day" : 136,
+  "fajr" : 3.35,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 4,
+  "day" : 137,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 4,
+  "day" : 138,
+  "fajr" : 3.3200000000000003,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 4,
+  "day" : 139,
+  "fajr" : 3.3,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 4,
+  "day" : 140,
+  "fajr" : 3.28,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 4,
+  "day" : 141,
+  "fajr" : 3.28,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 4,
+  "day" : 142,
+  "fajr" : 3.2700000000000005,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 4,
+  "day" : 143,
+  "fajr" : 3.25,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 4,
+  "day" : 144,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 4,
+  "day" : 145,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 4,
+  "day" : 146,
+  "fajr" : 3.22,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 4,
+  "day" : 147,
+  "fajr" : 3.2,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 4,
+  "day" : 148,
+  "fajr" : 3.2,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 4,
+  "day" : 149,
+  "fajr" : 3.18,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 4,
+  "day" : 150,
+  "fajr" : 3.18,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 4,
+  "day" : 151,
+  "fajr" : 3.17,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 4,
+  "day" : 152,
+  "fajr" : 3.17,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 4,
+  "day" : 153,
+  "fajr" : 3.15,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 4,
+  "day" : 154,
+  "fajr" : 3.15,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 4,
+  "day" : 155,
+  "fajr" : 3.15,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 4,
+  "day" : 156,
+  "fajr" : 3.13,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 4,
+  "day" : 157,
+  "fajr" : 3.13,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 4,
+  "day" : 158,
+  "fajr" : 3.13,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 4,
+  "day" : 159,
+  "fajr" : 3.13,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 4,
+  "day" : 160,
+  "fajr" : 3.12,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 4,
+  "day" : 161,
+  "fajr" : 3.12,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 4,
+  "day" : 162,
+  "fajr" : 3.12,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 5,
+  "day" : 102,
+  "fajr" : 4.05,
+  "maghrib" : 18.369999999999997
+}, {
+  "countryCityID" : 5,
+  "day" : 103,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 18.369999999999997
+}, {
+  "countryCityID" : 5,
+  "day" : 104,
+  "fajr" : 4.0,
+  "maghrib" : 18.380000000000003
+}, {
+  "countryCityID" : 5,
+  "day" : 105,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 18.4
+}, {
+  "countryCityID" : 5,
+  "day" : 106,
+  "fajr" : 3.97,
+  "maghrib" : 18.4
+}, {
+  "countryCityID" : 5,
+  "day" : 107,
+  "fajr" : 3.9299999999999997,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 5,
+  "day" : 108,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 5,
+  "day" : 109,
+  "fajr" : 3.9,
+  "maghrib" : 18.43
+}, {
+  "countryCityID" : 5,
+  "day" : 110,
+  "fajr" : 3.87,
+  "maghrib" : 18.45
+}, {
+  "countryCityID" : 5,
+  "day" : 111,
+  "fajr" : 3.85,
+  "maghrib" : 18.45
+}, {
+  "countryCityID" : 5,
+  "day" : 112,
+  "fajr" : 3.8299999999999996,
+  "maghrib" : 18.47
+}, {
+  "countryCityID" : 5,
+  "day" : 113,
+  "fajr" : 3.8,
+  "maghrib" : 18.48
+}, {
+  "countryCityID" : 5,
+  "day" : 114,
+  "fajr" : 3.78,
+  "maghrib" : 18.48
+}, {
+  "countryCityID" : 5,
+  "day" : 115,
+  "fajr" : 3.7700000000000005,
+  "maghrib" : 18.5
+}, {
+  "countryCityID" : 5,
+  "day" : 116,
+  "fajr" : 3.75,
+  "maghrib" : 18.5
+}, {
+  "countryCityID" : 5,
+  "day" : 117,
+  "fajr" : 3.72,
+  "maghrib" : 18.52
+}, {
+  "countryCityID" : 5,
+  "day" : 118,
+  "fajr" : 3.7,
+  "maghrib" : 18.53
+}, {
+  "countryCityID" : 5,
+  "day" : 119,
+  "fajr" : 3.6799999999999997,
+  "maghrib" : 18.53
+}, {
+  "countryCityID" : 5,
+  "day" : 120,
+  "fajr" : 3.6700000000000004,
+  "maghrib" : 18.55
+}, {
+  "countryCityID" : 5,
+  "day" : 121,
+  "fajr" : 3.65,
+  "maghrib" : 18.57
+}, {
+  "countryCityID" : 5,
+  "day" : 122,
+  "fajr" : 3.63,
+  "maghrib" : 18.57
+}, {
+  "countryCityID" : 5,
+  "day" : 123,
+  "fajr" : 3.6,
+  "maghrib" : 18.580000000000002
+}, {
+  "countryCityID" : 5,
+  "day" : 124,
+  "fajr" : 3.5799999999999996,
+  "maghrib" : 18.6
+}, {
+  "countryCityID" : 5,
+  "day" : 125,
+  "fajr" : 3.5700000000000003,
+  "maghrib" : 18.6
+}, {
+  "countryCityID" : 5,
+  "day" : 126,
+  "fajr" : 3.55,
+  "maghrib" : 18.619999999999997
+}, {
+  "countryCityID" : 5,
+  "day" : 127,
+  "fajr" : 3.53,
+  "maghrib" : 18.630000000000003
+}, {
+  "countryCityID" : 5,
+  "day" : 128,
+  "fajr" : 3.5200000000000005,
+  "maghrib" : 18.630000000000003
+}, {
+  "countryCityID" : 5,
+  "day" : 129,
+  "fajr" : 3.5,
+  "maghrib" : 18.65
+}, {
+  "countryCityID" : 5,
+  "day" : 130,
+  "fajr" : 3.4799999999999995,
+  "maghrib" : 18.65
+}, {
+  "countryCityID" : 5,
+  "day" : 131,
+  "fajr" : 3.47,
+  "maghrib" : 18.669999999999998
+}, {
+  "countryCityID" : 5,
+  "day" : 132,
+  "fajr" : 3.45,
+  "maghrib" : 18.68
+}, {
+  "countryCityID" : 5,
+  "day" : 133,
+  "fajr" : 3.4299999999999997,
+  "maghrib" : 18.68
+}, {
+  "countryCityID" : 5,
+  "day" : 134,
+  "fajr" : 3.4200000000000004,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 5,
+  "day" : 135,
+  "fajr" : 3.4,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 5,
+  "day" : 136,
+  "fajr" : 3.38,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 5,
+  "day" : 137,
+  "fajr" : 3.37,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 5,
+  "day" : 138,
+  "fajr" : 3.35,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 5,
+  "day" : 139,
+  "fajr" : 3.35,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 5,
+  "day" : 140,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 5,
+  "day" : 141,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 5,
+  "day" : 142,
+  "fajr" : 3.3200000000000003,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 5,
+  "day" : 143,
+  "fajr" : 3.3,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 5,
+  "day" : 144,
+  "fajr" : 3.28,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 5,
+  "day" : 145,
+  "fajr" : 3.28,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 5,
+  "day" : 146,
+  "fajr" : 3.2700000000000005,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 5,
+  "day" : 147,
+  "fajr" : 3.2700000000000005,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 5,
+  "day" : 148,
+  "fajr" : 3.25,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 5,
+  "day" : 149,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 5,
+  "day" : 150,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 5,
+  "day" : 151,
+  "fajr" : 3.22,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 5,
+  "day" : 152,
+  "fajr" : 3.22,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 5,
+  "day" : 153,
+  "fajr" : 3.2,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 5,
+  "day" : 154,
+  "fajr" : 3.2,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 5,
+  "day" : 155,
+  "fajr" : 3.18,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 5,
+  "day" : 156,
+  "fajr" : 3.18,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 5,
+  "day" : 157,
+  "fajr" : 3.18,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 5,
+  "day" : 158,
+  "fajr" : 3.17,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 5,
+  "day" : 159,
+  "fajr" : 3.17,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 5,
+  "day" : 160,
+  "fajr" : 3.17,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 5,
+  "day" : 161,
+  "fajr" : 3.17,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 5,
+  "day" : 162,
+  "fajr" : 3.17,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 6,
+  "day" : 102,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 18.35
+}, {
+  "countryCityID" : 6,
+  "day" : 103,
+  "fajr" : 3.95,
+  "maghrib" : 18.35
+}, {
+  "countryCityID" : 6,
+  "day" : 104,
+  "fajr" : 3.9299999999999997,
+  "maghrib" : 18.369999999999997
+}, {
+  "countryCityID" : 6,
+  "day" : 105,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 18.380000000000003
+}, {
+  "countryCityID" : 6,
+  "day" : 106,
+  "fajr" : 3.88,
+  "maghrib" : 18.380000000000003
+}, {
+  "countryCityID" : 6,
+  "day" : 107,
+  "fajr" : 3.87,
+  "maghrib" : 18.4
+}, {
+  "countryCityID" : 6,
+  "day" : 108,
+  "fajr" : 3.85,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 6,
+  "day" : 109,
+  "fajr" : 3.8200000000000003,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 6,
+  "day" : 110,
+  "fajr" : 3.8,
+  "maghrib" : 18.43
+}, {
+  "countryCityID" : 6,
+  "day" : 111,
+  "fajr" : 3.78,
+  "maghrib" : 18.45
+}, {
+  "countryCityID" : 6,
+  "day" : 112,
+  "fajr" : 3.75,
+  "maghrib" : 18.45
+}, {
+  "countryCityID" : 6,
+  "day" : 113,
+  "fajr" : 3.7299999999999995,
+  "maghrib" : 18.47
+}, {
+  "countryCityID" : 6,
+  "day" : 114,
+  "fajr" : 3.72,
+  "maghrib" : 18.48
+}, {
+  "countryCityID" : 6,
+  "day" : 115,
+  "fajr" : 3.6799999999999997,
+  "maghrib" : 18.48
+}, {
+  "countryCityID" : 6,
+  "day" : 116,
+  "fajr" : 3.6700000000000004,
+  "maghrib" : 18.5
+}, {
+  "countryCityID" : 6,
+  "day" : 117,
+  "fajr" : 3.65,
+  "maghrib" : 18.52
+}, {
+  "countryCityID" : 6,
+  "day" : 118,
+  "fajr" : 3.62,
+  "maghrib" : 18.52
+}, {
+  "countryCityID" : 6,
+  "day" : 119,
+  "fajr" : 3.6,
+  "maghrib" : 18.53
+}, {
+  "countryCityID" : 6,
+  "day" : 120,
+  "fajr" : 3.5799999999999996,
+  "maghrib" : 18.55
+}, {
+  "countryCityID" : 6,
+  "day" : 121,
+  "fajr" : 3.5700000000000003,
+  "maghrib" : 18.55
+}, {
+  "countryCityID" : 6,
+  "day" : 122,
+  "fajr" : 3.53,
+  "maghrib" : 18.57
+}, {
+  "countryCityID" : 6,
+  "day" : 123,
+  "fajr" : 3.5200000000000005,
+  "maghrib" : 18.580000000000002
+}, {
+  "countryCityID" : 6,
+  "day" : 124,
+  "fajr" : 3.5,
+  "maghrib" : 18.6
+}, {
+  "countryCityID" : 6,
+  "day" : 125,
+  "fajr" : 3.4799999999999995,
+  "maghrib" : 18.6
+}, {
+  "countryCityID" : 6,
+  "day" : 126,
+  "fajr" : 3.47,
+  "maghrib" : 18.619999999999997
+}, {
+  "countryCityID" : 6,
+  "day" : 127,
+  "fajr" : 3.45,
+  "maghrib" : 18.630000000000003
+}, {
+  "countryCityID" : 6,
+  "day" : 128,
+  "fajr" : 3.4200000000000004,
+  "maghrib" : 18.630000000000003
+}, {
+  "countryCityID" : 6,
+  "day" : 129,
+  "fajr" : 3.4,
+  "maghrib" : 18.65
+}, {
+  "countryCityID" : 6,
+  "day" : 130,
+  "fajr" : 3.38,
+  "maghrib" : 18.669999999999998
+}, {
+  "countryCityID" : 6,
+  "day" : 131,
+  "fajr" : 3.37,
+  "maghrib" : 18.669999999999998
+}, {
+  "countryCityID" : 6,
+  "day" : 132,
+  "fajr" : 3.35,
+  "maghrib" : 18.68
+}, {
+  "countryCityID" : 6,
+  "day" : 133,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 6,
+  "day" : 134,
+  "fajr" : 3.3200000000000003,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 6,
+  "day" : 135,
+  "fajr" : 3.3,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 6,
+  "day" : 136,
+  "fajr" : 3.28,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 6,
+  "day" : 137,
+  "fajr" : 3.2700000000000005,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 6,
+  "day" : 138,
+  "fajr" : 3.25,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 6,
+  "day" : 139,
+  "fajr" : 3.25,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 6,
+  "day" : 140,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 6,
+  "day" : 141,
+  "fajr" : 3.22,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 6,
+  "day" : 142,
+  "fajr" : 3.2,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 6,
+  "day" : 143,
+  "fajr" : 3.18,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 6,
+  "day" : 144,
+  "fajr" : 3.18,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 6,
+  "day" : 145,
+  "fajr" : 3.17,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 6,
+  "day" : 146,
+  "fajr" : 3.15,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 6,
+  "day" : 147,
+  "fajr" : 3.15,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 6,
+  "day" : 148,
+  "fajr" : 3.13,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 6,
+  "day" : 149,
+  "fajr" : 3.12,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 6,
+  "day" : 150,
+  "fajr" : 3.12,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 6,
+  "day" : 151,
+  "fajr" : 3.1,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 6,
+  "day" : 152,
+  "fajr" : 3.1,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 6,
+  "day" : 153,
+  "fajr" : 3.08,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 6,
+  "day" : 154,
+  "fajr" : 3.08,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 6,
+  "day" : 155,
+  "fajr" : 3.08,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 6,
+  "day" : 156,
+  "fajr" : 3.07,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 6,
+  "day" : 157,
+  "fajr" : 3.07,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 6,
+  "day" : 158,
+  "fajr" : 3.07,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 6,
+  "day" : 159,
+  "fajr" : 3.05,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 6,
+  "day" : 160,
+  "fajr" : 3.05,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 6,
+  "day" : 161,
+  "fajr" : 3.05,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 6,
+  "day" : 162,
+  "fajr" : 3.05,
+  "maghrib" : 18.97
+}, {
+  "countryCityID" : 7,
+  "day" : 102,
+  "fajr" : 3.95,
+  "maghrib" : 18.130000000000003
+}, {
+  "countryCityID" : 7,
+  "day" : 103,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 18.130000000000003
+}, {
+  "countryCityID" : 7,
+  "day" : 104,
+  "fajr" : 3.9,
+  "maghrib" : 18.15
+}, {
+  "countryCityID" : 7,
+  "day" : 105,
+  "fajr" : 3.88,
+  "maghrib" : 18.15
+}, {
+  "countryCityID" : 7,
+  "day" : 106,
+  "fajr" : 3.87,
+  "maghrib" : 18.169999999999998
+}, {
+  "countryCityID" : 7,
+  "day" : 107,
+  "fajr" : 3.8299999999999996,
+  "maghrib" : 18.169999999999998
+}, {
+  "countryCityID" : 7,
+  "day" : 108,
+  "fajr" : 3.8200000000000003,
+  "maghrib" : 18.18
+}, {
+  "countryCityID" : 7,
+  "day" : 109,
+  "fajr" : 3.8,
+  "maghrib" : 18.18
+}, {
+  "countryCityID" : 7,
+  "day" : 110,
+  "fajr" : 3.78,
+  "maghrib" : 18.2
+}, {
+  "countryCityID" : 7,
+  "day" : 111,
+  "fajr" : 3.7700000000000005,
+  "maghrib" : 18.2
+}, {
+  "countryCityID" : 7,
+  "day" : 112,
+  "fajr" : 3.7299999999999995,
+  "maghrib" : 18.22
+}, {
+  "countryCityID" : 7,
+  "day" : 113,
+  "fajr" : 3.72,
+  "maghrib" : 18.22
+}, {
+  "countryCityID" : 7,
+  "day" : 114,
+  "fajr" : 3.7,
+  "maghrib" : 18.23
+}, {
+  "countryCityID" : 7,
+  "day" : 115,
+  "fajr" : 3.6799999999999997,
+  "maghrib" : 18.25
+}, {
+  "countryCityID" : 7,
+  "day" : 116,
+  "fajr" : 3.6700000000000004,
+  "maghrib" : 18.25
+}, {
+  "countryCityID" : 7,
+  "day" : 117,
+  "fajr" : 3.65,
+  "maghrib" : 18.27
+}, {
+  "countryCityID" : 7,
+  "day" : 118,
+  "fajr" : 3.63,
+  "maghrib" : 18.27
+}, {
+  "countryCityID" : 7,
+  "day" : 119,
+  "fajr" : 3.62,
+  "maghrib" : 18.28
+}, {
+  "countryCityID" : 7,
+  "day" : 120,
+  "fajr" : 3.6,
+  "maghrib" : 18.28
+}, {
+  "countryCityID" : 7,
+  "day" : 121,
+  "fajr" : 3.5700000000000003,
+  "maghrib" : 18.3
+}, {
+  "countryCityID" : 7,
+  "day" : 122,
+  "fajr" : 3.55,
+  "maghrib" : 18.3
+}, {
+  "countryCityID" : 7,
+  "day" : 123,
+  "fajr" : 3.53,
+  "maghrib" : 18.32
+}, {
+  "countryCityID" : 7,
+  "day" : 124,
+  "fajr" : 3.5200000000000005,
+  "maghrib" : 18.330000000000002
+}, {
+  "countryCityID" : 7,
+  "day" : 125,
+  "fajr" : 3.5,
+  "maghrib" : 18.330000000000002
+}, {
+  "countryCityID" : 7,
+  "day" : 126,
+  "fajr" : 3.4799999999999995,
+  "maghrib" : 18.35
+}, {
+  "countryCityID" : 7,
+  "day" : 127,
+  "fajr" : 3.47,
+  "maghrib" : 18.35
+}, {
+  "countryCityID" : 7,
+  "day" : 128,
+  "fajr" : 3.47,
+  "maghrib" : 18.369999999999997
+}, {
+  "countryCityID" : 7,
+  "day" : 129,
+  "fajr" : 3.45,
+  "maghrib" : 18.369999999999997
+}, {
+  "countryCityID" : 7,
+  "day" : 130,
+  "fajr" : 3.4299999999999997,
+  "maghrib" : 18.380000000000003
+}, {
+  "countryCityID" : 7,
+  "day" : 131,
+  "fajr" : 3.4200000000000004,
+  "maghrib" : 18.4
+}, {
+  "countryCityID" : 7,
+  "day" : 132,
+  "fajr" : 3.4,
+  "maghrib" : 18.4
+}, {
+  "countryCityID" : 7,
+  "day" : 133,
+  "fajr" : 3.38,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 7,
+  "day" : 134,
+  "fajr" : 3.37,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 7,
+  "day" : 135,
+  "fajr" : 3.35,
+  "maghrib" : 18.43
+}, {
+  "countryCityID" : 7,
+  "day" : 136,
+  "fajr" : 3.35,
+  "maghrib" : 18.43
+}, {
+  "countryCityID" : 7,
+  "day" : 137,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 18.45
+}, {
+  "countryCityID" : 7,
+  "day" : 138,
+  "fajr" : 3.3200000000000003,
+  "maghrib" : 18.47
+}, {
+  "countryCityID" : 7,
+  "day" : 139,
+  "fajr" : 3.3,
+  "maghrib" : 18.47
+}, {
+  "countryCityID" : 7,
+  "day" : 140,
+  "fajr" : 3.3,
+  "maghrib" : 18.48
+}, {
+  "countryCityID" : 7,
+  "day" : 141,
+  "fajr" : 3.28,
+  "maghrib" : 18.48
+}, {
+  "countryCityID" : 7,
+  "day" : 142,
+  "fajr" : 3.2700000000000005,
+  "maghrib" : 18.5
+}, {
+  "countryCityID" : 7,
+  "day" : 143,
+  "fajr" : 3.2700000000000005,
+  "maghrib" : 18.5
+}, {
+  "countryCityID" : 7,
+  "day" : 144,
+  "fajr" : 3.25,
+  "maghrib" : 18.52
+}, {
+  "countryCityID" : 7,
+  "day" : 145,
+  "fajr" : 3.25,
+  "maghrib" : 18.52
+}, {
+  "countryCityID" : 7,
+  "day" : 146,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.53
+}, {
+  "countryCityID" : 7,
+  "day" : 147,
+  "fajr" : 3.22,
+  "maghrib" : 18.53
+}, {
+  "countryCityID" : 7,
+  "day" : 148,
+  "fajr" : 3.22,
+  "maghrib" : 18.55
+}, {
+  "countryCityID" : 7,
+  "day" : 149,
+  "fajr" : 3.22,
+  "maghrib" : 18.55
+}, {
+  "countryCityID" : 7,
+  "day" : 150,
+  "fajr" : 3.2,
+  "maghrib" : 18.57
+}, {
+  "countryCityID" : 7,
+  "day" : 151,
+  "fajr" : 3.2,
+  "maghrib" : 18.57
+}, {
+  "countryCityID" : 7,
+  "day" : 152,
+  "fajr" : 3.18,
+  "maghrib" : 18.580000000000002
+}, {
+  "countryCityID" : 7,
+  "day" : 153,
+  "fajr" : 3.18,
+  "maghrib" : 18.580000000000002
+}, {
+  "countryCityID" : 7,
+  "day" : 154,
+  "fajr" : 3.18,
+  "maghrib" : 18.6
+}, {
+  "countryCityID" : 7,
+  "day" : 155,
+  "fajr" : 3.17,
+  "maghrib" : 18.6
+}, {
+  "countryCityID" : 7,
+  "day" : 156,
+  "fajr" : 3.17,
+  "maghrib" : 18.619999999999997
+}, {
+  "countryCityID" : 7,
+  "day" : 157,
+  "fajr" : 3.17,
+  "maghrib" : 19.0
+}, {
+  "countryCityID" : 7,
+  "day" : 158,
+  "fajr" : 3.17,
+  "maghrib" : 18.619999999999997
+}, {
+  "countryCityID" : 7,
+  "day" : 159,
+  "fajr" : 3.17,
+  "maghrib" : 18.630000000000003
+}, {
+  "countryCityID" : 7,
+  "day" : 160,
+  "fajr" : 3.15,
+  "maghrib" : 18.630000000000003
+}, {
+  "countryCityID" : 7,
+  "day" : 161,
+  "fajr" : 3.15,
+  "maghrib" : 18.630000000000003
+}, {
+  "countryCityID" : 7,
+  "day" : 162,
+  "fajr" : 3.15,
+  "maghrib" : 18.65
+}, {
+  "countryCityID" : 8,
+  "day" : 102,
+  "fajr" : 4.1,
+  "maghrib" : 18.27
+}, {
+  "countryCityID" : 8,
+  "day" : 103,
+  "fajr" : 4.08,
+  "maghrib" : 18.27
+}, {
+  "countryCityID" : 8,
+  "day" : 104,
+  "fajr" : 4.07,
+  "maghrib" : 18.28
+}, {
+  "countryCityID" : 8,
+  "day" : 105,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 18.28
+}, {
+  "countryCityID" : 8,
+  "day" : 106,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 18.3
+}, {
+  "countryCityID" : 8,
+  "day" : 107,
+  "fajr" : 4.0,
+  "maghrib" : 18.3
+}, {
+  "countryCityID" : 8,
+  "day" : 108,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 18.32
+}, {
+  "countryCityID" : 8,
+  "day" : 109,
+  "fajr" : 3.97,
+  "maghrib" : 18.32
+}, {
+  "countryCityID" : 8,
+  "day" : 110,
+  "fajr" : 3.95,
+  "maghrib" : 18.330000000000002
+}, {
+  "countryCityID" : 8,
+  "day" : 111,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 18.330000000000002
+}, {
+  "countryCityID" : 8,
+  "day" : 112,
+  "fajr" : 3.9,
+  "maghrib" : 18.35
+}, {
+  "countryCityID" : 8,
+  "day" : 113,
+  "fajr" : 3.88,
+  "maghrib" : 18.35
+}, {
+  "countryCityID" : 8,
+  "day" : 114,
+  "fajr" : 3.87,
+  "maghrib" : 18.369999999999997
+}, {
+  "countryCityID" : 8,
+  "day" : 115,
+  "fajr" : 3.85,
+  "maghrib" : 18.369999999999997
+}, {
+  "countryCityID" : 8,
+  "day" : 116,
+  "fajr" : 3.8299999999999996,
+  "maghrib" : 18.380000000000003
+}, {
+  "countryCityID" : 8,
+  "day" : 117,
+  "fajr" : 3.8200000000000003,
+  "maghrib" : 18.380000000000003
+}, {
+  "countryCityID" : 8,
+  "day" : 118,
+  "fajr" : 3.8,
+  "maghrib" : 18.4
+}, {
+  "countryCityID" : 8,
+  "day" : 119,
+  "fajr" : 3.78,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 8,
+  "day" : 120,
+  "fajr" : 3.7700000000000005,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 8,
+  "day" : 121,
+  "fajr" : 3.75,
+  "maghrib" : 18.43
+}, {
+  "countryCityID" : 8,
+  "day" : 122,
+  "fajr" : 3.7299999999999995,
+  "maghrib" : 18.43
+}, {
+  "countryCityID" : 8,
+  "day" : 123,
+  "fajr" : 3.72,
+  "maghrib" : 18.45
+}, {
+  "countryCityID" : 8,
+  "day" : 124,
+  "fajr" : 3.7,
+  "maghrib" : 18.45
+}, {
+  "countryCityID" : 8,
+  "day" : 125,
+  "fajr" : 3.6799999999999997,
+  "maghrib" : 18.47
+}, {
+  "countryCityID" : 8,
+  "day" : 126,
+  "fajr" : 3.6700000000000004,
+  "maghrib" : 18.47
+}, {
+  "countryCityID" : 8,
+  "day" : 127,
+  "fajr" : 3.65,
+  "maghrib" : 18.48
+}, {
+  "countryCityID" : 8,
+  "day" : 128,
+  "fajr" : 3.63,
+  "maghrib" : 18.48
+}, {
+  "countryCityID" : 8,
+  "day" : 129,
+  "fajr" : 3.62,
+  "maghrib" : 18.5
+}, {
+  "countryCityID" : 8,
+  "day" : 130,
+  "fajr" : 3.6,
+  "maghrib" : 18.52
+}, {
+  "countryCityID" : 8,
+  "day" : 131,
+  "fajr" : 3.5799999999999996,
+  "maghrib" : 18.52
+}, {
+  "countryCityID" : 8,
+  "day" : 132,
+  "fajr" : 3.5700000000000003,
+  "maghrib" : 18.53
+}, {
+  "countryCityID" : 8,
+  "day" : 133,
+  "fajr" : 3.55,
+  "maghrib" : 18.53
+}, {
+  "countryCityID" : 8,
+  "day" : 134,
+  "fajr" : 3.55,
+  "maghrib" : 18.55
+}, {
+  "countryCityID" : 8,
+  "day" : 135,
+  "fajr" : 3.53,
+  "maghrib" : 18.55
+}, {
+  "countryCityID" : 8,
+  "day" : 136,
+  "fajr" : 3.5200000000000005,
+  "maghrib" : 18.57
+}, {
+  "countryCityID" : 8,
+  "day" : 137,
+  "fajr" : 3.5,
+  "maghrib" : 18.57
+}, {
+  "countryCityID" : 8,
+  "day" : 138,
+  "fajr" : 3.5,
+  "maghrib" : 18.580000000000002
+}, {
+  "countryCityID" : 8,
+  "day" : 139,
+  "fajr" : 3.4799999999999995,
+  "maghrib" : 18.580000000000002
+}, {
+  "countryCityID" : 8,
+  "day" : 140,
+  "fajr" : 3.47,
+  "maghrib" : 18.6
+}, {
+  "countryCityID" : 8,
+  "day" : 141,
+  "fajr" : 3.47,
+  "maghrib" : 18.619999999999997
+}, {
+  "countryCityID" : 8,
+  "day" : 142,
+  "fajr" : 3.45,
+  "maghrib" : 18.619999999999997
+}, {
+  "countryCityID" : 8,
+  "day" : 143,
+  "fajr" : 3.4299999999999997,
+  "maghrib" : 18.630000000000003
+}, {
+  "countryCityID" : 8,
+  "day" : 144,
+  "fajr" : 3.4299999999999997,
+  "maghrib" : 18.630000000000003
+}, {
+  "countryCityID" : 8,
+  "day" : 145,
+  "fajr" : 3.4200000000000004,
+  "maghrib" : 18.65
+}, {
+  "countryCityID" : 8,
+  "day" : 146,
+  "fajr" : 3.4200000000000004,
+  "maghrib" : 18.65
+}, {
+  "countryCityID" : 8,
+  "day" : 147,
+  "fajr" : 3.4,
+  "maghrib" : 18.669999999999998
+}, {
+  "countryCityID" : 8,
+  "day" : 148,
+  "fajr" : 3.4,
+  "maghrib" : 18.669999999999998
+}, {
+  "countryCityID" : 8,
+  "day" : 149,
+  "fajr" : 3.38,
+  "maghrib" : 18.68
+}, {
+  "countryCityID" : 8,
+  "day" : 150,
+  "fajr" : 3.38,
+  "maghrib" : 18.68
+}, {
+  "countryCityID" : 8,
+  "day" : 151,
+  "fajr" : 3.37,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 8,
+  "day" : 152,
+  "fajr" : 3.37,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 8,
+  "day" : 153,
+  "fajr" : 3.37,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 8,
+  "day" : 154,
+  "fajr" : 3.37,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 8,
+  "day" : 155,
+  "fajr" : 3.35,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 8,
+  "day" : 156,
+  "fajr" : 3.35,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 8,
+  "day" : 157,
+  "fajr" : 3.35,
+  "maghrib" : 18.98
+}, {
+  "countryCityID" : 8,
+  "day" : 158,
+  "fajr" : 3.35,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 8,
+  "day" : 159,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 8,
+  "day" : 160,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 8,
+  "day" : 161,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 8,
+  "day" : 162,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 9,
+  "day" : 102,
+  "fajr" : 4.75,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 9,
+  "day" : 103,
+  "fajr" : 4.7299999999999995,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 9,
+  "day" : 104,
+  "fajr" : 4.720000000000001,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 9,
+  "day" : 105,
+  "fajr" : 4.68,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 9,
+  "day" : 106,
+  "fajr" : 4.67,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 9,
+  "day" : 107,
+  "fajr" : 4.65,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 9,
+  "day" : 108,
+  "fajr" : 4.63,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 9,
+  "day" : 109,
+  "fajr" : 4.62,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 9,
+  "day" : 110,
+  "fajr" : 4.6,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 9,
+  "day" : 111,
+  "fajr" : 4.58,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 9,
+  "day" : 112,
+  "fajr" : 4.57,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 9,
+  "day" : 113,
+  "fajr" : 4.55,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 9,
+  "day" : 114,
+  "fajr" : 4.529999999999999,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 9,
+  "day" : 115,
+  "fajr" : 4.5200000000000005,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 9,
+  "day" : 116,
+  "fajr" : 4.5,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 9,
+  "day" : 117,
+  "fajr" : 4.4799999999999995,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 9,
+  "day" : 118,
+  "fajr" : 4.470000000000001,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 9,
+  "day" : 119,
+  "fajr" : 4.45,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 9,
+  "day" : 120,
+  "fajr" : 4.43,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 9,
+  "day" : 121,
+  "fajr" : 4.42,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 9,
+  "day" : 122,
+  "fajr" : 4.4,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 9,
+  "day" : 123,
+  "fajr" : 4.4,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 9,
+  "day" : 124,
+  "fajr" : 4.38,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 9,
+  "day" : 125,
+  "fajr" : 4.37,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 9,
+  "day" : 126,
+  "fajr" : 4.35,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 9,
+  "day" : 127,
+  "fajr" : 4.33,
+  "maghrib" : 18.97
+}, {
+  "countryCityID" : 9,
+  "day" : 128,
+  "fajr" : 4.32,
+  "maghrib" : 18.97
+}, {
+  "countryCityID" : 9,
+  "day" : 129,
+  "fajr" : 4.3,
+  "maghrib" : 18.98
+}, {
+  "countryCityID" : 9,
+  "day" : 130,
+  "fajr" : 4.3,
+  "maghrib" : 18.98
+}, {
+  "countryCityID" : 9,
+  "day" : 131,
+  "fajr" : 4.279999999999999,
+  "maghrib" : 19.0
+}, {
+  "countryCityID" : 9,
+  "day" : 132,
+  "fajr" : 4.2700000000000005,
+  "maghrib" : 19.0
+}, {
+  "countryCityID" : 9,
+  "day" : 133,
+  "fajr" : 4.25,
+  "maghrib" : 19.02
+}, {
+  "countryCityID" : 9,
+  "day" : 134,
+  "fajr" : 4.25,
+  "maghrib" : 19.02
+}, {
+  "countryCityID" : 9,
+  "day" : 135,
+  "fajr" : 4.2299999999999995,
+  "maghrib" : 19.03
+}, {
+  "countryCityID" : 9,
+  "day" : 136,
+  "fajr" : 4.220000000000001,
+  "maghrib" : 19.03
+}, {
+  "countryCityID" : 9,
+  "day" : 137,
+  "fajr" : 4.220000000000001,
+  "maghrib" : 19.05
+}, {
+  "countryCityID" : 9,
+  "day" : 138,
+  "fajr" : 4.2,
+  "maghrib" : 19.05
+}, {
+  "countryCityID" : 9,
+  "day" : 139,
+  "fajr" : 4.18,
+  "maghrib" : 19.07
+}, {
+  "countryCityID" : 9,
+  "day" : 140,
+  "fajr" : 4.18,
+  "maghrib" : 19.07
+}, {
+  "countryCityID" : 9,
+  "day" : 141,
+  "fajr" : 4.17,
+  "maghrib" : 19.080000000000002
+}, {
+  "countryCityID" : 9,
+  "day" : 142,
+  "fajr" : 4.17,
+  "maghrib" : 19.080000000000002
+}, {
+  "countryCityID" : 9,
+  "day" : 143,
+  "fajr" : 4.15,
+  "maghrib" : 19.1
+}, {
+  "countryCityID" : 9,
+  "day" : 144,
+  "fajr" : 4.15,
+  "maghrib" : 19.1
+}, {
+  "countryCityID" : 9,
+  "day" : 145,
+  "fajr" : 4.13,
+  "maghrib" : 19.119999999999997
+}, {
+  "countryCityID" : 9,
+  "day" : 146,
+  "fajr" : 4.13,
+  "maghrib" : 19.119999999999997
+}, {
+  "countryCityID" : 9,
+  "day" : 147,
+  "fajr" : 4.12,
+  "maghrib" : 19.130000000000003
+}, {
+  "countryCityID" : 9,
+  "day" : 148,
+  "fajr" : 4.12,
+  "maghrib" : 19.130000000000003
+}, {
+  "countryCityID" : 9,
+  "day" : 149,
+  "fajr" : 4.12,
+  "maghrib" : 19.15
+}, {
+  "countryCityID" : 9,
+  "day" : 150,
+  "fajr" : 4.1,
+  "maghrib" : 19.15
+}, {
+  "countryCityID" : 9,
+  "day" : 151,
+  "fajr" : 4.1,
+  "maghrib" : 19.169999999999998
+}, {
+  "countryCityID" : 9,
+  "day" : 152,
+  "fajr" : 4.1,
+  "maghrib" : 19.169999999999998
+}, {
+  "countryCityID" : 9,
+  "day" : 153,
+  "fajr" : 4.08,
+  "maghrib" : 19.169999999999998
+}, {
+  "countryCityID" : 9,
+  "day" : 154,
+  "fajr" : 4.08,
+  "maghrib" : 19.18
+}, {
+  "countryCityID" : 9,
+  "day" : 155,
+  "fajr" : 4.08,
+  "maghrib" : 19.18
+}, {
+  "countryCityID" : 9,
+  "day" : 156,
+  "fajr" : 4.08,
+  "maghrib" : 19.2
+}, {
+  "countryCityID" : 9,
+  "day" : 157,
+  "fajr" : 4.07,
+  "maghrib" : 19.2
+}, {
+  "countryCityID" : 9,
+  "day" : 158,
+  "fajr" : 4.07,
+  "maghrib" : 19.22
+}, {
+  "countryCityID" : 9,
+  "day" : 159,
+  "fajr" : 4.07,
+  "maghrib" : 19.22
+}, {
+  "countryCityID" : 9,
+  "day" : 160,
+  "fajr" : 4.07,
+  "maghrib" : 19.22
+}, {
+  "countryCityID" : 9,
+  "day" : 161,
+  "fajr" : 4.07,
+  "maghrib" : 19.23
+}, {
+  "countryCityID" : 9,
+  "day" : 162,
+  "fajr" : 4.07,
+  "maghrib" : 19.23
+}, {
+  "countryCityID" : 10,
+  "day" : 102,
+  "fajr" : 4.67,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 10,
+  "day" : 103,
+  "fajr" : 4.65,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 10,
+  "day" : 104,
+  "fajr" : 4.63,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 10,
+  "day" : 105,
+  "fajr" : 4.62,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 10,
+  "day" : 106,
+  "fajr" : 4.6,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 10,
+  "day" : 107,
+  "fajr" : 4.58,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 10,
+  "day" : 108,
+  "fajr" : 4.57,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 10,
+  "day" : 109,
+  "fajr" : 4.55,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 10,
+  "day" : 110,
+  "fajr" : 4.529999999999999,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 10,
+  "day" : 111,
+  "fajr" : 4.5,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 10,
+  "day" : 112,
+  "fajr" : 4.4799999999999995,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 10,
+  "day" : 113,
+  "fajr" : 4.470000000000001,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 10,
+  "day" : 114,
+  "fajr" : 4.45,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 10,
+  "day" : 115,
+  "fajr" : 4.43,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 10,
+  "day" : 116,
+  "fajr" : 4.42,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 10,
+  "day" : 117,
+  "fajr" : 4.4,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 10,
+  "day" : 118,
+  "fajr" : 4.38,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 10,
+  "day" : 119,
+  "fajr" : 4.37,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 10,
+  "day" : 120,
+  "fajr" : 4.35,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 10,
+  "day" : 121,
+  "fajr" : 4.33,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 10,
+  "day" : 122,
+  "fajr" : 4.32,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 10,
+  "day" : 123,
+  "fajr" : 4.32,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 10,
+  "day" : 124,
+  "fajr" : 4.3,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 10,
+  "day" : 125,
+  "fajr" : 4.279999999999999,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 10,
+  "day" : 126,
+  "fajr" : 4.2700000000000005,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 10,
+  "day" : 127,
+  "fajr" : 4.25,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 10,
+  "day" : 128,
+  "fajr" : 4.2299999999999995,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 10,
+  "day" : 129,
+  "fajr" : 4.220000000000001,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 10,
+  "day" : 130,
+  "fajr" : 4.220000000000001,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 10,
+  "day" : 131,
+  "fajr" : 4.2,
+  "maghrib" : 18.97
+}, {
+  "countryCityID" : 10,
+  "day" : 132,
+  "fajr" : 4.18,
+  "maghrib" : 18.97
+}, {
+  "countryCityID" : 10,
+  "day" : 133,
+  "fajr" : 4.17,
+  "maghrib" : 18.98
+}, {
+  "countryCityID" : 10,
+  "day" : 134,
+  "fajr" : 4.15,
+  "maghrib" : 18.98
+}, {
+  "countryCityID" : 10,
+  "day" : 135,
+  "fajr" : 4.15,
+  "maghrib" : 19.0
+}, {
+  "countryCityID" : 10,
+  "day" : 136,
+  "fajr" : 4.13,
+  "maghrib" : 19.0
+}, {
+  "countryCityID" : 10,
+  "day" : 137,
+  "fajr" : 4.12,
+  "maghrib" : 19.02
+}, {
+  "countryCityID" : 10,
+  "day" : 138,
+  "fajr" : 4.12,
+  "maghrib" : 19.02
+}, {
+  "countryCityID" : 10,
+  "day" : 139,
+  "fajr" : 4.1,
+  "maghrib" : 19.03
+}, {
+  "countryCityID" : 10,
+  "day" : 140,
+  "fajr" : 4.1,
+  "maghrib" : 19.03
+}, {
+  "countryCityID" : 10,
+  "day" : 141,
+  "fajr" : 4.08,
+  "maghrib" : 19.05
+}, {
+  "countryCityID" : 10,
+  "day" : 142,
+  "fajr" : 4.07,
+  "maghrib" : 19.05
+}, {
+  "countryCityID" : 10,
+  "day" : 143,
+  "fajr" : 4.07,
+  "maghrib" : 19.07
+}, {
+  "countryCityID" : 10,
+  "day" : 144,
+  "fajr" : 4.05,
+  "maghrib" : 19.07
+}, {
+  "countryCityID" : 10,
+  "day" : 145,
+  "fajr" : 4.05,
+  "maghrib" : 19.080000000000002
+}, {
+  "countryCityID" : 10,
+  "day" : 146,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 19.080000000000002
+}, {
+  "countryCityID" : 10,
+  "day" : 147,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 19.1
+}, {
+  "countryCityID" : 10,
+  "day" : 148,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 19.1
+}, {
+  "countryCityID" : 10,
+  "day" : 149,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 19.119999999999997
+}, {
+  "countryCityID" : 10,
+  "day" : 150,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 19.119999999999997
+}, {
+  "countryCityID" : 10,
+  "day" : 151,
+  "fajr" : 4.0,
+  "maghrib" : 19.130000000000003
+}, {
+  "countryCityID" : 10,
+  "day" : 152,
+  "fajr" : 4.0,
+  "maghrib" : 19.130000000000003
+}, {
+  "countryCityID" : 10,
+  "day" : 153,
+  "fajr" : 4.0,
+  "maghrib" : 19.15
+}, {
+  "countryCityID" : 10,
+  "day" : 154,
+  "fajr" : 4.0,
+  "maghrib" : 19.15
+}, {
+  "countryCityID" : 10,
+  "day" : 155,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.15
+}, {
+  "countryCityID" : 10,
+  "day" : 156,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.169999999999998
+}, {
+  "countryCityID" : 10,
+  "day" : 157,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.169999999999998
+}, {
+  "countryCityID" : 10,
+  "day" : 158,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.18
+}, {
+  "countryCityID" : 10,
+  "day" : 159,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.18
+}, {
+  "countryCityID" : 10,
+  "day" : 160,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.18
+}, {
+  "countryCityID" : 10,
+  "day" : 161,
+  "fajr" : 3.97,
+  "maghrib" : 19.2
+}, {
+  "countryCityID" : 10,
+  "day" : 162,
+  "fajr" : 3.97,
+  "maghrib" : 19.2
+}, {
+  "countryCityID" : 11,
+  "day" : 102,
+  "fajr" : 4.65,
+  "maghrib" : 18.68
+}, {
+  "countryCityID" : 11,
+  "day" : 103,
+  "fajr" : 4.63,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 11,
+  "day" : 104,
+  "fajr" : 4.62,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 11,
+  "day" : 105,
+  "fajr" : 4.6,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 11,
+  "day" : 106,
+  "fajr" : 4.58,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 11,
+  "day" : 107,
+  "fajr" : 4.57,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 11,
+  "day" : 108,
+  "fajr" : 4.55,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 11,
+  "day" : 109,
+  "fajr" : 4.529999999999999,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 11,
+  "day" : 110,
+  "fajr" : 4.5200000000000005,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 11,
+  "day" : 111,
+  "fajr" : 4.5,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 11,
+  "day" : 112,
+  "fajr" : 4.4799999999999995,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 11,
+  "day" : 113,
+  "fajr" : 4.470000000000001,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 11,
+  "day" : 114,
+  "fajr" : 4.45,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 11,
+  "day" : 115,
+  "fajr" : 4.43,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 11,
+  "day" : 116,
+  "fajr" : 4.42,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 11,
+  "day" : 117,
+  "fajr" : 4.4,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 11,
+  "day" : 118,
+  "fajr" : 4.38,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 11,
+  "day" : 119,
+  "fajr" : 4.37,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 11,
+  "day" : 120,
+  "fajr" : 4.35,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 11,
+  "day" : 121,
+  "fajr" : 4.33,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 11,
+  "day" : 122,
+  "fajr" : 4.32,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 11,
+  "day" : 123,
+  "fajr" : 4.3,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 11,
+  "day" : 124,
+  "fajr" : 4.279999999999999,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 11,
+  "day" : 125,
+  "fajr" : 4.279999999999999,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 11,
+  "day" : 126,
+  "fajr" : 4.2700000000000005,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 11,
+  "day" : 127,
+  "fajr" : 4.25,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 11,
+  "day" : 128,
+  "fajr" : 4.2299999999999995,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 11,
+  "day" : 129,
+  "fajr" : 4.220000000000001,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 11,
+  "day" : 130,
+  "fajr" : 4.220000000000001,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 11,
+  "day" : 131,
+  "fajr" : 4.2,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 11,
+  "day" : 132,
+  "fajr" : 4.18,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 11,
+  "day" : 133,
+  "fajr" : 4.17,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 11,
+  "day" : 134,
+  "fajr" : 4.17,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 11,
+  "day" : 135,
+  "fajr" : 4.15,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 11,
+  "day" : 136,
+  "fajr" : 4.13,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 11,
+  "day" : 137,
+  "fajr" : 4.13,
+  "maghrib" : 18.97
+}, {
+  "countryCityID" : 11,
+  "day" : 138,
+  "fajr" : 4.12,
+  "maghrib" : 18.97
+}, {
+  "countryCityID" : 11,
+  "day" : 139,
+  "fajr" : 4.1,
+  "maghrib" : 18.98
+}, {
+  "countryCityID" : 11,
+  "day" : 140,
+  "fajr" : 4.1,
+  "maghrib" : 18.98
+}, {
+  "countryCityID" : 11,
+  "day" : 141,
+  "fajr" : 4.08,
+  "maghrib" : 19.0
+}, {
+  "countryCityID" : 11,
+  "day" : 142,
+  "fajr" : 4.08,
+  "maghrib" : 19.0
+}, {
+  "countryCityID" : 11,
+  "day" : 143,
+  "fajr" : 4.07,
+  "maghrib" : 19.02
+}, {
+  "countryCityID" : 11,
+  "day" : 144,
+  "fajr" : 4.07,
+  "maghrib" : 19.02
+}, {
+  "countryCityID" : 11,
+  "day" : 145,
+  "fajr" : 4.05,
+  "maghrib" : 19.03
+}, {
+  "countryCityID" : 11,
+  "day" : 146,
+  "fajr" : 4.05,
+  "maghrib" : 19.03
+}, {
+  "countryCityID" : 11,
+  "day" : 147,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 19.05
+}, {
+  "countryCityID" : 11,
+  "day" : 148,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 19.05
+}, {
+  "countryCityID" : 11,
+  "day" : 149,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 19.07
+}, {
+  "countryCityID" : 11,
+  "day" : 150,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 19.07
+}, {
+  "countryCityID" : 11,
+  "day" : 151,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 19.07
+}, {
+  "countryCityID" : 11,
+  "day" : 152,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 19.080000000000002
+}, {
+  "countryCityID" : 11,
+  "day" : 153,
+  "fajr" : 4.0,
+  "maghrib" : 19.080000000000002
+}, {
+  "countryCityID" : 11,
+  "day" : 154,
+  "fajr" : 4.0,
+  "maghrib" : 19.1
+}, {
+  "countryCityID" : 11,
+  "day" : 155,
+  "fajr" : 4.0,
+  "maghrib" : 19.1
+}, {
+  "countryCityID" : 11,
+  "day" : 156,
+  "fajr" : 4.0,
+  "maghrib" : 19.119999999999997
+}, {
+  "countryCityID" : 11,
+  "day" : 157,
+  "fajr" : 4.0,
+  "maghrib" : 19.119999999999997
+}, {
+  "countryCityID" : 11,
+  "day" : 158,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.119999999999997
+}, {
+  "countryCityID" : 11,
+  "day" : 159,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.130000000000003
+}, {
+  "countryCityID" : 11,
+  "day" : 160,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.130000000000003
+}, {
+  "countryCityID" : 11,
+  "day" : 161,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.15
+}, {
+  "countryCityID" : 11,
+  "day" : 162,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.15
+}, {
+  "countryCityID" : 12,
+  "day" : 102,
+  "fajr" : 4.65,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 12,
+  "day" : 103,
+  "fajr" : 4.63,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 12,
+  "day" : 104,
+  "fajr" : 4.62,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 12,
+  "day" : 105,
+  "fajr" : 4.6,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 12,
+  "day" : 106,
+  "fajr" : 4.58,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 12,
+  "day" : 107,
+  "fajr" : 4.57,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 12,
+  "day" : 108,
+  "fajr" : 4.55,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 12,
+  "day" : 109,
+  "fajr" : 4.529999999999999,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 12,
+  "day" : 110,
+  "fajr" : 4.5200000000000005,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 12,
+  "day" : 111,
+  "fajr" : 4.5,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 12,
+  "day" : 112,
+  "fajr" : 4.470000000000001,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 12,
+  "day" : 113,
+  "fajr" : 4.45,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 12,
+  "day" : 114,
+  "fajr" : 4.43,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 12,
+  "day" : 115,
+  "fajr" : 4.42,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 12,
+  "day" : 116,
+  "fajr" : 4.4,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 12,
+  "day" : 117,
+  "fajr" : 4.38,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 12,
+  "day" : 118,
+  "fajr" : 4.37,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 12,
+  "day" : 119,
+  "fajr" : 4.35,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 12,
+  "day" : 120,
+  "fajr" : 4.33,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 12,
+  "day" : 121,
+  "fajr" : 4.32,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 12,
+  "day" : 122,
+  "fajr" : 4.3,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 12,
+  "day" : 123,
+  "fajr" : 4.3,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 12,
+  "day" : 124,
+  "fajr" : 4.279999999999999,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 12,
+  "day" : 125,
+  "fajr" : 4.2700000000000005,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 12,
+  "day" : 126,
+  "fajr" : 4.25,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 12,
+  "day" : 127,
+  "fajr" : 4.2299999999999995,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 12,
+  "day" : 128,
+  "fajr" : 4.220000000000001,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 12,
+  "day" : 129,
+  "fajr" : 4.2,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 12,
+  "day" : 130,
+  "fajr" : 4.18,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 12,
+  "day" : 131,
+  "fajr" : 4.18,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 12,
+  "day" : 132,
+  "fajr" : 4.17,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 12,
+  "day" : 133,
+  "fajr" : 4.15,
+  "maghrib" : 18.97
+}, {
+  "countryCityID" : 12,
+  "day" : 134,
+  "fajr" : 4.13,
+  "maghrib" : 18.98
+}, {
+  "countryCityID" : 12,
+  "day" : 135,
+  "fajr" : 4.13,
+  "maghrib" : 18.98
+}, {
+  "countryCityID" : 12,
+  "day" : 136,
+  "fajr" : 4.12,
+  "maghrib" : 19.0
+}, {
+  "countryCityID" : 12,
+  "day" : 137,
+  "fajr" : 4.1,
+  "maghrib" : 19.0
+}, {
+  "countryCityID" : 12,
+  "day" : 138,
+  "fajr" : 4.1,
+  "maghrib" : 19.02
+}, {
+  "countryCityID" : 12,
+  "day" : 139,
+  "fajr" : 4.08,
+  "maghrib" : 19.02
+}, {
+  "countryCityID" : 12,
+  "day" : 140,
+  "fajr" : 4.07,
+  "maghrib" : 19.03
+}, {
+  "countryCityID" : 12,
+  "day" : 141,
+  "fajr" : 4.07,
+  "maghrib" : 19.03
+}, {
+  "countryCityID" : 12,
+  "day" : 142,
+  "fajr" : 4.05,
+  "maghrib" : 19.05
+}, {
+  "countryCityID" : 12,
+  "day" : 143,
+  "fajr" : 4.05,
+  "maghrib" : 19.05
+}, {
+  "countryCityID" : 12,
+  "day" : 144,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 19.07
+}, {
+  "countryCityID" : 12,
+  "day" : 145,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 19.07
+}, {
+  "countryCityID" : 12,
+  "day" : 146,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 19.080000000000002
+}, {
+  "countryCityID" : 12,
+  "day" : 147,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 19.080000000000002
+}, {
+  "countryCityID" : 12,
+  "day" : 148,
+  "fajr" : 4.0,
+  "maghrib" : 19.1
+}, {
+  "countryCityID" : 12,
+  "day" : 149,
+  "fajr" : 4.0,
+  "maghrib" : 19.1
+}, {
+  "countryCityID" : 12,
+  "day" : 150,
+  "fajr" : 4.0,
+  "maghrib" : 19.119999999999997
+}, {
+  "countryCityID" : 12,
+  "day" : 151,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.119999999999997
+}, {
+  "countryCityID" : 12,
+  "day" : 152,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.130000000000003
+}, {
+  "countryCityID" : 12,
+  "day" : 153,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.130000000000003
+}, {
+  "countryCityID" : 12,
+  "day" : 154,
+  "fajr" : 3.97,
+  "maghrib" : 19.130000000000003
+}, {
+  "countryCityID" : 12,
+  "day" : 155,
+  "fajr" : 3.97,
+  "maghrib" : 19.15
+}, {
+  "countryCityID" : 12,
+  "day" : 156,
+  "fajr" : 3.97,
+  "maghrib" : 19.15
+}, {
+  "countryCityID" : 12,
+  "day" : 157,
+  "fajr" : 3.97,
+  "maghrib" : 19.169999999999998
+}, {
+  "countryCityID" : 12,
+  "day" : 158,
+  "fajr" : 3.97,
+  "maghrib" : 19.169999999999998
+}, {
+  "countryCityID" : 12,
+  "day" : 159,
+  "fajr" : 3.95,
+  "maghrib" : 19.18
+}, {
+  "countryCityID" : 12,
+  "day" : 160,
+  "fajr" : 3.95,
+  "maghrib" : 19.18
+}, {
+  "countryCityID" : 12,
+  "day" : 161,
+  "fajr" : 3.95,
+  "maghrib" : 19.18
+}, {
+  "countryCityID" : 12,
+  "day" : 162,
+  "fajr" : 3.95,
+  "maghrib" : 19.2
+}, {
+  "countryCityID" : 13,
+  "day" : 102,
+  "fajr" : 4.62,
+  "maghrib" : 18.65
+}, {
+  "countryCityID" : 13,
+  "day" : 103,
+  "fajr" : 4.6,
+  "maghrib" : 18.65
+}, {
+  "countryCityID" : 13,
+  "day" : 104,
+  "fajr" : 4.58,
+  "maghrib" : 18.669999999999998
+}, {
+  "countryCityID" : 13,
+  "day" : 105,
+  "fajr" : 4.55,
+  "maghrib" : 18.669999999999998
+}, {
+  "countryCityID" : 13,
+  "day" : 106,
+  "fajr" : 4.529999999999999,
+  "maghrib" : 18.68
+}, {
+  "countryCityID" : 13,
+  "day" : 107,
+  "fajr" : 4.5200000000000005,
+  "maghrib" : 18.68
+}, {
+  "countryCityID" : 13,
+  "day" : 108,
+  "fajr" : 4.5,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 13,
+  "day" : 109,
+  "fajr" : 4.4799999999999995,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 13,
+  "day" : 110,
+  "fajr" : 4.470000000000001,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 13,
+  "day" : 111,
+  "fajr" : 4.45,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 13,
+  "day" : 112,
+  "fajr" : 4.43,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 13,
+  "day" : 113,
+  "fajr" : 4.42,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 13,
+  "day" : 114,
+  "fajr" : 4.4,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 13,
+  "day" : 115,
+  "fajr" : 4.38,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 13,
+  "day" : 116,
+  "fajr" : 4.37,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 13,
+  "day" : 117,
+  "fajr" : 4.35,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 13,
+  "day" : 118,
+  "fajr" : 4.33,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 13,
+  "day" : 119,
+  "fajr" : 4.32,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 13,
+  "day" : 120,
+  "fajr" : 4.3,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 13,
+  "day" : 121,
+  "fajr" : 4.279999999999999,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 13,
+  "day" : 122,
+  "fajr" : 4.2700000000000005,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 13,
+  "day" : 123,
+  "fajr" : 4.25,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 13,
+  "day" : 124,
+  "fajr" : 4.2299999999999995,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 13,
+  "day" : 125,
+  "fajr" : 4.220000000000001,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 13,
+  "day" : 126,
+  "fajr" : 4.2,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 13,
+  "day" : 127,
+  "fajr" : 4.2,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 13,
+  "day" : 128,
+  "fajr" : 4.18,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 13,
+  "day" : 129,
+  "fajr" : 4.17,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 13,
+  "day" : 130,
+  "fajr" : 4.15,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 13,
+  "day" : 131,
+  "fajr" : 4.13,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 13,
+  "day" : 132,
+  "fajr" : 4.12,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 13,
+  "day" : 133,
+  "fajr" : 4.12,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 13,
+  "day" : 134,
+  "fajr" : 4.1,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 13,
+  "day" : 135,
+  "fajr" : 4.08,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 13,
+  "day" : 136,
+  "fajr" : 4.08,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 13,
+  "day" : 137,
+  "fajr" : 4.07,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 13,
+  "day" : 138,
+  "fajr" : 4.05,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 13,
+  "day" : 139,
+  "fajr" : 4.05,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 13,
+  "day" : 140,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 18.97
+}, {
+  "countryCityID" : 13,
+  "day" : 141,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 18.97
+}, {
+  "countryCityID" : 13,
+  "day" : 142,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 18.98
+}, {
+  "countryCityID" : 13,
+  "day" : 143,
+  "fajr" : 4.0,
+  "maghrib" : 19.0
+}, {
+  "countryCityID" : 13,
+  "day" : 144,
+  "fajr" : 4.0,
+  "maghrib" : 19.0
+}, {
+  "countryCityID" : 13,
+  "day" : 145,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.02
+}, {
+  "countryCityID" : 13,
+  "day" : 146,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.02
+}, {
+  "countryCityID" : 13,
+  "day" : 147,
+  "fajr" : 3.97,
+  "maghrib" : 19.02
+}, {
+  "countryCityID" : 13,
+  "day" : 148,
+  "fajr" : 3.97,
+  "maghrib" : 19.03
+}, {
+  "countryCityID" : 13,
+  "day" : 149,
+  "fajr" : 3.97,
+  "maghrib" : 19.03
+}, {
+  "countryCityID" : 13,
+  "day" : 150,
+  "fajr" : 3.95,
+  "maghrib" : 19.05
+}, {
+  "countryCityID" : 13,
+  "day" : 151,
+  "fajr" : 3.95,
+  "maghrib" : 19.05
+}, {
+  "countryCityID" : 13,
+  "day" : 152,
+  "fajr" : 3.95,
+  "maghrib" : 19.07
+}, {
+  "countryCityID" : 13,
+  "day" : 153,
+  "fajr" : 3.9299999999999997,
+  "maghrib" : 19.07
+}, {
+  "countryCityID" : 13,
+  "day" : 154,
+  "fajr" : 3.9299999999999997,
+  "maghrib" : 19.080000000000002
+}, {
+  "countryCityID" : 13,
+  "day" : 155,
+  "fajr" : 3.9299999999999997,
+  "maghrib" : 19.080000000000002
+}, {
+  "countryCityID" : 13,
+  "day" : 156,
+  "fajr" : 3.9299999999999997,
+  "maghrib" : 19.1
+}, {
+  "countryCityID" : 13,
+  "day" : 157,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 19.1
+}, {
+  "countryCityID" : 13,
+  "day" : 158,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 19.1
+}, {
+  "countryCityID" : 13,
+  "day" : 159,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 19.119999999999997
+}, {
+  "countryCityID" : 13,
+  "day" : 160,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 19.119999999999997
+}, {
+  "countryCityID" : 13,
+  "day" : 161,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 19.130000000000003
+}, {
+  "countryCityID" : 13,
+  "day" : 162,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 19.130000000000003
+}, {
+  "countryCityID" : 14,
+  "day" : 102,
+  "fajr" : 4.65,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 14,
+  "day" : 103,
+  "fajr" : 4.63,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 14,
+  "day" : 104,
+  "fajr" : 4.62,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 14,
+  "day" : 105,
+  "fajr" : 4.6,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 14,
+  "day" : 106,
+  "fajr" : 4.58,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 14,
+  "day" : 107,
+  "fajr" : 4.57,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 14,
+  "day" : 108,
+  "fajr" : 4.55,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 14,
+  "day" : 109,
+  "fajr" : 4.529999999999999,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 14,
+  "day" : 110,
+  "fajr" : 4.5,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 14,
+  "day" : 111,
+  "fajr" : 4.4799999999999995,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 14,
+  "day" : 112,
+  "fajr" : 4.470000000000001,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 14,
+  "day" : 113,
+  "fajr" : 4.45,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 14,
+  "day" : 114,
+  "fajr" : 4.43,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 14,
+  "day" : 115,
+  "fajr" : 4.42,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 14,
+  "day" : 116,
+  "fajr" : 4.4,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 14,
+  "day" : 117,
+  "fajr" : 4.38,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 14,
+  "day" : 118,
+  "fajr" : 4.37,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 14,
+  "day" : 119,
+  "fajr" : 4.35,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 14,
+  "day" : 120,
+  "fajr" : 4.33,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 14,
+  "day" : 121,
+  "fajr" : 4.32,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 14,
+  "day" : 122,
+  "fajr" : 4.3,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 14,
+  "day" : 123,
+  "fajr" : 4.279999999999999,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 14,
+  "day" : 124,
+  "fajr" : 4.2700000000000005,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 14,
+  "day" : 125,
+  "fajr" : 4.2700000000000005,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 14,
+  "day" : 126,
+  "fajr" : 4.25,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 14,
+  "day" : 127,
+  "fajr" : 4.2299999999999995,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 14,
+  "day" : 128,
+  "fajr" : 4.220000000000001,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 14,
+  "day" : 129,
+  "fajr" : 4.2,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 14,
+  "day" : 130,
+  "fajr" : 4.18,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 14,
+  "day" : 131,
+  "fajr" : 4.17,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 14,
+  "day" : 132,
+  "fajr" : 4.17,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 14,
+  "day" : 133,
+  "fajr" : 4.15,
+  "maghrib" : 18.97
+}, {
+  "countryCityID" : 14,
+  "day" : 134,
+  "fajr" : 4.13,
+  "maghrib" : 18.97
+}, {
+  "countryCityID" : 14,
+  "day" : 135,
+  "fajr" : 4.12,
+  "maghrib" : 18.98
+}, {
+  "countryCityID" : 14,
+  "day" : 136,
+  "fajr" : 4.12,
+  "maghrib" : 18.98
+}, {
+  "countryCityID" : 14,
+  "day" : 137,
+  "fajr" : 4.1,
+  "maghrib" : 19.0
+}, {
+  "countryCityID" : 14,
+  "day" : 138,
+  "fajr" : 4.08,
+  "maghrib" : 19.0
+}, {
+  "countryCityID" : 14,
+  "day" : 139,
+  "fajr" : 4.08,
+  "maghrib" : 19.02
+}, {
+  "countryCityID" : 14,
+  "day" : 140,
+  "fajr" : 4.07,
+  "maghrib" : 19.03
+}, {
+  "countryCityID" : 14,
+  "day" : 141,
+  "fajr" : 4.07,
+  "maghrib" : 19.03
+}, {
+  "countryCityID" : 14,
+  "day" : 142,
+  "fajr" : 4.05,
+  "maghrib" : 19.05
+}, {
+  "countryCityID" : 14,
+  "day" : 143,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 19.05
+}, {
+  "countryCityID" : 14,
+  "day" : 144,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 19.07
+}, {
+  "countryCityID" : 14,
+  "day" : 145,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 19.07
+}, {
+  "countryCityID" : 14,
+  "day" : 146,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 19.080000000000002
+}, {
+  "countryCityID" : 14,
+  "day" : 147,
+  "fajr" : 4.0,
+  "maghrib" : 19.080000000000002
+}, {
+  "countryCityID" : 14,
+  "day" : 148,
+  "fajr" : 4.0,
+  "maghrib" : 19.1
+}, {
+  "countryCityID" : 14,
+  "day" : 149,
+  "fajr" : 4.0,
+  "maghrib" : 19.1
+}, {
+  "countryCityID" : 14,
+  "day" : 150,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.119999999999997
+}, {
+  "countryCityID" : 14,
+  "day" : 151,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.119999999999997
+}, {
+  "countryCityID" : 14,
+  "day" : 152,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.119999999999997
+}, {
+  "countryCityID" : 14,
+  "day" : 153,
+  "fajr" : 3.97,
+  "maghrib" : 19.130000000000003
+}, {
+  "countryCityID" : 14,
+  "day" : 154,
+  "fajr" : 3.97,
+  "maghrib" : 19.130000000000003
+}, {
+  "countryCityID" : 14,
+  "day" : 155,
+  "fajr" : 3.97,
+  "maghrib" : 19.15
+}, {
+  "countryCityID" : 14,
+  "day" : 156,
+  "fajr" : 3.97,
+  "maghrib" : 19.15
+}, {
+  "countryCityID" : 14,
+  "day" : 157,
+  "fajr" : 3.95,
+  "maghrib" : 19.169999999999998
+}, {
+  "countryCityID" : 14,
+  "day" : 158,
+  "fajr" : 3.95,
+  "maghrib" : 19.169999999999998
+}, {
+  "countryCityID" : 14,
+  "day" : 159,
+  "fajr" : 3.95,
+  "maghrib" : 19.169999999999998
+}, {
+  "countryCityID" : 14,
+  "day" : 160,
+  "fajr" : 3.95,
+  "maghrib" : 19.18
+}, {
+  "countryCityID" : 14,
+  "day" : 161,
+  "fajr" : 3.95,
+  "maghrib" : 19.18
+}, {
+  "countryCityID" : 14,
+  "day" : 162,
+  "fajr" : 3.95,
+  "maghrib" : 19.2
+}, {
+  "countryCityID" : 15,
+  "day" : 102,
+  "fajr" : 4.62,
+  "maghrib" : 18.68
+}, {
+  "countryCityID" : 15,
+  "day" : 103,
+  "fajr" : 4.6,
+  "maghrib" : 18.68
+}, {
+  "countryCityID" : 15,
+  "day" : 104,
+  "fajr" : 4.58,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 15,
+  "day" : 105,
+  "fajr" : 4.55,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 15,
+  "day" : 106,
+  "fajr" : 4.529999999999999,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 15,
+  "day" : 107,
+  "fajr" : 4.5200000000000005,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 15,
+  "day" : 108,
+  "fajr" : 4.5,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 15,
+  "day" : 109,
+  "fajr" : 4.4799999999999995,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 15,
+  "day" : 110,
+  "fajr" : 4.470000000000001,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 15,
+  "day" : 111,
+  "fajr" : 4.45,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 15,
+  "day" : 112,
+  "fajr" : 4.43,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 15,
+  "day" : 113,
+  "fajr" : 4.42,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 15,
+  "day" : 114,
+  "fajr" : 4.4,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 15,
+  "day" : 115,
+  "fajr" : 4.38,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 15,
+  "day" : 116,
+  "fajr" : 4.37,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 15,
+  "day" : 117,
+  "fajr" : 4.33,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 15,
+  "day" : 118,
+  "fajr" : 4.32,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 15,
+  "day" : 119,
+  "fajr" : 4.3,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 15,
+  "day" : 120,
+  "fajr" : 4.279999999999999,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 15,
+  "day" : 121,
+  "fajr" : 4.2700000000000005,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 15,
+  "day" : 122,
+  "fajr" : 4.2700000000000005,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 15,
+  "day" : 123,
+  "fajr" : 4.25,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 15,
+  "day" : 124,
+  "fajr" : 4.2299999999999995,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 15,
+  "day" : 125,
+  "fajr" : 4.220000000000001,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 15,
+  "day" : 126,
+  "fajr" : 4.2,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 15,
+  "day" : 127,
+  "fajr" : 4.18,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 15,
+  "day" : 128,
+  "fajr" : 4.17,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 15,
+  "day" : 129,
+  "fajr" : 4.15,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 15,
+  "day" : 130,
+  "fajr" : 4.13,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 15,
+  "day" : 131,
+  "fajr" : 4.13,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 15,
+  "day" : 132,
+  "fajr" : 4.12,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 15,
+  "day" : 133,
+  "fajr" : 4.1,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 15,
+  "day" : 134,
+  "fajr" : 4.08,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 15,
+  "day" : 135,
+  "fajr" : 4.08,
+  "maghrib" : 18.97
+}, {
+  "countryCityID" : 15,
+  "day" : 136,
+  "fajr" : 4.07,
+  "maghrib" : 18.97
+}, {
+  "countryCityID" : 15,
+  "day" : 137,
+  "fajr" : 4.05,
+  "maghrib" : 18.98
+}, {
+  "countryCityID" : 15,
+  "day" : 138,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 18.98
+}, {
+  "countryCityID" : 15,
+  "day" : 139,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 19.0
+}, {
+  "countryCityID" : 15,
+  "day" : 140,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 19.0
+}, {
+  "countryCityID" : 15,
+  "day" : 141,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 19.02
+}, {
+  "countryCityID" : 15,
+  "day" : 142,
+  "fajr" : 4.0,
+  "maghrib" : 19.02
+}, {
+  "countryCityID" : 15,
+  "day" : 143,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.03
+}, {
+  "countryCityID" : 15,
+  "day" : 144,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.03
+}, {
+  "countryCityID" : 15,
+  "day" : 145,
+  "fajr" : 3.97,
+  "maghrib" : 19.05
+}, {
+  "countryCityID" : 15,
+  "day" : 146,
+  "fajr" : 3.97,
+  "maghrib" : 19.05
+}, {
+  "countryCityID" : 15,
+  "day" : 147,
+  "fajr" : 3.95,
+  "maghrib" : 19.07
+}, {
+  "countryCityID" : 15,
+  "day" : 148,
+  "fajr" : 3.95,
+  "maghrib" : 19.07
+}, {
+  "countryCityID" : 15,
+  "day" : 149,
+  "fajr" : 3.95,
+  "maghrib" : 19.080000000000002
+}, {
+  "countryCityID" : 15,
+  "day" : 150,
+  "fajr" : 3.9299999999999997,
+  "maghrib" : 19.080000000000002
+}, {
+  "countryCityID" : 15,
+  "day" : 151,
+  "fajr" : 3.9299999999999997,
+  "maghrib" : 19.1
+}, {
+  "countryCityID" : 15,
+  "day" : 152,
+  "fajr" : 3.9299999999999997,
+  "maghrib" : 19.1
+}, {
+  "countryCityID" : 15,
+  "day" : 153,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 19.119999999999997
+}, {
+  "countryCityID" : 15,
+  "day" : 154,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 19.119999999999997
+}, {
+  "countryCityID" : 15,
+  "day" : 155,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 19.130000000000003
+}, {
+  "countryCityID" : 15,
+  "day" : 156,
+  "fajr" : 3.9,
+  "maghrib" : 19.130000000000003
+}, {
+  "countryCityID" : 15,
+  "day" : 157,
+  "fajr" : 3.9,
+  "maghrib" : 19.15
+}, {
+  "countryCityID" : 15,
+  "day" : 158,
+  "fajr" : 3.9,
+  "maghrib" : 19.15
+}, {
+  "countryCityID" : 15,
+  "day" : 159,
+  "fajr" : 3.9,
+  "maghrib" : 19.15
+}, {
+  "countryCityID" : 15,
+  "day" : 160,
+  "fajr" : 3.9,
+  "maghrib" : 19.169999999999998
+}, {
+  "countryCityID" : 15,
+  "day" : 161,
+  "fajr" : 3.9,
+  "maghrib" : 19.169999999999998
+}, {
+  "countryCityID" : 15,
+  "day" : 162,
+  "fajr" : 3.9,
+  "maghrib" : 19.18
+}, {
+  "countryCityID" : 16,
+  "day" : 102,
+  "fajr" : 3.95,
+  "maghrib" : 17.93
+}, {
+  "countryCityID" : 16,
+  "day" : 103,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 17.93
+}, {
+  "countryCityID" : 16,
+  "day" : 104,
+  "fajr" : 3.9,
+  "maghrib" : 17.95
+}, {
+  "countryCityID" : 16,
+  "day" : 105,
+  "fajr" : 3.88,
+  "maghrib" : 17.95
+}, {
+  "countryCityID" : 16,
+  "day" : 106,
+  "fajr" : 3.87,
+  "maghrib" : 17.97
+}, {
+  "countryCityID" : 16,
+  "day" : 107,
+  "fajr" : 3.85,
+  "maghrib" : 17.97
+}, {
+  "countryCityID" : 16,
+  "day" : 108,
+  "fajr" : 3.8299999999999996,
+  "maghrib" : 17.98
+}, {
+  "countryCityID" : 16,
+  "day" : 109,
+  "fajr" : 3.8200000000000003,
+  "maghrib" : 17.98
+}, {
+  "countryCityID" : 16,
+  "day" : 110,
+  "fajr" : 3.8,
+  "maghrib" : 18.0
+}, {
+  "countryCityID" : 16,
+  "day" : 111,
+  "fajr" : 3.78,
+  "maghrib" : 18.0
+}, {
+  "countryCityID" : 16,
+  "day" : 112,
+  "fajr" : 3.7700000000000005,
+  "maghrib" : 18.02
+}, {
+  "countryCityID" : 16,
+  "day" : 113,
+  "fajr" : 3.75,
+  "maghrib" : 18.02
+}, {
+  "countryCityID" : 16,
+  "day" : 114,
+  "fajr" : 3.7299999999999995,
+  "maghrib" : 18.03
+}, {
+  "countryCityID" : 16,
+  "day" : 115,
+  "fajr" : 3.72,
+  "maghrib" : 18.03
+}, {
+  "countryCityID" : 16,
+  "day" : 116,
+  "fajr" : 3.6799999999999997,
+  "maghrib" : 18.05
+}, {
+  "countryCityID" : 16,
+  "day" : 117,
+  "fajr" : 3.6700000000000004,
+  "maghrib" : 18.05
+}, {
+  "countryCityID" : 16,
+  "day" : 118,
+  "fajr" : 3.65,
+  "maghrib" : 18.07
+}, {
+  "countryCityID" : 16,
+  "day" : 119,
+  "fajr" : 3.63,
+  "maghrib" : 18.07
+}, {
+  "countryCityID" : 16,
+  "day" : 120,
+  "fajr" : 3.62,
+  "maghrib" : 18.080000000000002
+}, {
+  "countryCityID" : 16,
+  "day" : 121,
+  "fajr" : 3.62,
+  "maghrib" : 18.080000000000002
+}, {
+  "countryCityID" : 16,
+  "day" : 122,
+  "fajr" : 3.6,
+  "maghrib" : 18.1
+}, {
+  "countryCityID" : 16,
+  "day" : 123,
+  "fajr" : 3.5799999999999996,
+  "maghrib" : 18.119999999999997
+}, {
+  "countryCityID" : 16,
+  "day" : 124,
+  "fajr" : 3.5700000000000003,
+  "maghrib" : 18.119999999999997
+}, {
+  "countryCityID" : 16,
+  "day" : 125,
+  "fajr" : 3.55,
+  "maghrib" : 18.119999999999997
+}, {
+  "countryCityID" : 16,
+  "day" : 126,
+  "fajr" : 3.53,
+  "maghrib" : 18.130000000000003
+}, {
+  "countryCityID" : 16,
+  "day" : 127,
+  "fajr" : 3.5200000000000005,
+  "maghrib" : 18.130000000000003
+}, {
+  "countryCityID" : 16,
+  "day" : 128,
+  "fajr" : 3.5,
+  "maghrib" : 18.15
+}, {
+  "countryCityID" : 16,
+  "day" : 129,
+  "fajr" : 3.4799999999999995,
+  "maghrib" : 18.15
+}, {
+  "countryCityID" : 16,
+  "day" : 130,
+  "fajr" : 3.47,
+  "maghrib" : 18.169999999999998
+}, {
+  "countryCityID" : 16,
+  "day" : 131,
+  "fajr" : 3.47,
+  "maghrib" : 18.169999999999998
+}, {
+  "countryCityID" : 16,
+  "day" : 132,
+  "fajr" : 3.45,
+  "maghrib" : 18.18
+}, {
+  "countryCityID" : 16,
+  "day" : 133,
+  "fajr" : 3.4200000000000004,
+  "maghrib" : 18.2
+}, {
+  "countryCityID" : 16,
+  "day" : 134,
+  "fajr" : 3.4200000000000004,
+  "maghrib" : 18.2
+}, {
+  "countryCityID" : 16,
+  "day" : 135,
+  "fajr" : 3.4200000000000004,
+  "maghrib" : 18.2
+}, {
+  "countryCityID" : 16,
+  "day" : 136,
+  "fajr" : 3.4,
+  "maghrib" : 18.22
+}, {
+  "countryCityID" : 16,
+  "day" : 137,
+  "fajr" : 3.38,
+  "maghrib" : 18.22
+}, {
+  "countryCityID" : 16,
+  "day" : 138,
+  "fajr" : 3.38,
+  "maghrib" : 18.23
+}, {
+  "countryCityID" : 16,
+  "day" : 139,
+  "fajr" : 3.37,
+  "maghrib" : 18.23
+}, {
+  "countryCityID" : 16,
+  "day" : 140,
+  "fajr" : 3.35,
+  "maghrib" : 18.25
+}, {
+  "countryCityID" : 16,
+  "day" : 141,
+  "fajr" : 3.35,
+  "maghrib" : 18.25
+}, {
+  "countryCityID" : 16,
+  "day" : 142,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 18.27
+}, {
+  "countryCityID" : 16,
+  "day" : 143,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 18.27
+}, {
+  "countryCityID" : 16,
+  "day" : 144,
+  "fajr" : 3.3200000000000003,
+  "maghrib" : 18.28
+}, {
+  "countryCityID" : 16,
+  "day" : 145,
+  "fajr" : 3.3,
+  "maghrib" : 18.28
+}, {
+  "countryCityID" : 16,
+  "day" : 146,
+  "fajr" : 3.3,
+  "maghrib" : 18.32
+}, {
+  "countryCityID" : 16,
+  "day" : 147,
+  "fajr" : 3.3,
+  "maghrib" : 18.330000000000002
+}, {
+  "countryCityID" : 16,
+  "day" : 148,
+  "fajr" : 3.28,
+  "maghrib" : 18.35
+}, {
+  "countryCityID" : 16,
+  "day" : 149,
+  "fajr" : 3.28,
+  "maghrib" : 18.35
+}, {
+  "countryCityID" : 16,
+  "day" : 150,
+  "fajr" : 3.2700000000000005,
+  "maghrib" : 18.369999999999997
+}, {
+  "countryCityID" : 16,
+  "day" : 151,
+  "fajr" : 3.2700000000000005,
+  "maghrib" : 18.369999999999997
+}, {
+  "countryCityID" : 16,
+  "day" : 152,
+  "fajr" : 3.2700000000000005,
+  "maghrib" : 18.380000000000003
+}, {
+  "countryCityID" : 16,
+  "day" : 153,
+  "fajr" : 3.25,
+  "maghrib" : 18.380000000000003
+}, {
+  "countryCityID" : 16,
+  "day" : 154,
+  "fajr" : 3.25,
+  "maghrib" : 18.4
+}, {
+  "countryCityID" : 16,
+  "day" : 155,
+  "fajr" : 3.25,
+  "maghrib" : 18.4
+}, {
+  "countryCityID" : 16,
+  "day" : 156,
+  "fajr" : 3.25,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 16,
+  "day" : 157,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 16,
+  "day" : 158,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 16,
+  "day" : 159,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.43
+}, {
+  "countryCityID" : 16,
+  "day" : 160,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.43
+}, {
+  "countryCityID" : 16,
+  "day" : 161,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.45
+}, {
+  "countryCityID" : 16,
+  "day" : 162,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.45
+}, {
+  "countryCityID" : 17,
+  "day" : 102,
+  "fajr" : 4.07,
+  "maghrib" : 18.2
+}, {
+  "countryCityID" : 17,
+  "day" : 103,
+  "fajr" : 4.05,
+  "maghrib" : 18.22
+}, {
+  "countryCityID" : 17,
+  "day" : 104,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 18.23
+}, {
+  "countryCityID" : 17,
+  "day" : 105,
+  "fajr" : 4.0,
+  "maghrib" : 18.23
+}, {
+  "countryCityID" : 17,
+  "day" : 106,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 18.25
+}, {
+  "countryCityID" : 17,
+  "day" : 107,
+  "fajr" : 3.97,
+  "maghrib" : 18.25
+}, {
+  "countryCityID" : 17,
+  "day" : 108,
+  "fajr" : 3.9299999999999997,
+  "maghrib" : 18.27
+}, {
+  "countryCityID" : 17,
+  "day" : 109,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 18.28
+}, {
+  "countryCityID" : 17,
+  "day" : 110,
+  "fajr" : 3.9,
+  "maghrib" : 18.28
+}, {
+  "countryCityID" : 17,
+  "day" : 111,
+  "fajr" : 3.88,
+  "maghrib" : 18.3
+}, {
+  "countryCityID" : 17,
+  "day" : 112,
+  "fajr" : 3.85,
+  "maghrib" : 18.3
+}, {
+  "countryCityID" : 17,
+  "day" : 113,
+  "fajr" : 3.8299999999999996,
+  "maghrib" : 18.32
+}, {
+  "countryCityID" : 17,
+  "day" : 114,
+  "fajr" : 3.8,
+  "maghrib" : 18.330000000000002
+}, {
+  "countryCityID" : 17,
+  "day" : 115,
+  "fajr" : 3.78,
+  "maghrib" : 18.330000000000002
+}, {
+  "countryCityID" : 17,
+  "day" : 116,
+  "fajr" : 3.7700000000000005,
+  "maghrib" : 18.35
+}, {
+  "countryCityID" : 17,
+  "day" : 117,
+  "fajr" : 3.75,
+  "maghrib" : 18.35
+}, {
+  "countryCityID" : 17,
+  "day" : 118,
+  "fajr" : 3.7299999999999995,
+  "maghrib" : 18.369999999999997
+}, {
+  "countryCityID" : 17,
+  "day" : 119,
+  "fajr" : 3.7,
+  "maghrib" : 18.380000000000003
+}, {
+  "countryCityID" : 17,
+  "day" : 120,
+  "fajr" : 3.6799999999999997,
+  "maghrib" : 18.4
+}, {
+  "countryCityID" : 17,
+  "day" : 121,
+  "fajr" : 3.6799999999999997,
+  "maghrib" : 18.4
+}, {
+  "countryCityID" : 17,
+  "day" : 122,
+  "fajr" : 3.6700000000000004,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 17,
+  "day" : 123,
+  "fajr" : 3.65,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 17,
+  "day" : 124,
+  "fajr" : 3.62,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 17,
+  "day" : 125,
+  "fajr" : 3.6,
+  "maghrib" : 18.43
+}, {
+  "countryCityID" : 17,
+  "day" : 126,
+  "fajr" : 3.5799999999999996,
+  "maghrib" : 18.45
+}, {
+  "countryCityID" : 17,
+  "day" : 127,
+  "fajr" : 3.5700000000000003,
+  "maghrib" : 18.47
+}, {
+  "countryCityID" : 17,
+  "day" : 128,
+  "fajr" : 3.55,
+  "maghrib" : 18.47
+}, {
+  "countryCityID" : 17,
+  "day" : 129,
+  "fajr" : 3.53,
+  "maghrib" : 18.48
+}, {
+  "countryCityID" : 17,
+  "day" : 130,
+  "fajr" : 3.5200000000000005,
+  "maghrib" : 18.5
+}, {
+  "countryCityID" : 17,
+  "day" : 131,
+  "fajr" : 3.5,
+  "maghrib" : 18.5
+}, {
+  "countryCityID" : 17,
+  "day" : 132,
+  "fajr" : 3.4799999999999995,
+  "maghrib" : 18.52
+}, {
+  "countryCityID" : 17,
+  "day" : 133,
+  "fajr" : 3.47,
+  "maghrib" : 18.52
+}, {
+  "countryCityID" : 17,
+  "day" : 134,
+  "fajr" : 3.47,
+  "maghrib" : 18.53
+}, {
+  "countryCityID" : 17,
+  "day" : 135,
+  "fajr" : 3.45,
+  "maghrib" : 18.55
+}, {
+  "countryCityID" : 17,
+  "day" : 136,
+  "fajr" : 3.4299999999999997,
+  "maghrib" : 18.55
+}, {
+  "countryCityID" : 17,
+  "day" : 137,
+  "fajr" : 3.4200000000000004,
+  "maghrib" : 18.57
+}, {
+  "countryCityID" : 17,
+  "day" : 138,
+  "fajr" : 3.4,
+  "maghrib" : 18.580000000000002
+}, {
+  "countryCityID" : 17,
+  "day" : 139,
+  "fajr" : 3.38,
+  "maghrib" : 18.580000000000002
+}, {
+  "countryCityID" : 17,
+  "day" : 140,
+  "fajr" : 3.38,
+  "maghrib" : 18.6
+}, {
+  "countryCityID" : 17,
+  "day" : 141,
+  "fajr" : 3.37,
+  "maghrib" : 18.6
+}, {
+  "countryCityID" : 17,
+  "day" : 142,
+  "fajr" : 3.35,
+  "maghrib" : 18.619999999999997
+}, {
+  "countryCityID" : 17,
+  "day" : 143,
+  "fajr" : 3.35,
+  "maghrib" : 18.630000000000003
+}, {
+  "countryCityID" : 17,
+  "day" : 144,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 18.630000000000003
+}, {
+  "countryCityID" : 17,
+  "day" : 145,
+  "fajr" : 3.3200000000000003,
+  "maghrib" : 18.65
+}, {
+  "countryCityID" : 17,
+  "day" : 146,
+  "fajr" : 3.3200000000000003,
+  "maghrib" : 18.65
+}, {
+  "countryCityID" : 17,
+  "day" : 147,
+  "fajr" : 3.3,
+  "maghrib" : 18.669999999999998
+}, {
+  "countryCityID" : 17,
+  "day" : 148,
+  "fajr" : 3.28,
+  "maghrib" : 18.669999999999998
+}, {
+  "countryCityID" : 17,
+  "day" : 149,
+  "fajr" : 3.28,
+  "maghrib" : 18.68
+}, {
+  "countryCityID" : 17,
+  "day" : 150,
+  "fajr" : 3.2700000000000005,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 17,
+  "day" : 151,
+  "fajr" : 3.2700000000000005,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 17,
+  "day" : 152,
+  "fajr" : 3.25,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 17,
+  "day" : 153,
+  "fajr" : 3.25,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 17,
+  "day" : 154,
+  "fajr" : 3.25,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 17,
+  "day" : 155,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 17,
+  "day" : 156,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 17,
+  "day" : 157,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 17,
+  "day" : 158,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 17,
+  "day" : 159,
+  "fajr" : 3.22,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 17,
+  "day" : 160,
+  "fajr" : 3.22,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 17,
+  "day" : 161,
+  "fajr" : 3.22,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 17,
+  "day" : 162,
+  "fajr" : 3.22,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 18,
+  "day" : 102,
+  "fajr" : 4.07,
+  "maghrib" : 18.2
+}, {
+  "countryCityID" : 18,
+  "day" : 103,
+  "fajr" : 4.05,
+  "maghrib" : 18.22
+}, {
+  "countryCityID" : 18,
+  "day" : 104,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 18.23
+}, {
+  "countryCityID" : 18,
+  "day" : 105,
+  "fajr" : 4.0,
+  "maghrib" : 18.23
+}, {
+  "countryCityID" : 18,
+  "day" : 106,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 18.25
+}, {
+  "countryCityID" : 18,
+  "day" : 107,
+  "fajr" : 3.97,
+  "maghrib" : 18.25
+}, {
+  "countryCityID" : 18,
+  "day" : 108,
+  "fajr" : 3.9299999999999997,
+  "maghrib" : 18.27
+}, {
+  "countryCityID" : 18,
+  "day" : 109,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 18.28
+}, {
+  "countryCityID" : 18,
+  "day" : 110,
+  "fajr" : 3.9,
+  "maghrib" : 18.28
+}, {
+  "countryCityID" : 18,
+  "day" : 111,
+  "fajr" : 3.88,
+  "maghrib" : 18.3
+}, {
+  "countryCityID" : 18,
+  "day" : 112,
+  "fajr" : 3.85,
+  "maghrib" : 18.3
+}, {
+  "countryCityID" : 18,
+  "day" : 113,
+  "fajr" : 3.8299999999999996,
+  "maghrib" : 18.32
+}, {
+  "countryCityID" : 18,
+  "day" : 114,
+  "fajr" : 3.8,
+  "maghrib" : 18.330000000000002
+}, {
+  "countryCityID" : 18,
+  "day" : 115,
+  "fajr" : 3.78,
+  "maghrib" : 18.330000000000002
+}, {
+  "countryCityID" : 18,
+  "day" : 116,
+  "fajr" : 3.7700000000000005,
+  "maghrib" : 18.35
+}, {
+  "countryCityID" : 18,
+  "day" : 117,
+  "fajr" : 3.75,
+  "maghrib" : 18.35
+}, {
+  "countryCityID" : 18,
+  "day" : 118,
+  "fajr" : 3.7299999999999995,
+  "maghrib" : 18.369999999999997
+}, {
+  "countryCityID" : 18,
+  "day" : 119,
+  "fajr" : 3.7,
+  "maghrib" : 18.380000000000003
+}, {
+  "countryCityID" : 18,
+  "day" : 120,
+  "fajr" : 3.6799999999999997,
+  "maghrib" : 18.4
+}, {
+  "countryCityID" : 18,
+  "day" : 121,
+  "fajr" : 3.6799999999999997,
+  "maghrib" : 18.4
+}, {
+  "countryCityID" : 18,
+  "day" : 122,
+  "fajr" : 3.6700000000000004,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 18,
+  "day" : 123,
+  "fajr" : 3.65,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 18,
+  "day" : 124,
+  "fajr" : 3.62,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 18,
+  "day" : 125,
+  "fajr" : 3.6,
+  "maghrib" : 18.43
+}, {
+  "countryCityID" : 18,
+  "day" : 126,
+  "fajr" : 3.5799999999999996,
+  "maghrib" : 18.45
+}, {
+  "countryCityID" : 18,
+  "day" : 127,
+  "fajr" : 3.5700000000000003,
+  "maghrib" : 18.47
+}, {
+  "countryCityID" : 18,
+  "day" : 128,
+  "fajr" : 3.55,
+  "maghrib" : 18.47
+}, {
+  "countryCityID" : 18,
+  "day" : 129,
+  "fajr" : 3.53,
+  "maghrib" : 18.48
+}, {
+  "countryCityID" : 18,
+  "day" : 130,
+  "fajr" : 3.5200000000000005,
+  "maghrib" : 18.5
+}, {
+  "countryCityID" : 18,
+  "day" : 131,
+  "fajr" : 3.5,
+  "maghrib" : 18.5
+}, {
+  "countryCityID" : 18,
+  "day" : 132,
+  "fajr" : 3.4799999999999995,
+  "maghrib" : 18.52
+}, {
+  "countryCityID" : 18,
+  "day" : 133,
+  "fajr" : 3.47,
+  "maghrib" : 18.52
+}, {
+  "countryCityID" : 18,
+  "day" : 134,
+  "fajr" : 3.47,
+  "maghrib" : 18.53
+}, {
+  "countryCityID" : 18,
+  "day" : 135,
+  "fajr" : 3.45,
+  "maghrib" : 18.55
+}, {
+  "countryCityID" : 18,
+  "day" : 136,
+  "fajr" : 3.4299999999999997,
+  "maghrib" : 18.55
+}, {
+  "countryCityID" : 18,
+  "day" : 137,
+  "fajr" : 3.4200000000000004,
+  "maghrib" : 18.57
+}, {
+  "countryCityID" : 18,
+  "day" : 138,
+  "fajr" : 3.4,
+  "maghrib" : 18.580000000000002
+}, {
+  "countryCityID" : 18,
+  "day" : 139,
+  "fajr" : 3.38,
+  "maghrib" : 18.580000000000002
+}, {
+  "countryCityID" : 18,
+  "day" : 140,
+  "fajr" : 3.38,
+  "maghrib" : 18.6
+}, {
+  "countryCityID" : 18,
+  "day" : 141,
+  "fajr" : 3.37,
+  "maghrib" : 18.6
+}, {
+  "countryCityID" : 18,
+  "day" : 142,
+  "fajr" : 3.35,
+  "maghrib" : 18.619999999999997
+}, {
+  "countryCityID" : 18,
+  "day" : 143,
+  "fajr" : 3.35,
+  "maghrib" : 18.630000000000003
+}, {
+  "countryCityID" : 18,
+  "day" : 144,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 18.630000000000003
+}, {
+  "countryCityID" : 18,
+  "day" : 145,
+  "fajr" : 3.3200000000000003,
+  "maghrib" : 18.65
+}, {
+  "countryCityID" : 18,
+  "day" : 146,
+  "fajr" : 3.3200000000000003,
+  "maghrib" : 18.65
+}, {
+  "countryCityID" : 18,
+  "day" : 147,
+  "fajr" : 3.3,
+  "maghrib" : 18.669999999999998
+}, {
+  "countryCityID" : 18,
+  "day" : 148,
+  "fajr" : 3.28,
+  "maghrib" : 18.669999999999998
+}, {
+  "countryCityID" : 18,
+  "day" : 149,
+  "fajr" : 3.28,
+  "maghrib" : 18.68
+}, {
+  "countryCityID" : 18,
+  "day" : 150,
+  "fajr" : 3.2700000000000005,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 18,
+  "day" : 151,
+  "fajr" : 3.2700000000000005,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 18,
+  "day" : 152,
+  "fajr" : 3.25,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 18,
+  "day" : 153,
+  "fajr" : 3.25,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 18,
+  "day" : 154,
+  "fajr" : 3.25,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 18,
+  "day" : 155,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 18,
+  "day" : 156,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 18,
+  "day" : 157,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 18,
+  "day" : 158,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 18,
+  "day" : 159,
+  "fajr" : 3.22,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 18,
+  "day" : 160,
+  "fajr" : 3.22,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 18,
+  "day" : 161,
+  "fajr" : 3.22,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 18,
+  "day" : 162,
+  "fajr" : 3.22,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 19,
+  "day" : 102,
+  "fajr" : 4.17,
+  "maghrib" : 18.3
+}, {
+  "countryCityID" : 19,
+  "day" : 103,
+  "fajr" : 4.15,
+  "maghrib" : 18.32
+}, {
+  "countryCityID" : 19,
+  "day" : 104,
+  "fajr" : 4.12,
+  "maghrib" : 18.330000000000002
+}, {
+  "countryCityID" : 19,
+  "day" : 105,
+  "fajr" : 4.1,
+  "maghrib" : 18.330000000000002
+}, {
+  "countryCityID" : 19,
+  "day" : 106,
+  "fajr" : 4.08,
+  "maghrib" : 18.35
+}, {
+  "countryCityID" : 19,
+  "day" : 107,
+  "fajr" : 4.07,
+  "maghrib" : 18.35
+}, {
+  "countryCityID" : 19,
+  "day" : 108,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 18.369999999999997
+}, {
+  "countryCityID" : 19,
+  "day" : 109,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 18.380000000000003
+}, {
+  "countryCityID" : 19,
+  "day" : 110,
+  "fajr" : 4.0,
+  "maghrib" : 18.380000000000003
+}, {
+  "countryCityID" : 19,
+  "day" : 111,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 18.4
+}, {
+  "countryCityID" : 19,
+  "day" : 112,
+  "fajr" : 3.95,
+  "maghrib" : 18.4
+}, {
+  "countryCityID" : 19,
+  "day" : 113,
+  "fajr" : 3.9299999999999997,
+  "maghrib" : 18.419999999999998
+}, {
+  "countryCityID" : 19,
+  "day" : 114,
+  "fajr" : 3.9,
+  "maghrib" : 18.43
+}, {
+  "countryCityID" : 19,
+  "day" : 115,
+  "fajr" : 3.88,
+  "maghrib" : 18.43
+}, {
+  "countryCityID" : 19,
+  "day" : 116,
+  "fajr" : 3.87,
+  "maghrib" : 18.45
+}, {
+  "countryCityID" : 19,
+  "day" : 117,
+  "fajr" : 3.85,
+  "maghrib" : 18.45
+}, {
+  "countryCityID" : 19,
+  "day" : 118,
+  "fajr" : 3.8299999999999996,
+  "maghrib" : 18.47
+}, {
+  "countryCityID" : 19,
+  "day" : 119,
+  "fajr" : 3.8,
+  "maghrib" : 18.48
+}, {
+  "countryCityID" : 19,
+  "day" : 120,
+  "fajr" : 3.78,
+  "maghrib" : 18.5
+}, {
+  "countryCityID" : 19,
+  "day" : 121,
+  "fajr" : 3.78,
+  "maghrib" : 18.5
+}, {
+  "countryCityID" : 19,
+  "day" : 122,
+  "fajr" : 3.7700000000000005,
+  "maghrib" : 18.52
+}, {
+  "countryCityID" : 19,
+  "day" : 123,
+  "fajr" : 3.75,
+  "maghrib" : 18.52
+}, {
+  "countryCityID" : 19,
+  "day" : 124,
+  "fajr" : 3.72,
+  "maghrib" : 18.52
+}, {
+  "countryCityID" : 19,
+  "day" : 125,
+  "fajr" : 3.7,
+  "maghrib" : 18.53
+}, {
+  "countryCityID" : 19,
+  "day" : 126,
+  "fajr" : 3.6799999999999997,
+  "maghrib" : 18.55
+}, {
+  "countryCityID" : 19,
+  "day" : 127,
+  "fajr" : 3.6700000000000004,
+  "maghrib" : 18.57
+}, {
+  "countryCityID" : 19,
+  "day" : 128,
+  "fajr" : 3.65,
+  "maghrib" : 18.57
+}, {
+  "countryCityID" : 19,
+  "day" : 129,
+  "fajr" : 3.63,
+  "maghrib" : 18.580000000000002
+}, {
+  "countryCityID" : 19,
+  "day" : 130,
+  "fajr" : 3.62,
+  "maghrib" : 18.6
+}, {
+  "countryCityID" : 19,
+  "day" : 131,
+  "fajr" : 3.6,
+  "maghrib" : 18.6
+}, {
+  "countryCityID" : 19,
+  "day" : 132,
+  "fajr" : 3.5799999999999996,
+  "maghrib" : 18.619999999999997
+}, {
+  "countryCityID" : 19,
+  "day" : 133,
+  "fajr" : 3.5700000000000003,
+  "maghrib" : 18.619999999999997
+}, {
+  "countryCityID" : 19,
+  "day" : 134,
+  "fajr" : 3.5700000000000003,
+  "maghrib" : 18.630000000000003
+}, {
+  "countryCityID" : 19,
+  "day" : 135,
+  "fajr" : 3.55,
+  "maghrib" : 18.65
+}, {
+  "countryCityID" : 19,
+  "day" : 136,
+  "fajr" : 3.53,
+  "maghrib" : 18.65
+}, {
+  "countryCityID" : 19,
+  "day" : 137,
+  "fajr" : 3.5200000000000005,
+  "maghrib" : 18.669999999999998
+}, {
+  "countryCityID" : 19,
+  "day" : 138,
+  "fajr" : 3.5,
+  "maghrib" : 18.68
+}, {
+  "countryCityID" : 19,
+  "day" : 139,
+  "fajr" : 3.4799999999999995,
+  "maghrib" : 18.68
+}, {
+  "countryCityID" : 19,
+  "day" : 140,
+  "fajr" : 3.4799999999999995,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 19,
+  "day" : 141,
+  "fajr" : 3.47,
+  "maghrib" : 18.7
+}, {
+  "countryCityID" : 19,
+  "day" : 142,
+  "fajr" : 3.45,
+  "maghrib" : 18.72
+}, {
+  "countryCityID" : 19,
+  "day" : 143,
+  "fajr" : 3.45,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 19,
+  "day" : 144,
+  "fajr" : 3.4299999999999997,
+  "maghrib" : 18.73
+}, {
+  "countryCityID" : 19,
+  "day" : 145,
+  "fajr" : 3.4200000000000004,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 19,
+  "day" : 146,
+  "fajr" : 3.4200000000000004,
+  "maghrib" : 18.75
+}, {
+  "countryCityID" : 19,
+  "day" : 147,
+  "fajr" : 3.4,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 19,
+  "day" : 148,
+  "fajr" : 3.38,
+  "maghrib" : 18.77
+}, {
+  "countryCityID" : 19,
+  "day" : 149,
+  "fajr" : 3.38,
+  "maghrib" : 18.78
+}, {
+  "countryCityID" : 19,
+  "day" : 150,
+  "fajr" : 3.37,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 19,
+  "day" : 151,
+  "fajr" : 3.37,
+  "maghrib" : 18.8
+}, {
+  "countryCityID" : 19,
+  "day" : 152,
+  "fajr" : 3.35,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 19,
+  "day" : 153,
+  "fajr" : 3.35,
+  "maghrib" : 18.82
+}, {
+  "countryCityID" : 19,
+  "day" : 154,
+  "fajr" : 3.35,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 19,
+  "day" : 155,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 18.830000000000002
+}, {
+  "countryCityID" : 19,
+  "day" : 156,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 19,
+  "day" : 157,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 18.85
+}, {
+  "countryCityID" : 19,
+  "day" : 158,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 19,
+  "day" : 159,
+  "fajr" : 3.3200000000000003,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 19,
+  "day" : 160,
+  "fajr" : 3.3200000000000003,
+  "maghrib" : 18.869999999999997
+}, {
+  "countryCityID" : 19,
+  "day" : 161,
+  "fajr" : 3.3200000000000003,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 19,
+  "day" : 162,
+  "fajr" : 3.3200000000000003,
+  "maghrib" : 18.880000000000003
+}, {
+  "countryCityID" : 20,
+  "day" : 102,
+  "fajr" : 4.8,
+  "maghrib" : 19.380000000000003
+}, {
+  "countryCityID" : 20,
+  "day" : 103,
+  "fajr" : 4.7700000000000005,
+  "maghrib" : 19.4
+}, {
+  "countryCityID" : 20,
+  "day" : 104,
+  "fajr" : 4.7299999999999995,
+  "maghrib" : 19.419999999999998
+}, {
+  "countryCityID" : 20,
+  "day" : 105,
+  "fajr" : 4.720000000000001,
+  "maghrib" : 19.43
+}, {
+  "countryCityID" : 20,
+  "day" : 106,
+  "fajr" : 4.68,
+  "maghrib" : 19.45
+}, {
+  "countryCityID" : 20,
+  "day" : 107,
+  "fajr" : 4.65,
+  "maghrib" : 19.47
+}, {
+  "countryCityID" : 20,
+  "day" : 108,
+  "fajr" : 4.63,
+  "maghrib" : 19.48
+}, {
+  "countryCityID" : 20,
+  "day" : 109,
+  "fajr" : 4.6,
+  "maghrib" : 19.48
+}, {
+  "countryCityID" : 20,
+  "day" : 110,
+  "fajr" : 4.58,
+  "maghrib" : 19.5
+}, {
+  "countryCityID" : 20,
+  "day" : 111,
+  "fajr" : 4.55,
+  "maghrib" : 19.52
+}, {
+  "countryCityID" : 20,
+  "day" : 112,
+  "fajr" : 4.5200000000000005,
+  "maghrib" : 19.53
+}, {
+  "countryCityID" : 20,
+  "day" : 113,
+  "fajr" : 4.5,
+  "maghrib" : 19.55
+}, {
+  "countryCityID" : 20,
+  "day" : 114,
+  "fajr" : 4.470000000000001,
+  "maghrib" : 19.57
+}, {
+  "countryCityID" : 20,
+  "day" : 115,
+  "fajr" : 4.45,
+  "maghrib" : 19.580000000000002
+}, {
+  "countryCityID" : 20,
+  "day" : 116,
+  "fajr" : 4.42,
+  "maghrib" : 19.6
+}, {
+  "countryCityID" : 20,
+  "day" : 117,
+  "fajr" : 4.4,
+  "maghrib" : 19.6
+}, {
+  "countryCityID" : 20,
+  "day" : 118,
+  "fajr" : 4.37,
+  "maghrib" : 19.619999999999997
+}, {
+  "countryCityID" : 20,
+  "day" : 119,
+  "fajr" : 4.33,
+  "maghrib" : 19.630000000000003
+}, {
+  "countryCityID" : 20,
+  "day" : 120,
+  "fajr" : 4.32,
+  "maghrib" : 19.65
+}, {
+  "countryCityID" : 20,
+  "day" : 121,
+  "fajr" : 4.279999999999999,
+  "maghrib" : 19.669999999999998
+}, {
+  "countryCityID" : 20,
+  "day" : 122,
+  "fajr" : 4.2700000000000005,
+  "maghrib" : 19.68
+}, {
+  "countryCityID" : 20,
+  "day" : 123,
+  "fajr" : 4.25,
+  "maghrib" : 19.7
+}, {
+  "countryCityID" : 20,
+  "day" : 124,
+  "fajr" : 4.220000000000001,
+  "maghrib" : 19.72
+}, {
+  "countryCityID" : 20,
+  "day" : 125,
+  "fajr" : 4.2,
+  "maghrib" : 19.72
+}, {
+  "countryCityID" : 20,
+  "day" : 126,
+  "fajr" : 4.17,
+  "maghrib" : 19.73
+}, {
+  "countryCityID" : 20,
+  "day" : 127,
+  "fajr" : 4.15,
+  "maghrib" : 19.75
+}, {
+  "countryCityID" : 20,
+  "day" : 128,
+  "fajr" : 4.12,
+  "maghrib" : 19.77
+}, {
+  "countryCityID" : 20,
+  "day" : 129,
+  "fajr" : 4.1,
+  "maghrib" : 19.78
+}, {
+  "countryCityID" : 20,
+  "day" : 130,
+  "fajr" : 4.08,
+  "maghrib" : 19.8
+}, {
+  "countryCityID" : 20,
+  "day" : 131,
+  "fajr" : 4.05,
+  "maghrib" : 19.82
+}, {
+  "countryCityID" : 20,
+  "day" : 132,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 19.82
+}, {
+  "countryCityID" : 20,
+  "day" : 133,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 19.830000000000002
+}, {
+  "countryCityID" : 20,
+  "day" : 134,
+  "fajr" : 4.0,
+  "maghrib" : 19.85
+}, {
+  "countryCityID" : 20,
+  "day" : 135,
+  "fajr" : 3.97,
+  "maghrib" : 19.869999999999997
+}, {
+  "countryCityID" : 20,
+  "day" : 136,
+  "fajr" : 3.95,
+  "maghrib" : 19.880000000000003
+}, {
+  "countryCityID" : 20,
+  "day" : 137,
+  "fajr" : 3.9299999999999997,
+  "maghrib" : 19.9
+}, {
+  "countryCityID" : 20,
+  "day" : 138,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 19.9
+}, {
+  "countryCityID" : 20,
+  "day" : 139,
+  "fajr" : 3.9,
+  "maghrib" : 19.919999999999998
+}, {
+  "countryCityID" : 20,
+  "day" : 140,
+  "fajr" : 3.88,
+  "maghrib" : 19.93
+}, {
+  "countryCityID" : 20,
+  "day" : 141,
+  "fajr" : 3.87,
+  "maghrib" : 19.95
+}, {
+  "countryCityID" : 20,
+  "day" : 142,
+  "fajr" : 3.85,
+  "maghrib" : 19.97
+}, {
+  "countryCityID" : 20,
+  "day" : 143,
+  "fajr" : 3.8299999999999996,
+  "maghrib" : 19.97
+}, {
+  "countryCityID" : 20,
+  "day" : 144,
+  "fajr" : 3.8200000000000003,
+  "maghrib" : 19.98
+}, {
+  "countryCityID" : 20,
+  "day" : 145,
+  "fajr" : 3.8,
+  "maghrib" : 20.0
+}, {
+  "countryCityID" : 20,
+  "day" : 146,
+  "fajr" : 3.78,
+  "maghrib" : 20.02
+}, {
+  "countryCityID" : 20,
+  "day" : 147,
+  "fajr" : 3.7700000000000005,
+  "maghrib" : 20.02
+}, {
+  "countryCityID" : 20,
+  "day" : 148,
+  "fajr" : 3.75,
+  "maghrib" : 20.03
+}, {
+  "countryCityID" : 20,
+  "day" : 149,
+  "fajr" : 3.7299999999999995,
+  "maghrib" : 20.05
+}, {
+  "countryCityID" : 20,
+  "day" : 150,
+  "fajr" : 3.7299999999999995,
+  "maghrib" : 20.05
+}, {
+  "countryCityID" : 20,
+  "day" : 151,
+  "fajr" : 3.72,
+  "maghrib" : 20.07
+}, {
+  "countryCityID" : 20,
+  "day" : 152,
+  "fajr" : 3.7,
+  "maghrib" : 20.080000000000002
+}, {
+  "countryCityID" : 20,
+  "day" : 153,
+  "fajr" : 3.7,
+  "maghrib" : 20.080000000000002
+}, {
+  "countryCityID" : 20,
+  "day" : 154,
+  "fajr" : 3.6799999999999997,
+  "maghrib" : 20.1
+}, {
+  "countryCityID" : 20,
+  "day" : 155,
+  "fajr" : 3.6700000000000004,
+  "maghrib" : 20.119999999999997
+}, {
+  "countryCityID" : 20,
+  "day" : 156,
+  "fajr" : 3.6700000000000004,
+  "maghrib" : 20.119999999999997
+}, {
+  "countryCityID" : 20,
+  "day" : 157,
+  "fajr" : 3.65,
+  "maghrib" : 20.130000000000003
+}, {
+  "countryCityID" : 20,
+  "day" : 158,
+  "fajr" : 3.65,
+  "maghrib" : 20.130000000000003
+}, {
+  "countryCityID" : 20,
+  "day" : 159,
+  "fajr" : 3.65,
+  "maghrib" : 20.15
+}, {
+  "countryCityID" : 20,
+  "day" : 160,
+  "fajr" : 3.63,
+  "maghrib" : 20.15
+}, {
+  "countryCityID" : 20,
+  "day" : 161,
+  "fajr" : 3.63,
+  "maghrib" : 20.169999999999998
+}, {
+  "countryCityID" : 20,
+  "day" : 162,
+  "fajr" : 3.63,
+  "maghrib" : 20.169999999999998
+}, {
+  "countryCityID" : 21,
+  "day" : 102,
+  "fajr" : 4.95,
+  "maghrib" : 19.5
+}, {
+  "countryCityID" : 21,
+  "day" : 103,
+  "fajr" : 4.92,
+  "maghrib" : 19.52
+}, {
+  "countryCityID" : 21,
+  "day" : 104,
+  "fajr" : 4.9,
+  "maghrib" : 19.54
+}, {
+  "countryCityID" : 21,
+  "day" : 105,
+  "fajr" : 4.89,
+  "maghrib" : 19.55
+}, {
+  "countryCityID" : 21,
+  "day" : 106,
+  "fajr" : 4.85,
+  "maghrib" : 19.57
+}, {
+  "countryCityID" : 21,
+  "day" : 107,
+  "fajr" : 4.82,
+  "maghrib" : 19.59
+}, {
+  "countryCityID" : 21,
+  "day" : 108,
+  "fajr" : 4.8,
+  "maghrib" : 19.6
+}, {
+  "countryCityID" : 21,
+  "day" : 109,
+  "fajr" : 4.7700000000000005,
+  "maghrib" : 19.6
+}, {
+  "countryCityID" : 21,
+  "day" : 110,
+  "fajr" : 4.75,
+  "maghrib" : 19.619999999999997
+}, {
+  "countryCityID" : 21,
+  "day" : 111,
+  "fajr" : 4.720000000000001,
+  "maghrib" : 19.64
+}, {
+  "countryCityID" : 21,
+  "day" : 112,
+  "fajr" : 4.6899999999999995,
+  "maghrib" : 19.65
+}, {
+  "countryCityID" : 21,
+  "day" : 113,
+  "fajr" : 4.67,
+  "maghrib" : 19.669999999999998
+}, {
+  "countryCityID" : 21,
+  "day" : 114,
+  "fajr" : 4.64,
+  "maghrib" : 19.69
+}, {
+  "countryCityID" : 21,
+  "day" : 115,
+  "fajr" : 4.62,
+  "maghrib" : 19.7
+}, {
+  "countryCityID" : 21,
+  "day" : 116,
+  "fajr" : 4.59,
+  "maghrib" : 19.72
+}, {
+  "countryCityID" : 21,
+  "day" : 117,
+  "fajr" : 4.57,
+  "maghrib" : 19.72
+}, {
+  "countryCityID" : 21,
+  "day" : 118,
+  "fajr" : 4.54,
+  "maghrib" : 19.740000000000002
+}, {
+  "countryCityID" : 21,
+  "day" : 119,
+  "fajr" : 4.5,
+  "maghrib" : 19.75
+}, {
+  "countryCityID" : 21,
+  "day" : 120,
+  "fajr" : 4.49,
+  "maghrib" : 19.77
+}, {
+  "countryCityID" : 21,
+  "day" : 121,
+  "fajr" : 4.45,
+  "maghrib" : 19.79
+}, {
+  "countryCityID" : 21,
+  "day" : 122,
+  "fajr" : 4.4399999999999995,
+  "maghrib" : 19.8
+}, {
+  "countryCityID" : 21,
+  "day" : 123,
+  "fajr" : 4.42,
+  "maghrib" : 19.82
+}, {
+  "countryCityID" : 21,
+  "day" : 124,
+  "fajr" : 4.39,
+  "maghrib" : 19.84
+}, {
+  "countryCityID" : 21,
+  "day" : 125,
+  "fajr" : 4.37,
+  "maghrib" : 19.84
+}, {
+  "countryCityID" : 21,
+  "day" : 126,
+  "fajr" : 4.34,
+  "maghrib" : 19.85
+}, {
+  "countryCityID" : 21,
+  "day" : 127,
+  "fajr" : 4.32,
+  "maghrib" : 19.869999999999997
+}, {
+  "countryCityID" : 21,
+  "day" : 128,
+  "fajr" : 4.29,
+  "maghrib" : 19.89
+}, {
+  "countryCityID" : 21,
+  "day" : 129,
+  "fajr" : 4.2700000000000005,
+  "maghrib" : 19.9
+}, {
+  "countryCityID" : 21,
+  "day" : 130,
+  "fajr" : 4.25,
+  "maghrib" : 19.919999999999998
+}, {
+  "countryCityID" : 21,
+  "day" : 131,
+  "fajr" : 4.220000000000001,
+  "maghrib" : 19.94
+}, {
+  "countryCityID" : 21,
+  "day" : 132,
+  "fajr" : 4.2,
+  "maghrib" : 19.94
+}, {
+  "countryCityID" : 21,
+  "day" : 133,
+  "fajr" : 4.2,
+  "maghrib" : 19.93
+}, {
+  "countryCityID" : 21,
+  "day" : 134,
+  "fajr" : 4.18,
+  "maghrib" : 19.95
+}, {
+  "countryCityID" : 21,
+  "day" : 135,
+  "fajr" : 4.15,
+  "maghrib" : 19.97
+}, {
+  "countryCityID" : 21,
+  "day" : 136,
+  "fajr" : 4.13,
+  "maghrib" : 19.98
+}, {
+  "countryCityID" : 21,
+  "day" : 137,
+  "fajr" : 4.11,
+  "maghrib" : 20.0
+}, {
+  "countryCityID" : 21,
+  "day" : 138,
+  "fajr" : 4.1,
+  "maghrib" : 20.0
+}, {
+  "countryCityID" : 21,
+  "day" : 139,
+  "fajr" : 4.08,
+  "maghrib" : 20.02
+}, {
+  "countryCityID" : 21,
+  "day" : 140,
+  "fajr" : 4.0600000000000005,
+  "maghrib" : 20.03
+}, {
+  "countryCityID" : 21,
+  "day" : 141,
+  "fajr" : 4.05,
+  "maghrib" : 20.05
+}, {
+  "countryCityID" : 21,
+  "day" : 142,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 20.07
+}, {
+  "countryCityID" : 21,
+  "day" : 143,
+  "fajr" : 4.01,
+  "maghrib" : 20.07
+}, {
+  "countryCityID" : 21,
+  "day" : 144,
+  "fajr" : 4.0,
+  "maghrib" : 20.080000000000002
+}, {
+  "countryCityID" : 21,
+  "day" : 145,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 20.1
+}, {
+  "countryCityID" : 21,
+  "day" : 146,
+  "fajr" : 3.96,
+  "maghrib" : 20.119999999999997
+}, {
+  "countryCityID" : 21,
+  "day" : 147,
+  "fajr" : 3.95,
+  "maghrib" : 20.119999999999997
+}, {
+  "countryCityID" : 21,
+  "day" : 148,
+  "fajr" : 3.9299999999999997,
+  "maghrib" : 20.130000000000003
+}, {
+  "countryCityID" : 21,
+  "day" : 149,
+  "fajr" : 3.91,
+  "maghrib" : 20.15
+}, {
+  "countryCityID" : 21,
+  "day" : 150,
+  "fajr" : 3.91,
+  "maghrib" : 20.15
+}, {
+  "countryCityID" : 21,
+  "day" : 151,
+  "fajr" : 3.9,
+  "maghrib" : 20.169999999999998
+}, {
+  "countryCityID" : 21,
+  "day" : 152,
+  "fajr" : 3.88,
+  "maghrib" : 20.18
+}, {
+  "countryCityID" : 21,
+  "day" : 153,
+  "fajr" : 3.88,
+  "maghrib" : 20.18
+}, {
+  "countryCityID" : 21,
+  "day" : 154,
+  "fajr" : 3.8600000000000003,
+  "maghrib" : 20.2
+}, {
+  "countryCityID" : 21,
+  "day" : 155,
+  "fajr" : 3.85,
+  "maghrib" : 20.22
+}, {
+  "countryCityID" : 21,
+  "day" : 156,
+  "fajr" : 3.85,
+  "maghrib" : 20.22
+}, {
+  "countryCityID" : 21,
+  "day" : 157,
+  "fajr" : 3.8299999999999996,
+  "maghrib" : 20.23
+}, {
+  "countryCityID" : 21,
+  "day" : 158,
+  "fajr" : 3.8299999999999996,
+  "maghrib" : 20.23
+}, {
+  "countryCityID" : 21,
+  "day" : 159,
+  "fajr" : 3.8299999999999996,
+  "maghrib" : 20.25
+}, {
+  "countryCityID" : 21,
+  "day" : 160,
+  "fajr" : 3.81,
+  "maghrib" : 20.25
+}, {
+  "countryCityID" : 21,
+  "day" : 161,
+  "fajr" : 3.81,
+  "maghrib" : 20.27
+}, {
+  "countryCityID" : 21,
+  "day" : 162,
+  "fajr" : 3.81,
+  "maghrib" : 20.27
+}, {
+  "countryCityID" : 22,
+  "day" : 102,
+  "fajr" : 5.1,
+  "maghrib" : 19.61
+}, {
+  "countryCityID" : 22,
+  "day" : 103,
+  "fajr" : 5.07,
+  "maghrib" : 19.630000000000003
+}, {
+  "countryCityID" : 22,
+  "day" : 104,
+  "fajr" : 5.0600000000000005,
+  "maghrib" : 19.65
+}, {
+  "countryCityID" : 22,
+  "day" : 105,
+  "fajr" : 5.05,
+  "maghrib" : 19.66
+}, {
+  "countryCityID" : 22,
+  "day" : 106,
+  "fajr" : 5.01,
+  "maghrib" : 19.68
+}, {
+  "countryCityID" : 22,
+  "day" : 107,
+  "fajr" : 4.9799999999999995,
+  "maghrib" : 19.7
+}, {
+  "countryCityID" : 22,
+  "day" : 108,
+  "fajr" : 4.96,
+  "maghrib" : 19.71
+}, {
+  "countryCityID" : 22,
+  "day" : 109,
+  "fajr" : 4.93,
+  "maghrib" : 19.71
+}, {
+  "countryCityID" : 22,
+  "day" : 110,
+  "fajr" : 4.91,
+  "maghrib" : 19.73
+}, {
+  "countryCityID" : 22,
+  "day" : 111,
+  "fajr" : 4.88,
+  "maghrib" : 19.75
+}, {
+  "countryCityID" : 22,
+  "day" : 112,
+  "fajr" : 4.85,
+  "maghrib" : 19.759999999999998
+}, {
+  "countryCityID" : 22,
+  "day" : 113,
+  "fajr" : 4.83,
+  "maghrib" : 19.78
+}, {
+  "countryCityID" : 22,
+  "day" : 114,
+  "fajr" : 4.8,
+  "maghrib" : 19.8
+}, {
+  "countryCityID" : 22,
+  "day" : 115,
+  "fajr" : 4.779999999999999,
+  "maghrib" : 19.81
+}, {
+  "countryCityID" : 22,
+  "day" : 116,
+  "fajr" : 4.75,
+  "maghrib" : 19.830000000000002
+}, {
+  "countryCityID" : 22,
+  "day" : 117,
+  "fajr" : 4.7299999999999995,
+  "maghrib" : 19.830000000000002
+}, {
+  "countryCityID" : 22,
+  "day" : 118,
+  "fajr" : 4.7,
+  "maghrib" : 19.85
+}, {
+  "countryCityID" : 22,
+  "day" : 119,
+  "fajr" : 4.66,
+  "maghrib" : 19.86
+}, {
+  "countryCityID" : 22,
+  "day" : 120,
+  "fajr" : 4.65,
+  "maghrib" : 19.880000000000003
+}, {
+  "countryCityID" : 22,
+  "day" : 121,
+  "fajr" : 4.61,
+  "maghrib" : 19.9
+}, {
+  "countryCityID" : 22,
+  "day" : 122,
+  "fajr" : 4.6,
+  "maghrib" : 19.91
+}, {
+  "countryCityID" : 22,
+  "day" : 123,
+  "fajr" : 4.58,
+  "maghrib" : 19.93
+}, {
+  "countryCityID" : 22,
+  "day" : 124,
+  "fajr" : 4.55,
+  "maghrib" : 19.95
+}, {
+  "countryCityID" : 22,
+  "day" : 125,
+  "fajr" : 4.529999999999999,
+  "maghrib" : 19.95
+}, {
+  "countryCityID" : 22,
+  "day" : 126,
+  "fajr" : 4.5,
+  "maghrib" : 19.96
+}, {
+  "countryCityID" : 22,
+  "day" : 127,
+  "fajr" : 4.4799999999999995,
+  "maghrib" : 19.98
+}, {
+  "countryCityID" : 22,
+  "day" : 128,
+  "fajr" : 4.45,
+  "maghrib" : 20.0
+}, {
+  "countryCityID" : 22,
+  "day" : 129,
+  "fajr" : 4.43,
+  "maghrib" : 20.009999999999998
+}, {
+  "countryCityID" : 22,
+  "day" : 130,
+  "fajr" : 4.41,
+  "maghrib" : 20.03
+}, {
+  "countryCityID" : 22,
+  "day" : 131,
+  "fajr" : 4.38,
+  "maghrib" : 20.05
+}, {
+  "countryCityID" : 22,
+  "day" : 132,
+  "fajr" : 4.36,
+  "maghrib" : 20.05
+}, {
+  "countryCityID" : 22,
+  "day" : 133,
+  "fajr" : 4.37,
+  "maghrib" : 20.05
+}, {
+  "countryCityID" : 22,
+  "day" : 134,
+  "fajr" : 4.35,
+  "maghrib" : 20.07
+}, {
+  "countryCityID" : 22,
+  "day" : 135,
+  "fajr" : 4.32,
+  "maghrib" : 20.09
+}, {
+  "countryCityID" : 22,
+  "day" : 136,
+  "fajr" : 4.3,
+  "maghrib" : 20.1
+}, {
+  "countryCityID" : 22,
+  "day" : 137,
+  "fajr" : 4.279999999999999,
+  "maghrib" : 20.119999999999997
+}, {
+  "countryCityID" : 22,
+  "day" : 138,
+  "fajr" : 4.2700000000000005,
+  "maghrib" : 20.119999999999997
+}, {
+  "countryCityID" : 22,
+  "day" : 139,
+  "fajr" : 4.25,
+  "maghrib" : 20.14
+}, {
+  "countryCityID" : 22,
+  "day" : 140,
+  "fajr" : 4.2299999999999995,
+  "maghrib" : 20.15
+}, {
+  "countryCityID" : 22,
+  "day" : 141,
+  "fajr" : 4.220000000000001,
+  "maghrib" : 20.169999999999998
+}, {
+  "countryCityID" : 22,
+  "day" : 142,
+  "fajr" : 4.2,
+  "maghrib" : 20.19
+}, {
+  "countryCityID" : 22,
+  "day" : 143,
+  "fajr" : 4.18,
+  "maghrib" : 20.19
+}, {
+  "countryCityID" : 22,
+  "day" : 144,
+  "fajr" : 4.17,
+  "maghrib" : 20.2
+}, {
+  "countryCityID" : 22,
+  "day" : 145,
+  "fajr" : 4.15,
+  "maghrib" : 20.22
+}, {
+  "countryCityID" : 22,
+  "day" : 146,
+  "fajr" : 4.13,
+  "maghrib" : 20.240000000000002
+}, {
+  "countryCityID" : 22,
+  "day" : 147,
+  "fajr" : 4.12,
+  "maghrib" : 20.240000000000002
+}, {
+  "countryCityID" : 22,
+  "day" : 148,
+  "fajr" : 4.1,
+  "maghrib" : 20.25
+}, {
+  "countryCityID" : 22,
+  "day" : 149,
+  "fajr" : 4.08,
+  "maghrib" : 20.27
+}, {
+  "countryCityID" : 22,
+  "day" : 150,
+  "fajr" : 4.08,
+  "maghrib" : 20.27
+}, {
+  "countryCityID" : 22,
+  "day" : 151,
+  "fajr" : 4.07,
+  "maghrib" : 20.29
+}, {
+  "countryCityID" : 22,
+  "day" : 152,
+  "fajr" : 4.05,
+  "maghrib" : 20.3
+}, {
+  "countryCityID" : 22,
+  "day" : 153,
+  "fajr" : 4.05,
+  "maghrib" : 20.3
+}, {
+  "countryCityID" : 22,
+  "day" : 154,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 20.32
+}, {
+  "countryCityID" : 22,
+  "day" : 155,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 20.34
+}, {
+  "countryCityID" : 22,
+  "day" : 156,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 20.34
+}, {
+  "countryCityID" : 22,
+  "day" : 157,
+  "fajr" : 4.0,
+  "maghrib" : 20.35
+}, {
+  "countryCityID" : 22,
+  "day" : 158,
+  "fajr" : 4.0,
+  "maghrib" : 20.35
+}, {
+  "countryCityID" : 22,
+  "day" : 159,
+  "fajr" : 4.0,
+  "maghrib" : 20.369999999999997
+}, {
+  "countryCityID" : 22,
+  "day" : 160,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 20.369999999999997
+}, {
+  "countryCityID" : 22,
+  "day" : 161,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 20.39
+}, {
+  "countryCityID" : 22,
+  "day" : 162,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 20.39
+}, {
+  "countryCityID" : 23,
+  "day" : 102,
+  "fajr" : 4.58,
+  "maghrib" : 19.15
+}, {
+  "countryCityID" : 23,
+  "day" : 103,
+  "fajr" : 4.55,
+  "maghrib" : 19.169999999999998
+}, {
+  "countryCityID" : 23,
+  "day" : 104,
+  "fajr" : 4.529999999999999,
+  "maghrib" : 19.19
+}, {
+  "countryCityID" : 23,
+  "day" : 105,
+  "fajr" : 4.5200000000000005,
+  "maghrib" : 19.2
+}, {
+  "countryCityID" : 23,
+  "day" : 106,
+  "fajr" : 4.4799999999999995,
+  "maghrib" : 19.22
+}, {
+  "countryCityID" : 23,
+  "day" : 107,
+  "fajr" : 4.45,
+  "maghrib" : 19.240000000000002
+}, {
+  "countryCityID" : 23,
+  "day" : 108,
+  "fajr" : 4.43,
+  "maghrib" : 19.25
+}, {
+  "countryCityID" : 23,
+  "day" : 109,
+  "fajr" : 4.4,
+  "maghrib" : 19.25
+}, {
+  "countryCityID" : 23,
+  "day" : 110,
+  "fajr" : 4.38,
+  "maghrib" : 19.27
+}, {
+  "countryCityID" : 23,
+  "day" : 111,
+  "fajr" : 4.35,
+  "maghrib" : 19.29
+}, {
+  "countryCityID" : 23,
+  "day" : 112,
+  "fajr" : 4.32,
+  "maghrib" : 19.3
+}, {
+  "countryCityID" : 23,
+  "day" : 113,
+  "fajr" : 4.3,
+  "maghrib" : 19.32
+}, {
+  "countryCityID" : 23,
+  "day" : 114,
+  "fajr" : 4.2700000000000005,
+  "maghrib" : 19.34
+}, {
+  "countryCityID" : 23,
+  "day" : 115,
+  "fajr" : 4.25,
+  "maghrib" : 19.35
+}, {
+  "countryCityID" : 23,
+  "day" : 116,
+  "fajr" : 4.220000000000001,
+  "maghrib" : 19.369999999999997
+}, {
+  "countryCityID" : 23,
+  "day" : 117,
+  "fajr" : 4.2,
+  "maghrib" : 19.369999999999997
+}, {
+  "countryCityID" : 23,
+  "day" : 118,
+  "fajr" : 4.17,
+  "maghrib" : 19.39
+}, {
+  "countryCityID" : 23,
+  "day" : 119,
+  "fajr" : 4.13,
+  "maghrib" : 19.4
+}, {
+  "countryCityID" : 23,
+  "day" : 120,
+  "fajr" : 4.12,
+  "maghrib" : 19.419999999999998
+}, {
+  "countryCityID" : 23,
+  "day" : 121,
+  "fajr" : 4.08,
+  "maghrib" : 19.44
+}, {
+  "countryCityID" : 23,
+  "day" : 122,
+  "fajr" : 4.07,
+  "maghrib" : 19.45
+}, {
+  "countryCityID" : 23,
+  "day" : 123,
+  "fajr" : 4.05,
+  "maghrib" : 19.47
+}, {
+  "countryCityID" : 23,
+  "day" : 124,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 19.490000000000002
+}, {
+  "countryCityID" : 23,
+  "day" : 125,
+  "fajr" : 4.0,
+  "maghrib" : 19.490000000000002
+}, {
+  "countryCityID" : 23,
+  "day" : 126,
+  "fajr" : 3.97,
+  "maghrib" : 19.5
+}, {
+  "countryCityID" : 23,
+  "day" : 127,
+  "fajr" : 3.95,
+  "maghrib" : 19.52
+}, {
+  "countryCityID" : 23,
+  "day" : 128,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 19.54
+}, {
+  "countryCityID" : 23,
+  "day" : 129,
+  "fajr" : 3.9,
+  "maghrib" : 19.55
+}, {
+  "countryCityID" : 23,
+  "day" : 130,
+  "fajr" : 3.88,
+  "maghrib" : 19.57
+}, {
+  "countryCityID" : 23,
+  "day" : 131,
+  "fajr" : 3.85,
+  "maghrib" : 19.59
+}, {
+  "countryCityID" : 23,
+  "day" : 132,
+  "fajr" : 3.8299999999999996,
+  "maghrib" : 19.59
+}, {
+  "countryCityID" : 23,
+  "day" : 133,
+  "fajr" : 3.84,
+  "maghrib" : 19.580000000000002
+}, {
+  "countryCityID" : 23,
+  "day" : 134,
+  "fajr" : 3.8200000000000003,
+  "maghrib" : 19.6
+}, {
+  "countryCityID" : 23,
+  "day" : 135,
+  "fajr" : 3.79,
+  "maghrib" : 19.619999999999997
+}, {
+  "countryCityID" : 23,
+  "day" : 136,
+  "fajr" : 3.7700000000000005,
+  "maghrib" : 19.630000000000003
+}, {
+  "countryCityID" : 23,
+  "day" : 137,
+  "fajr" : 3.75,
+  "maghrib" : 19.65
+}, {
+  "countryCityID" : 23,
+  "day" : 138,
+  "fajr" : 3.7399999999999998,
+  "maghrib" : 19.65
+}, {
+  "countryCityID" : 23,
+  "day" : 139,
+  "fajr" : 3.72,
+  "maghrib" : 19.669999999999998
+}, {
+  "countryCityID" : 23,
+  "day" : 140,
+  "fajr" : 3.7,
+  "maghrib" : 19.68
+}, {
+  "countryCityID" : 23,
+  "day" : 141,
+  "fajr" : 3.69,
+  "maghrib" : 19.7
+}, {
+  "countryCityID" : 23,
+  "day" : 142,
+  "fajr" : 3.6700000000000004,
+  "maghrib" : 19.72
+}, {
+  "countryCityID" : 23,
+  "day" : 143,
+  "fajr" : 3.65,
+  "maghrib" : 19.72
+}, {
+  "countryCityID" : 23,
+  "day" : 144,
+  "fajr" : 3.6399999999999997,
+  "maghrib" : 19.73
+}, {
+  "countryCityID" : 23,
+  "day" : 145,
+  "fajr" : 3.62,
+  "maghrib" : 19.75
+}, {
+  "countryCityID" : 23,
+  "day" : 146,
+  "fajr" : 3.6,
+  "maghrib" : 19.77
+}, {
+  "countryCityID" : 23,
+  "day" : 147,
+  "fajr" : 3.59,
+  "maghrib" : 19.77
+}, {
+  "countryCityID" : 23,
+  "day" : 148,
+  "fajr" : 3.5700000000000003,
+  "maghrib" : 19.78
+}, {
+  "countryCityID" : 23,
+  "day" : 149,
+  "fajr" : 3.55,
+  "maghrib" : 19.8
+}, {
+  "countryCityID" : 23,
+  "day" : 150,
+  "fajr" : 3.55,
+  "maghrib" : 19.8
+}, {
+  "countryCityID" : 23,
+  "day" : 151,
+  "fajr" : 3.54,
+  "maghrib" : 19.82
+}, {
+  "countryCityID" : 23,
+  "day" : 152,
+  "fajr" : 3.5200000000000005,
+  "maghrib" : 19.830000000000002
+}, {
+  "countryCityID" : 23,
+  "day" : 153,
+  "fajr" : 3.5200000000000005,
+  "maghrib" : 19.830000000000002
+}, {
+  "countryCityID" : 23,
+  "day" : 154,
+  "fajr" : 3.5,
+  "maghrib" : 19.85
+}, {
+  "countryCityID" : 23,
+  "day" : 155,
+  "fajr" : 3.4899999999999998,
+  "maghrib" : 19.869999999999997
+}, {
+  "countryCityID" : 23,
+  "day" : 156,
+  "fajr" : 3.4899999999999998,
+  "maghrib" : 19.869999999999997
+}, {
+  "countryCityID" : 23,
+  "day" : 157,
+  "fajr" : 3.47,
+  "maghrib" : 19.880000000000003
+}, {
+  "countryCityID" : 23,
+  "day" : 158,
+  "fajr" : 3.47,
+  "maghrib" : 19.880000000000003
+}, {
+  "countryCityID" : 23,
+  "day" : 159,
+  "fajr" : 3.47,
+  "maghrib" : 19.9
+}, {
+  "countryCityID" : 23,
+  "day" : 160,
+  "fajr" : 3.45,
+  "maghrib" : 19.9
+}, {
+  "countryCityID" : 23,
+  "day" : 161,
+  "fajr" : 3.45,
+  "maghrib" : 19.919999999999998
+}, {
+  "countryCityID" : 23,
+  "day" : 162,
+  "fajr" : 3.45,
+  "maghrib" : 19.919999999999998
+}, {
+  "countryCityID" : 24,
+  "day" : 102,
+  "fajr" : 4.66,
+  "maghrib" : 19.21
+}, {
+  "countryCityID" : 24,
+  "day" : 103,
+  "fajr" : 4.63,
+  "maghrib" : 19.23
+}, {
+  "countryCityID" : 24,
+  "day" : 104,
+  "fajr" : 4.61,
+  "maghrib" : 19.25
+}, {
+  "countryCityID" : 24,
+  "day" : 105,
+  "fajr" : 4.6,
+  "maghrib" : 19.259999999999998
+}, {
+  "countryCityID" : 24,
+  "day" : 106,
+  "fajr" : 4.5600000000000005,
+  "maghrib" : 19.28
+}, {
+  "countryCityID" : 24,
+  "day" : 107,
+  "fajr" : 4.529999999999999,
+  "maghrib" : 19.3
+}, {
+  "countryCityID" : 24,
+  "day" : 108,
+  "fajr" : 4.51,
+  "maghrib" : 19.31
+}, {
+  "countryCityID" : 24,
+  "day" : 109,
+  "fajr" : 4.4799999999999995,
+  "maghrib" : 19.31
+}, {
+  "countryCityID" : 24,
+  "day" : 110,
+  "fajr" : 4.46,
+  "maghrib" : 19.330000000000002
+}, {
+  "countryCityID" : 24,
+  "day" : 111,
+  "fajr" : 4.43,
+  "maghrib" : 19.35
+}, {
+  "countryCityID" : 24,
+  "day" : 112,
+  "fajr" : 4.4,
+  "maghrib" : 19.36
+}, {
+  "countryCityID" : 24,
+  "day" : 113,
+  "fajr" : 4.38,
+  "maghrib" : 19.380000000000003
+}, {
+  "countryCityID" : 24,
+  "day" : 114,
+  "fajr" : 4.35,
+  "maghrib" : 19.4
+}, {
+  "countryCityID" : 24,
+  "day" : 115,
+  "fajr" : 4.33,
+  "maghrib" : 19.41
+}, {
+  "countryCityID" : 24,
+  "day" : 116,
+  "fajr" : 4.3,
+  "maghrib" : 19.43
+}, {
+  "countryCityID" : 24,
+  "day" : 117,
+  "fajr" : 4.279999999999999,
+  "maghrib" : 19.43
+}, {
+  "countryCityID" : 24,
+  "day" : 118,
+  "fajr" : 4.25,
+  "maghrib" : 19.45
+}, {
+  "countryCityID" : 24,
+  "day" : 119,
+  "fajr" : 4.21,
+  "maghrib" : 19.46
+}, {
+  "countryCityID" : 24,
+  "day" : 120,
+  "fajr" : 4.2,
+  "maghrib" : 19.48
+}, {
+  "countryCityID" : 24,
+  "day" : 121,
+  "fajr" : 4.16,
+  "maghrib" : 19.5
+}, {
+  "countryCityID" : 24,
+  "day" : 122,
+  "fajr" : 4.15,
+  "maghrib" : 19.509999999999998
+}, {
+  "countryCityID" : 24,
+  "day" : 123,
+  "fajr" : 4.13,
+  "maghrib" : 19.53
+}, {
+  "countryCityID" : 24,
+  "day" : 124,
+  "fajr" : 4.1,
+  "maghrib" : 19.55
+}, {
+  "countryCityID" : 24,
+  "day" : 125,
+  "fajr" : 4.08,
+  "maghrib" : 19.55
+}, {
+  "countryCityID" : 24,
+  "day" : 126,
+  "fajr" : 4.05,
+  "maghrib" : 19.56
+}, {
+  "countryCityID" : 24,
+  "day" : 127,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 19.580000000000002
+}, {
+  "countryCityID" : 24,
+  "day" : 128,
+  "fajr" : 4.0,
+  "maghrib" : 19.6
+}, {
+  "countryCityID" : 24,
+  "day" : 129,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.61
+}, {
+  "countryCityID" : 24,
+  "day" : 130,
+  "fajr" : 3.96,
+  "maghrib" : 19.630000000000003
+}, {
+  "countryCityID" : 24,
+  "day" : 131,
+  "fajr" : 3.9299999999999997,
+  "maghrib" : 19.65
+}, {
+  "countryCityID" : 24,
+  "day" : 132,
+  "fajr" : 3.91,
+  "maghrib" : 19.65
+}, {
+  "countryCityID" : 24,
+  "day" : 133,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 19.66
+}, {
+  "countryCityID" : 24,
+  "day" : 134,
+  "fajr" : 3.9,
+  "maghrib" : 19.68
+}, {
+  "countryCityID" : 24,
+  "day" : 135,
+  "fajr" : 3.87,
+  "maghrib" : 19.7
+}, {
+  "countryCityID" : 24,
+  "day" : 136,
+  "fajr" : 3.85,
+  "maghrib" : 19.71
+}, {
+  "countryCityID" : 24,
+  "day" : 137,
+  "fajr" : 3.8299999999999996,
+  "maghrib" : 19.73
+}, {
+  "countryCityID" : 24,
+  "day" : 138,
+  "fajr" : 3.8200000000000003,
+  "maghrib" : 19.73
+}, {
+  "countryCityID" : 24,
+  "day" : 139,
+  "fajr" : 3.8,
+  "maghrib" : 19.75
+}, {
+  "countryCityID" : 24,
+  "day" : 140,
+  "fajr" : 3.78,
+  "maghrib" : 19.759999999999998
+}, {
+  "countryCityID" : 24,
+  "day" : 141,
+  "fajr" : 3.7700000000000005,
+  "maghrib" : 19.78
+}, {
+  "countryCityID" : 24,
+  "day" : 142,
+  "fajr" : 3.75,
+  "maghrib" : 19.8
+}, {
+  "countryCityID" : 24,
+  "day" : 143,
+  "fajr" : 3.7299999999999995,
+  "maghrib" : 19.8
+}, {
+  "countryCityID" : 24,
+  "day" : 144,
+  "fajr" : 3.72,
+  "maghrib" : 19.81
+}, {
+  "countryCityID" : 24,
+  "day" : 145,
+  "fajr" : 3.7,
+  "maghrib" : 19.830000000000002
+}, {
+  "countryCityID" : 24,
+  "day" : 146,
+  "fajr" : 3.6799999999999997,
+  "maghrib" : 19.85
+}, {
+  "countryCityID" : 24,
+  "day" : 147,
+  "fajr" : 3.6700000000000004,
+  "maghrib" : 19.85
+}, {
+  "countryCityID" : 24,
+  "day" : 148,
+  "fajr" : 3.65,
+  "maghrib" : 19.86
+}, {
+  "countryCityID" : 24,
+  "day" : 149,
+  "fajr" : 3.63,
+  "maghrib" : 19.880000000000003
+}, {
+  "countryCityID" : 24,
+  "day" : 150,
+  "fajr" : 3.63,
+  "maghrib" : 19.880000000000003
+}, {
+  "countryCityID" : 24,
+  "day" : 151,
+  "fajr" : 3.62,
+  "maghrib" : 19.9
+}, {
+  "countryCityID" : 24,
+  "day" : 152,
+  "fajr" : 3.6,
+  "maghrib" : 19.91
+}, {
+  "countryCityID" : 24,
+  "day" : 153,
+  "fajr" : 3.6,
+  "maghrib" : 19.91
+}, {
+  "countryCityID" : 24,
+  "day" : 154,
+  "fajr" : 3.5799999999999996,
+  "maghrib" : 19.93
+}, {
+  "countryCityID" : 24,
+  "day" : 155,
+  "fajr" : 3.5700000000000003,
+  "maghrib" : 19.95
+}, {
+  "countryCityID" : 24,
+  "day" : 156,
+  "fajr" : 3.5700000000000003,
+  "maghrib" : 19.95
+}, {
+  "countryCityID" : 24,
+  "day" : 157,
+  "fajr" : 3.55,
+  "maghrib" : 19.96
+}, {
+  "countryCityID" : 24,
+  "day" : 158,
+  "fajr" : 3.55,
+  "maghrib" : 19.96
+}, {
+  "countryCityID" : 24,
+  "day" : 159,
+  "fajr" : 3.55,
+  "maghrib" : 19.98
+}, {
+  "countryCityID" : 24,
+  "day" : 160,
+  "fajr" : 3.53,
+  "maghrib" : 19.98
+}, {
+  "countryCityID" : 24,
+  "day" : 161,
+  "fajr" : 3.53,
+  "maghrib" : 20.0
+}, {
+  "countryCityID" : 24,
+  "day" : 162,
+  "fajr" : 3.53,
+  "maghrib" : 20.0
+}, {
+  "countryCityID" : 25,
+  "day" : 102,
+  "fajr" : 4.5,
+  "maghrib" : 19.080000000000002
+}, {
+  "countryCityID" : 25,
+  "day" : 103,
+  "fajr" : 4.470000000000001,
+  "maghrib" : 19.1
+}, {
+  "countryCityID" : 25,
+  "day" : 104,
+  "fajr" : 4.41,
+  "maghrib" : 19.119999999999997
+}, {
+  "countryCityID" : 25,
+  "day" : 105,
+  "fajr" : 4.4,
+  "maghrib" : 19.130000000000003
+}, {
+  "countryCityID" : 25,
+  "day" : 106,
+  "fajr" : 4.36,
+  "maghrib" : 19.15
+}, {
+  "countryCityID" : 25,
+  "day" : 107,
+  "fajr" : 4.33,
+  "maghrib" : 19.169999999999998
+}, {
+  "countryCityID" : 25,
+  "day" : 108,
+  "fajr" : 4.3100000000000005,
+  "maghrib" : 19.18
+}, {
+  "countryCityID" : 25,
+  "day" : 109,
+  "fajr" : 4.279999999999999,
+  "maghrib" : 19.18
+}, {
+  "countryCityID" : 25,
+  "day" : 110,
+  "fajr" : 4.26,
+  "maghrib" : 19.2
+}, {
+  "countryCityID" : 25,
+  "day" : 111,
+  "fajr" : 4.2299999999999995,
+  "maghrib" : 19.22
+}, {
+  "countryCityID" : 25,
+  "day" : 112,
+  "fajr" : 4.2,
+  "maghrib" : 19.23
+}, {
+  "countryCityID" : 25,
+  "day" : 113,
+  "fajr" : 4.18,
+  "maghrib" : 19.25
+}, {
+  "countryCityID" : 25,
+  "day" : 114,
+  "fajr" : 4.15,
+  "maghrib" : 19.27
+}, {
+  "countryCityID" : 25,
+  "day" : 115,
+  "fajr" : 4.13,
+  "maghrib" : 19.28
+}, {
+  "countryCityID" : 25,
+  "day" : 116,
+  "fajr" : 4.1,
+  "maghrib" : 19.3
+}, {
+  "countryCityID" : 25,
+  "day" : 117,
+  "fajr" : 4.08,
+  "maghrib" : 19.3
+}, {
+  "countryCityID" : 25,
+  "day" : 118,
+  "fajr" : 4.05,
+  "maghrib" : 19.32
+}, {
+  "countryCityID" : 25,
+  "day" : 119,
+  "fajr" : 4.01,
+  "maghrib" : 19.330000000000002
+}, {
+  "countryCityID" : 25,
+  "day" : 120,
+  "fajr" : 4.0,
+  "maghrib" : 19.35
+}, {
+  "countryCityID" : 25,
+  "day" : 121,
+  "fajr" : 3.96,
+  "maghrib" : 19.369999999999997
+}, {
+  "countryCityID" : 25,
+  "day" : 122,
+  "fajr" : 3.95,
+  "maghrib" : 19.380000000000003
+}, {
+  "countryCityID" : 25,
+  "day" : 123,
+  "fajr" : 3.9299999999999997,
+  "maghrib" : 19.4
+}, {
+  "countryCityID" : 25,
+  "day" : 124,
+  "fajr" : 3.9,
+  "maghrib" : 19.419999999999998
+}, {
+  "countryCityID" : 25,
+  "day" : 125,
+  "fajr" : 3.88,
+  "maghrib" : 19.419999999999998
+}, {
+  "countryCityID" : 25,
+  "day" : 126,
+  "fajr" : 3.85,
+  "maghrib" : 19.43
+}, {
+  "countryCityID" : 25,
+  "day" : 127,
+  "fajr" : 3.8299999999999996,
+  "maghrib" : 19.45
+}, {
+  "countryCityID" : 25,
+  "day" : 128,
+  "fajr" : 3.8,
+  "maghrib" : 19.47
+}, {
+  "countryCityID" : 25,
+  "day" : 129,
+  "fajr" : 3.78,
+  "maghrib" : 19.48
+}, {
+  "countryCityID" : 25,
+  "day" : 130,
+  "fajr" : 3.7600000000000002,
+  "maghrib" : 19.5
+}, {
+  "countryCityID" : 25,
+  "day" : 131,
+  "fajr" : 3.7299999999999995,
+  "maghrib" : 19.52
+}, {
+  "countryCityID" : 25,
+  "day" : 132,
+  "fajr" : 3.71,
+  "maghrib" : 19.52
+}, {
+  "countryCityID" : 25,
+  "day" : 133,
+  "fajr" : 3.7,
+  "maghrib" : 19.53
+}, {
+  "countryCityID" : 25,
+  "day" : 134,
+  "fajr" : 3.6799999999999997,
+  "maghrib" : 19.55
+}, {
+  "countryCityID" : 25,
+  "day" : 135,
+  "fajr" : 3.65,
+  "maghrib" : 19.57
+}, {
+  "countryCityID" : 25,
+  "day" : 136,
+  "fajr" : 3.63,
+  "maghrib" : 19.580000000000002
+}, {
+  "countryCityID" : 25,
+  "day" : 137,
+  "fajr" : 3.6100000000000003,
+  "maghrib" : 19.6
+}, {
+  "countryCityID" : 25,
+  "day" : 138,
+  "fajr" : 3.6,
+  "maghrib" : 19.6
+}, {
+  "countryCityID" : 25,
+  "day" : 139,
+  "fajr" : 3.5799999999999996,
+  "maghrib" : 19.619999999999997
+}, {
+  "countryCityID" : 25,
+  "day" : 140,
+  "fajr" : 3.56,
+  "maghrib" : 19.630000000000003
+}, {
+  "countryCityID" : 25,
+  "day" : 141,
+  "fajr" : 3.55,
+  "maghrib" : 19.65
+}, {
+  "countryCityID" : 25,
+  "day" : 142,
+  "fajr" : 3.53,
+  "maghrib" : 19.669999999999998
+}, {
+  "countryCityID" : 25,
+  "day" : 143,
+  "fajr" : 3.5100000000000002,
+  "maghrib" : 19.669999999999998
+}, {
+  "countryCityID" : 25,
+  "day" : 144,
+  "fajr" : 3.5,
+  "maghrib" : 19.68
+}, {
+  "countryCityID" : 25,
+  "day" : 145,
+  "fajr" : 3.4799999999999995,
+  "maghrib" : 19.7
+}, {
+  "countryCityID" : 25,
+  "day" : 146,
+  "fajr" : 3.46,
+  "maghrib" : 19.72
+}, {
+  "countryCityID" : 25,
+  "day" : 147,
+  "fajr" : 3.45,
+  "maghrib" : 19.72
+}, {
+  "countryCityID" : 25,
+  "day" : 148,
+  "fajr" : 3.4299999999999997,
+  "maghrib" : 19.73
+}, {
+  "countryCityID" : 25,
+  "day" : 149,
+  "fajr" : 3.41,
+  "maghrib" : 19.75
+}, {
+  "countryCityID" : 25,
+  "day" : 150,
+  "fajr" : 3.41,
+  "maghrib" : 19.75
+}, {
+  "countryCityID" : 25,
+  "day" : 151,
+  "fajr" : 3.4,
+  "maghrib" : 19.77
+}, {
+  "countryCityID" : 25,
+  "day" : 152,
+  "fajr" : 3.38,
+  "maghrib" : 19.78
+}, {
+  "countryCityID" : 25,
+  "day" : 153,
+  "fajr" : 3.38,
+  "maghrib" : 19.78
+}, {
+  "countryCityID" : 25,
+  "day" : 154,
+  "fajr" : 3.3600000000000003,
+  "maghrib" : 19.8
+}, {
+  "countryCityID" : 25,
+  "day" : 155,
+  "fajr" : 3.35,
+  "maghrib" : 19.82
+}, {
+  "countryCityID" : 25,
+  "day" : 156,
+  "fajr" : 3.35,
+  "maghrib" : 19.82
+}, {
+  "countryCityID" : 25,
+  "day" : 157,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 19.830000000000002
+}, {
+  "countryCityID" : 25,
+  "day" : 158,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 19.830000000000002
+}, {
+  "countryCityID" : 25,
+  "day" : 159,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 19.85
+}, {
+  "countryCityID" : 25,
+  "day" : 160,
+  "fajr" : 3.31,
+  "maghrib" : 19.85
+}, {
+  "countryCityID" : 25,
+  "day" : 161,
+  "fajr" : 3.31,
+  "maghrib" : 19.869999999999997
+}, {
+  "countryCityID" : 25,
+  "day" : 162,
+  "fajr" : 3.31,
+  "maghrib" : 19.869999999999997
+}, {
+  "countryCityID" : 26,
+  "day" : 102,
+  "fajr" : 5.32,
+  "maghrib" : 19.47
+}, {
+  "countryCityID" : 26,
+  "day" : 103,
+  "fajr" : 5.3,
+  "maghrib" : 19.48
+}, {
+  "countryCityID" : 26,
+  "day" : 104,
+  "fajr" : 5.279999999999999,
+  "maghrib" : 19.48
+}, {
+  "countryCityID" : 26,
+  "day" : 105,
+  "fajr" : 5.2700000000000005,
+  "maghrib" : 19.5
+}, {
+  "countryCityID" : 26,
+  "day" : 106,
+  "fajr" : 5.2299999999999995,
+  "maghrib" : 19.5
+}, {
+  "countryCityID" : 26,
+  "day" : 107,
+  "fajr" : 5.220000000000001,
+  "maghrib" : 19.52
+}, {
+  "countryCityID" : 26,
+  "day" : 108,
+  "fajr" : 5.2,
+  "maghrib" : 19.53
+}, {
+  "countryCityID" : 26,
+  "day" : 109,
+  "fajr" : 5.18,
+  "maghrib" : 19.53
+}, {
+  "countryCityID" : 26,
+  "day" : 110,
+  "fajr" : 5.17,
+  "maghrib" : 19.55
+}, {
+  "countryCityID" : 26,
+  "day" : 111,
+  "fajr" : 5.13,
+  "maghrib" : 19.55
+}, {
+  "countryCityID" : 26,
+  "day" : 112,
+  "fajr" : 5.12,
+  "maghrib" : 19.57
+}, {
+  "countryCityID" : 26,
+  "day" : 113,
+  "fajr" : 5.1,
+  "maghrib" : 19.57
+}, {
+  "countryCityID" : 26,
+  "day" : 114,
+  "fajr" : 5.08,
+  "maghrib" : 19.580000000000002
+}, {
+  "countryCityID" : 26,
+  "day" : 115,
+  "fajr" : 5.07,
+  "maghrib" : 19.580000000000002
+}, {
+  "countryCityID" : 26,
+  "day" : 116,
+  "fajr" : 5.05,
+  "maghrib" : 19.6
+}, {
+  "countryCityID" : 26,
+  "day" : 117,
+  "fajr" : 5.029999999999999,
+  "maghrib" : 19.619999999999997
+}, {
+  "countryCityID" : 26,
+  "day" : 118,
+  "fajr" : 5.0200000000000005,
+  "maghrib" : 19.619999999999997
+}, {
+  "countryCityID" : 26,
+  "day" : 119,
+  "fajr" : 4.9799999999999995,
+  "maghrib" : 19.630000000000003
+}, {
+  "countryCityID" : 26,
+  "day" : 120,
+  "fajr" : 4.970000000000001,
+  "maghrib" : 19.630000000000003
+}, {
+  "countryCityID" : 26,
+  "day" : 121,
+  "fajr" : 4.95,
+  "maghrib" : 19.65
+}, {
+  "countryCityID" : 26,
+  "day" : 122,
+  "fajr" : 4.93,
+  "maghrib" : 19.669999999999998
+}, {
+  "countryCityID" : 26,
+  "day" : 123,
+  "fajr" : 4.92,
+  "maghrib" : 19.669999999999998
+}, {
+  "countryCityID" : 26,
+  "day" : 124,
+  "fajr" : 4.9,
+  "maghrib" : 19.68
+}, {
+  "countryCityID" : 26,
+  "day" : 125,
+  "fajr" : 4.88,
+  "maghrib" : 19.68
+}, {
+  "countryCityID" : 26,
+  "day" : 126,
+  "fajr" : 4.87,
+  "maghrib" : 19.7
+}, {
+  "countryCityID" : 26,
+  "day" : 127,
+  "fajr" : 4.85,
+  "maghrib" : 19.7
+}, {
+  "countryCityID" : 26,
+  "day" : 128,
+  "fajr" : 4.83,
+  "maghrib" : 19.72
+}, {
+  "countryCityID" : 26,
+  "day" : 129,
+  "fajr" : 4.82,
+  "maghrib" : 19.73
+}, {
+  "countryCityID" : 26,
+  "day" : 130,
+  "fajr" : 4.82,
+  "maghrib" : 19.73
+}, {
+  "countryCityID" : 26,
+  "day" : 131,
+  "fajr" : 4.8,
+  "maghrib" : 19.75
+}, {
+  "countryCityID" : 26,
+  "day" : 132,
+  "fajr" : 4.779999999999999,
+  "maghrib" : 19.75
+}, {
+  "countryCityID" : 26,
+  "day" : 133,
+  "fajr" : 4.7700000000000005,
+  "maghrib" : 19.77
+}, {
+  "countryCityID" : 26,
+  "day" : 134,
+  "fajr" : 4.75,
+  "maghrib" : 19.78
+}, {
+  "countryCityID" : 26,
+  "day" : 135,
+  "fajr" : 4.7299999999999995,
+  "maghrib" : 19.78
+}, {
+  "countryCityID" : 26,
+  "day" : 136,
+  "fajr" : 4.7299999999999995,
+  "maghrib" : 19.8
+}, {
+  "countryCityID" : 26,
+  "day" : 137,
+  "fajr" : 4.720000000000001,
+  "maghrib" : 19.8
+}, {
+  "countryCityID" : 26,
+  "day" : 138,
+  "fajr" : 4.7,
+  "maghrib" : 19.82
+}, {
+  "countryCityID" : 26,
+  "day" : 139,
+  "fajr" : 4.68,
+  "maghrib" : 19.82
+}, {
+  "countryCityID" : 26,
+  "day" : 140,
+  "fajr" : 4.68,
+  "maghrib" : 19.830000000000002
+}, {
+  "countryCityID" : 26,
+  "day" : 141,
+  "fajr" : 4.67,
+  "maghrib" : 19.85
+}, {
+  "countryCityID" : 26,
+  "day" : 142,
+  "fajr" : 4.65,
+  "maghrib" : 19.85
+}, {
+  "countryCityID" : 26,
+  "day" : 143,
+  "fajr" : 4.65,
+  "maghrib" : 19.869999999999997
+}, {
+  "countryCityID" : 26,
+  "day" : 144,
+  "fajr" : 4.63,
+  "maghrib" : 19.869999999999997
+}, {
+  "countryCityID" : 26,
+  "day" : 145,
+  "fajr" : 4.63,
+  "maghrib" : 19.880000000000003
+}, {
+  "countryCityID" : 26,
+  "day" : 146,
+  "fajr" : 4.62,
+  "maghrib" : 19.880000000000003
+}, {
+  "countryCityID" : 26,
+  "day" : 147,
+  "fajr" : 4.62,
+  "maghrib" : 19.9
+}, {
+  "countryCityID" : 26,
+  "day" : 148,
+  "fajr" : 4.6,
+  "maghrib" : 19.9
+}, {
+  "countryCityID" : 26,
+  "day" : 149,
+  "fajr" : 4.6,
+  "maghrib" : 19.919999999999998
+}, {
+  "countryCityID" : 26,
+  "day" : 150,
+  "fajr" : 4.58,
+  "maghrib" : 19.919999999999998
+}, {
+  "countryCityID" : 26,
+  "day" : 151,
+  "fajr" : 4.58,
+  "maghrib" : 19.93
+}, {
+  "countryCityID" : 26,
+  "day" : 152,
+  "fajr" : 4.57,
+  "maghrib" : 19.93
+}, {
+  "countryCityID" : 26,
+  "day" : 153,
+  "fajr" : 4.57,
+  "maghrib" : 19.95
+}, {
+  "countryCityID" : 26,
+  "day" : 154,
+  "fajr" : 4.57,
+  "maghrib" : 19.95
+}, {
+  "countryCityID" : 26,
+  "day" : 155,
+  "fajr" : 4.55,
+  "maghrib" : 19.97
+}, {
+  "countryCityID" : 26,
+  "day" : 156,
+  "fajr" : 4.55,
+  "maghrib" : 19.97
+}, {
+  "countryCityID" : 26,
+  "day" : 157,
+  "fajr" : 4.55,
+  "maghrib" : 19.98
+}, {
+  "countryCityID" : 26,
+  "day" : 158,
+  "fajr" : 4.55,
+  "maghrib" : 19.98
+}, {
+  "countryCityID" : 26,
+  "day" : 159,
+  "fajr" : 4.55,
+  "maghrib" : 20.0
+}, {
+  "countryCityID" : 26,
+  "day" : 160,
+  "fajr" : 4.529999999999999,
+  "maghrib" : 20.0
+}, {
+  "countryCityID" : 26,
+  "day" : 161,
+  "fajr" : 4.529999999999999,
+  "maghrib" : 20.0
+}, {
+  "countryCityID" : 26,
+  "day" : 162,
+  "fajr" : 4.529999999999999,
+  "maghrib" : 20.02
+}, {
+  "countryCityID" : 27,
+  "day" : 102,
+  "fajr" : 4.87,
+  "maghrib" : 19.330000000000002
+}, {
+  "countryCityID" : 27,
+  "day" : 103,
+  "fajr" : 4.83,
+  "maghrib" : 19.35
+}, {
+  "countryCityID" : 27,
+  "day" : 104,
+  "fajr" : 4.82,
+  "maghrib" : 19.369999999999997
+}, {
+  "countryCityID" : 27,
+  "day" : 105,
+  "fajr" : 4.779999999999999,
+  "maghrib" : 19.380000000000003
+}, {
+  "countryCityID" : 27,
+  "day" : 106,
+  "fajr" : 4.7700000000000005,
+  "maghrib" : 19.4
+}, {
+  "countryCityID" : 27,
+  "day" : 107,
+  "fajr" : 4.7299999999999995,
+  "maghrib" : 19.4
+}, {
+  "countryCityID" : 27,
+  "day" : 108,
+  "fajr" : 4.720000000000001,
+  "maghrib" : 19.419999999999998
+}, {
+  "countryCityID" : 27,
+  "day" : 109,
+  "fajr" : 4.68,
+  "maghrib" : 19.43
+}, {
+  "countryCityID" : 27,
+  "day" : 110,
+  "fajr" : 4.67,
+  "maghrib" : 19.45
+}, {
+  "countryCityID" : 27,
+  "day" : 111,
+  "fajr" : 4.63,
+  "maghrib" : 19.45
+}, {
+  "countryCityID" : 27,
+  "day" : 112,
+  "fajr" : 4.62,
+  "maghrib" : 19.47
+}, {
+  "countryCityID" : 27,
+  "day" : 113,
+  "fajr" : 4.58,
+  "maghrib" : 19.48
+}, {
+  "countryCityID" : 27,
+  "day" : 114,
+  "fajr" : 4.57,
+  "maghrib" : 19.5
+}, {
+  "countryCityID" : 27,
+  "day" : 115,
+  "fajr" : 4.529999999999999,
+  "maghrib" : 19.52
+}, {
+  "countryCityID" : 27,
+  "day" : 116,
+  "fajr" : 4.5200000000000005,
+  "maghrib" : 19.52
+}, {
+  "countryCityID" : 27,
+  "day" : 117,
+  "fajr" : 4.4799999999999995,
+  "maghrib" : 19.53
+}, {
+  "countryCityID" : 27,
+  "day" : 118,
+  "fajr" : 4.470000000000001,
+  "maghrib" : 19.55
+}, {
+  "countryCityID" : 27,
+  "day" : 119,
+  "fajr" : 4.45,
+  "maghrib" : 19.57
+}, {
+  "countryCityID" : 27,
+  "day" : 120,
+  "fajr" : 4.42,
+  "maghrib" : 19.580000000000002
+}, {
+  "countryCityID" : 27,
+  "day" : 121,
+  "fajr" : 4.4,
+  "maghrib" : 19.580000000000002
+}, {
+  "countryCityID" : 27,
+  "day" : 122,
+  "fajr" : 4.38,
+  "maghrib" : 19.6
+}, {
+  "countryCityID" : 27,
+  "day" : 123,
+  "fajr" : 4.35,
+  "maghrib" : 19.619999999999997
+}, {
+  "countryCityID" : 27,
+  "day" : 124,
+  "fajr" : 4.33,
+  "maghrib" : 19.630000000000003
+}, {
+  "countryCityID" : 27,
+  "day" : 125,
+  "fajr" : 4.32,
+  "maghrib" : 19.65
+}, {
+  "countryCityID" : 27,
+  "day" : 126,
+  "fajr" : 4.279999999999999,
+  "maghrib" : 19.65
+}, {
+  "countryCityID" : 27,
+  "day" : 127,
+  "fajr" : 4.2700000000000005,
+  "maghrib" : 19.669999999999998
+}, {
+  "countryCityID" : 27,
+  "day" : 128,
+  "fajr" : 4.25,
+  "maghrib" : 19.68
+}, {
+  "countryCityID" : 27,
+  "day" : 129,
+  "fajr" : 4.220000000000001,
+  "maghrib" : 19.7
+}, {
+  "countryCityID" : 27,
+  "day" : 130,
+  "fajr" : 4.2,
+  "maghrib" : 19.72
+}, {
+  "countryCityID" : 27,
+  "day" : 131,
+  "fajr" : 4.18,
+  "maghrib" : 19.72
+}, {
+  "countryCityID" : 27,
+  "day" : 132,
+  "fajr" : 4.17,
+  "maghrib" : 19.73
+}, {
+  "countryCityID" : 27,
+  "day" : 133,
+  "fajr" : 4.15,
+  "maghrib" : 19.75
+}, {
+  "countryCityID" : 27,
+  "day" : 134,
+  "fajr" : 4.13,
+  "maghrib" : 19.77
+}, {
+  "countryCityID" : 27,
+  "day" : 135,
+  "fajr" : 4.1,
+  "maghrib" : 19.78
+}, {
+  "countryCityID" : 27,
+  "day" : 136,
+  "fajr" : 4.08,
+  "maghrib" : 19.78
+}, {
+  "countryCityID" : 27,
+  "day" : 137,
+  "fajr" : 4.07,
+  "maghrib" : 19.8
+}, {
+  "countryCityID" : 27,
+  "day" : 138,
+  "fajr" : 4.05,
+  "maghrib" : 19.82
+}, {
+  "countryCityID" : 27,
+  "day" : 139,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 19.830000000000002
+}, {
+  "countryCityID" : 27,
+  "day" : 140,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 19.830000000000002
+}, {
+  "countryCityID" : 27,
+  "day" : 141,
+  "fajr" : 4.0,
+  "maghrib" : 19.85
+}, {
+  "countryCityID" : 27,
+  "day" : 142,
+  "fajr" : 4.0,
+  "maghrib" : 19.869999999999997
+}, {
+  "countryCityID" : 27,
+  "day" : 143,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.869999999999997
+}, {
+  "countryCityID" : 27,
+  "day" : 144,
+  "fajr" : 3.97,
+  "maghrib" : 19.880000000000003
+}, {
+  "countryCityID" : 27,
+  "day" : 145,
+  "fajr" : 3.95,
+  "maghrib" : 19.9
+}, {
+  "countryCityID" : 27,
+  "day" : 146,
+  "fajr" : 3.9299999999999997,
+  "maghrib" : 19.919999999999998
+}, {
+  "countryCityID" : 27,
+  "day" : 147,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 19.919999999999998
+}, {
+  "countryCityID" : 27,
+  "day" : 148,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 19.93
+}, {
+  "countryCityID" : 27,
+  "day" : 149,
+  "fajr" : 3.9,
+  "maghrib" : 19.93
+}, {
+  "countryCityID" : 27,
+  "day" : 150,
+  "fajr" : 3.88,
+  "maghrib" : 19.95
+}, {
+  "countryCityID" : 27,
+  "day" : 151,
+  "fajr" : 3.88,
+  "maghrib" : 19.97
+}, {
+  "countryCityID" : 27,
+  "day" : 152,
+  "fajr" : 3.87,
+  "maghrib" : 19.97
+}, {
+  "countryCityID" : 27,
+  "day" : 153,
+  "fajr" : 3.87,
+  "maghrib" : 19.98
+}, {
+  "countryCityID" : 27,
+  "day" : 154,
+  "fajr" : 3.85,
+  "maghrib" : 20.0
+}, {
+  "countryCityID" : 27,
+  "day" : 155,
+  "fajr" : 3.85,
+  "maghrib" : 20.0
+}, {
+  "countryCityID" : 27,
+  "day" : 156,
+  "fajr" : 3.8299999999999996,
+  "maghrib" : 20.02
+}, {
+  "countryCityID" : 27,
+  "day" : 157,
+  "fajr" : 3.8299999999999996,
+  "maghrib" : 20.02
+}, {
+  "countryCityID" : 27,
+  "day" : 158,
+  "fajr" : 3.8200000000000003,
+  "maghrib" : 20.03
+}, {
+  "countryCityID" : 27,
+  "day" : 159,
+  "fajr" : 3.8200000000000003,
+  "maghrib" : 20.03
+}, {
+  "countryCityID" : 27,
+  "day" : 160,
+  "fajr" : 3.8200000000000003,
+  "maghrib" : 20.05
+}, {
+  "countryCityID" : 27,
+  "day" : 161,
+  "fajr" : 3.8200000000000003,
+  "maghrib" : 20.05
+}, {
+  "countryCityID" : 27,
+  "day" : 162,
+  "fajr" : 3.8,
+  "maghrib" : 20.07
+}, {
+  "countryCityID" : 28,
+  "day" : 102,
+  "fajr" : 4.67,
+  "maghrib" : 19.18
+}, {
+  "countryCityID" : 28,
+  "day" : 103,
+  "fajr" : 4.63,
+  "maghrib" : 19.2
+}, {
+  "countryCityID" : 28,
+  "day" : 104,
+  "fajr" : 4.6,
+  "maghrib" : 19.22
+}, {
+  "countryCityID" : 28,
+  "day" : 105,
+  "fajr" : 4.5600000000000005,
+  "maghrib" : 19.23
+}, {
+  "countryCityID" : 28,
+  "day" : 106,
+  "fajr" : 4.55,
+  "maghrib" : 19.25
+}, {
+  "countryCityID" : 28,
+  "day" : 107,
+  "fajr" : 4.51,
+  "maghrib" : 19.25
+}, {
+  "countryCityID" : 28,
+  "day" : 108,
+  "fajr" : 4.5,
+  "maghrib" : 19.27
+}, {
+  "countryCityID" : 28,
+  "day" : 109,
+  "fajr" : 4.46,
+  "maghrib" : 19.28
+}, {
+  "countryCityID" : 28,
+  "day" : 110,
+  "fajr" : 4.45,
+  "maghrib" : 19.3
+}, {
+  "countryCityID" : 28,
+  "day" : 111,
+  "fajr" : 4.41,
+  "maghrib" : 19.3
+}, {
+  "countryCityID" : 28,
+  "day" : 112,
+  "fajr" : 4.4,
+  "maghrib" : 19.32
+}, {
+  "countryCityID" : 28,
+  "day" : 113,
+  "fajr" : 4.36,
+  "maghrib" : 19.330000000000002
+}, {
+  "countryCityID" : 28,
+  "day" : 114,
+  "fajr" : 4.35,
+  "maghrib" : 19.35
+}, {
+  "countryCityID" : 28,
+  "day" : 115,
+  "fajr" : 4.3100000000000005,
+  "maghrib" : 19.369999999999997
+}, {
+  "countryCityID" : 28,
+  "day" : 116,
+  "fajr" : 4.3,
+  "maghrib" : 19.369999999999997
+}, {
+  "countryCityID" : 28,
+  "day" : 117,
+  "fajr" : 4.26,
+  "maghrib" : 19.380000000000003
+}, {
+  "countryCityID" : 28,
+  "day" : 118,
+  "fajr" : 4.25,
+  "maghrib" : 19.4
+}, {
+  "countryCityID" : 28,
+  "day" : 119,
+  "fajr" : 4.2299999999999995,
+  "maghrib" : 19.419999999999998
+}, {
+  "countryCityID" : 28,
+  "day" : 120,
+  "fajr" : 4.2,
+  "maghrib" : 19.43
+}, {
+  "countryCityID" : 28,
+  "day" : 121,
+  "fajr" : 4.18,
+  "maghrib" : 19.43
+}, {
+  "countryCityID" : 28,
+  "day" : 122,
+  "fajr" : 4.16,
+  "maghrib" : 19.45
+}, {
+  "countryCityID" : 28,
+  "day" : 123,
+  "fajr" : 4.13,
+  "maghrib" : 19.47
+}, {
+  "countryCityID" : 28,
+  "day" : 124,
+  "fajr" : 4.11,
+  "maghrib" : 19.48
+}, {
+  "countryCityID" : 28,
+  "day" : 125,
+  "fajr" : 4.1,
+  "maghrib" : 19.5
+}, {
+  "countryCityID" : 28,
+  "day" : 126,
+  "fajr" : 4.0600000000000005,
+  "maghrib" : 19.5
+}, {
+  "countryCityID" : 28,
+  "day" : 127,
+  "fajr" : 4.05,
+  "maghrib" : 19.52
+}, {
+  "countryCityID" : 28,
+  "day" : 128,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 19.53
+}, {
+  "countryCityID" : 28,
+  "day" : 129,
+  "fajr" : 4.0,
+  "maghrib" : 19.55
+}, {
+  "countryCityID" : 28,
+  "day" : 130,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 19.57
+}, {
+  "countryCityID" : 28,
+  "day" : 131,
+  "fajr" : 3.96,
+  "maghrib" : 19.57
+}, {
+  "countryCityID" : 28,
+  "day" : 132,
+  "fajr" : 3.95,
+  "maghrib" : 19.580000000000002
+}, {
+  "countryCityID" : 28,
+  "day" : 133,
+  "fajr" : 3.9,
+  "maghrib" : 19.6
+}, {
+  "countryCityID" : 28,
+  "day" : 134,
+  "fajr" : 3.88,
+  "maghrib" : 19.619999999999997
+}, {
+  "countryCityID" : 28,
+  "day" : 135,
+  "fajr" : 3.85,
+  "maghrib" : 19.630000000000003
+}, {
+  "countryCityID" : 28,
+  "day" : 136,
+  "fajr" : 3.8299999999999996,
+  "maghrib" : 19.630000000000003
+}, {
+  "countryCityID" : 28,
+  "day" : 137,
+  "fajr" : 3.8200000000000003,
+  "maghrib" : 19.65
+}, {
+  "countryCityID" : 28,
+  "day" : 138,
+  "fajr" : 3.8,
+  "maghrib" : 19.669999999999998
+}, {
+  "countryCityID" : 28,
+  "day" : 139,
+  "fajr" : 3.78,
+  "maghrib" : 19.68
+}, {
+  "countryCityID" : 28,
+  "day" : 140,
+  "fajr" : 3.7700000000000005,
+  "maghrib" : 19.68
+}, {
+  "countryCityID" : 28,
+  "day" : 141,
+  "fajr" : 3.75,
+  "maghrib" : 19.7
+}, {
+  "countryCityID" : 28,
+  "day" : 142,
+  "fajr" : 3.75,
+  "maghrib" : 19.72
+}, {
+  "countryCityID" : 28,
+  "day" : 143,
+  "fajr" : 3.7299999999999995,
+  "maghrib" : 19.72
+}, {
+  "countryCityID" : 28,
+  "day" : 144,
+  "fajr" : 3.72,
+  "maghrib" : 19.73
+}, {
+  "countryCityID" : 28,
+  "day" : 145,
+  "fajr" : 3.7,
+  "maghrib" : 19.75
+}, {
+  "countryCityID" : 28,
+  "day" : 146,
+  "fajr" : 3.6799999999999997,
+  "maghrib" : 19.77
+}, {
+  "countryCityID" : 28,
+  "day" : 147,
+  "fajr" : 3.6700000000000004,
+  "maghrib" : 19.77
+}, {
+  "countryCityID" : 28,
+  "day" : 148,
+  "fajr" : 3.6700000000000004,
+  "maghrib" : 19.78
+}, {
+  "countryCityID" : 28,
+  "day" : 149,
+  "fajr" : 3.65,
+  "maghrib" : 19.78
+}, {
+  "countryCityID" : 28,
+  "day" : 150,
+  "fajr" : 3.63,
+  "maghrib" : 19.8
+}, {
+  "countryCityID" : 28,
+  "day" : 151,
+  "fajr" : 3.63,
+  "maghrib" : 19.82
+}, {
+  "countryCityID" : 28,
+  "day" : 152,
+  "fajr" : 3.62,
+  "maghrib" : 19.82
+}, {
+  "countryCityID" : 28,
+  "day" : 153,
+  "fajr" : 3.62,
+  "maghrib" : 19.830000000000002
+}, {
+  "countryCityID" : 28,
+  "day" : 154,
+  "fajr" : 3.6,
+  "maghrib" : 19.85
+}, {
+  "countryCityID" : 28,
+  "day" : 155,
+  "fajr" : 3.6,
+  "maghrib" : 19.85
+}, {
+  "countryCityID" : 28,
+  "day" : 156,
+  "fajr" : 3.5799999999999996,
+  "maghrib" : 19.869999999999997
+}, {
+  "countryCityID" : 28,
+  "day" : 157,
+  "fajr" : 3.5799999999999996,
+  "maghrib" : 19.869999999999997
+}, {
+  "countryCityID" : 28,
+  "day" : 158,
+  "fajr" : 3.5700000000000003,
+  "maghrib" : 19.880000000000003
+}, {
+  "countryCityID" : 28,
+  "day" : 159,
+  "fajr" : 3.5700000000000003,
+  "maghrib" : 19.880000000000003
+}, {
+  "countryCityID" : 28,
+  "day" : 160,
+  "fajr" : 3.5700000000000003,
+  "maghrib" : 19.9
+}, {
+  "countryCityID" : 28,
+  "day" : 161,
+  "fajr" : 3.5700000000000003,
+  "maghrib" : 19.9
+}, {
+  "countryCityID" : 28,
+  "day" : 162,
+  "fajr" : 3.55,
+  "maghrib" : 19.919999999999998
+}, {
+  "countryCityID" : 29,
+  "day" : 102,
+  "fajr" : 5.1899999999999995,
+  "maghrib" : 19.65
+}, {
+  "countryCityID" : 29,
+  "day" : 103,
+  "fajr" : 5.15,
+  "maghrib" : 19.669999999999998
+}, {
+  "countryCityID" : 29,
+  "day" : 104,
+  "fajr" : 5.12,
+  "maghrib" : 19.69
+}, {
+  "countryCityID" : 29,
+  "day" : 105,
+  "fajr" : 5.08,
+  "maghrib" : 19.7
+}, {
+  "countryCityID" : 29,
+  "day" : 106,
+  "fajr" : 5.07,
+  "maghrib" : 19.72
+}, {
+  "countryCityID" : 29,
+  "day" : 107,
+  "fajr" : 5.029999999999999,
+  "maghrib" : 19.72
+}, {
+  "countryCityID" : 29,
+  "day" : 108,
+  "fajr" : 5.0200000000000005,
+  "maghrib" : 19.740000000000002
+}, {
+  "countryCityID" : 29,
+  "day" : 109,
+  "fajr" : 4.9799999999999995,
+  "maghrib" : 19.75
+}, {
+  "countryCityID" : 29,
+  "day" : 110,
+  "fajr" : 4.970000000000001,
+  "maghrib" : 19.77
+}, {
+  "countryCityID" : 29,
+  "day" : 111,
+  "fajr" : 4.93,
+  "maghrib" : 19.77
+}, {
+  "countryCityID" : 29,
+  "day" : 112,
+  "fajr" : 4.92,
+  "maghrib" : 19.79
+}, {
+  "countryCityID" : 29,
+  "day" : 113,
+  "fajr" : 4.88,
+  "maghrib" : 19.8
+}, {
+  "countryCityID" : 29,
+  "day" : 114,
+  "fajr" : 4.87,
+  "maghrib" : 19.82
+}, {
+  "countryCityID" : 29,
+  "day" : 115,
+  "fajr" : 4.83,
+  "maghrib" : 19.84
+}, {
+  "countryCityID" : 29,
+  "day" : 116,
+  "fajr" : 4.82,
+  "maghrib" : 19.84
+}, {
+  "countryCityID" : 29,
+  "day" : 117,
+  "fajr" : 4.779999999999999,
+  "maghrib" : 19.85
+}, {
+  "countryCityID" : 29,
+  "day" : 118,
+  "fajr" : 4.7700000000000005,
+  "maghrib" : 19.869999999999997
+}, {
+  "countryCityID" : 29,
+  "day" : 119,
+  "fajr" : 4.75,
+  "maghrib" : 19.89
+}, {
+  "countryCityID" : 29,
+  "day" : 120,
+  "fajr" : 4.720000000000001,
+  "maghrib" : 19.9
+}, {
+  "countryCityID" : 29,
+  "day" : 121,
+  "fajr" : 4.7,
+  "maghrib" : 19.9
+}, {
+  "countryCityID" : 29,
+  "day" : 122,
+  "fajr" : 4.68,
+  "maghrib" : 19.919999999999998
+}, {
+  "countryCityID" : 29,
+  "day" : 123,
+  "fajr" : 4.65,
+  "maghrib" : 19.94
+}, {
+  "countryCityID" : 29,
+  "day" : 124,
+  "fajr" : 4.63,
+  "maghrib" : 19.95
+}, {
+  "countryCityID" : 29,
+  "day" : 125,
+  "fajr" : 4.62,
+  "maghrib" : 19.97
+}, {
+  "countryCityID" : 29,
+  "day" : 126,
+  "fajr" : 4.58,
+  "maghrib" : 19.97
+}, {
+  "countryCityID" : 29,
+  "day" : 127,
+  "fajr" : 4.57,
+  "maghrib" : 19.990000000000002
+}, {
+  "countryCityID" : 29,
+  "day" : 128,
+  "fajr" : 4.55,
+  "maghrib" : 20.0
+}, {
+  "countryCityID" : 29,
+  "day" : 129,
+  "fajr" : 4.5200000000000005,
+  "maghrib" : 20.02
+}, {
+  "countryCityID" : 29,
+  "day" : 130,
+  "fajr" : 4.5,
+  "maghrib" : 20.04
+}, {
+  "countryCityID" : 29,
+  "day" : 131,
+  "fajr" : 4.4799999999999995,
+  "maghrib" : 20.04
+}, {
+  "countryCityID" : 29,
+  "day" : 132,
+  "fajr" : 4.470000000000001,
+  "maghrib" : 20.05
+}, {
+  "countryCityID" : 29,
+  "day" : 133,
+  "fajr" : 4.45,
+  "maghrib" : 20.07
+}, {
+  "countryCityID" : 29,
+  "day" : 134,
+  "fajr" : 4.43,
+  "maghrib" : 20.09
+}, {
+  "countryCityID" : 29,
+  "day" : 135,
+  "fajr" : 4.4,
+  "maghrib" : 20.1
+}, {
+  "countryCityID" : 29,
+  "day" : 136,
+  "fajr" : 4.38,
+  "maghrib" : 20.1
+}, {
+  "countryCityID" : 29,
+  "day" : 137,
+  "fajr" : 4.37,
+  "maghrib" : 20.119999999999997
+}, {
+  "countryCityID" : 29,
+  "day" : 138,
+  "fajr" : 4.35,
+  "maghrib" : 20.14
+}, {
+  "countryCityID" : 29,
+  "day" : 139,
+  "fajr" : 4.33,
+  "maghrib" : 20.15
+}, {
+  "countryCityID" : 29,
+  "day" : 140,
+  "fajr" : 4.32,
+  "maghrib" : 20.15
+}, {
+  "countryCityID" : 29,
+  "day" : 141,
+  "fajr" : 4.3,
+  "maghrib" : 20.169999999999998
+}, {
+  "countryCityID" : 29,
+  "day" : 142,
+  "fajr" : 4.3,
+  "maghrib" : 20.19
+}, {
+  "countryCityID" : 29,
+  "day" : 143,
+  "fajr" : 4.279999999999999,
+  "maghrib" : 20.19
+}, {
+  "countryCityID" : 29,
+  "day" : 144,
+  "fajr" : 4.2700000000000005,
+  "maghrib" : 20.2
+}, {
+  "countryCityID" : 29,
+  "day" : 145,
+  "fajr" : 4.25,
+  "maghrib" : 20.22
+}, {
+  "countryCityID" : 29,
+  "day" : 146,
+  "fajr" : 4.2299999999999995,
+  "maghrib" : 20.240000000000002
+}, {
+  "countryCityID" : 29,
+  "day" : 147,
+  "fajr" : 4.220000000000001,
+  "maghrib" : 20.240000000000002
+}, {
+  "countryCityID" : 29,
+  "day" : 148,
+  "fajr" : 4.220000000000001,
+  "maghrib" : 20.25
+}, {
+  "countryCityID" : 29,
+  "day" : 149,
+  "fajr" : 4.2,
+  "maghrib" : 20.25
+}, {
+  "countryCityID" : 29,
+  "day" : 150,
+  "fajr" : 4.18,
+  "maghrib" : 20.27
+}, {
+  "countryCityID" : 29,
+  "day" : 151,
+  "fajr" : 4.18,
+  "maghrib" : 20.29
+}, {
+  "countryCityID" : 29,
+  "day" : 152,
+  "fajr" : 4.17,
+  "maghrib" : 20.29
+}, {
+  "countryCityID" : 29,
+  "day" : 153,
+  "fajr" : 4.17,
+  "maghrib" : 20.3
+}, {
+  "countryCityID" : 29,
+  "day" : 154,
+  "fajr" : 4.15,
+  "maghrib" : 20.32
+}, {
+  "countryCityID" : 29,
+  "day" : 155,
+  "fajr" : 4.15,
+  "maghrib" : 20.32
+}, {
+  "countryCityID" : 29,
+  "day" : 156,
+  "fajr" : 4.13,
+  "maghrib" : 20.34
+}, {
+  "countryCityID" : 29,
+  "day" : 157,
+  "fajr" : 4.13,
+  "maghrib" : 20.34
+}, {
+  "countryCityID" : 29,
+  "day" : 158,
+  "fajr" : 4.12,
+  "maghrib" : 20.35
+}, {
+  "countryCityID" : 29,
+  "day" : 159,
+  "fajr" : 4.12,
+  "maghrib" : 20.35
+}, {
+  "countryCityID" : 29,
+  "day" : 160,
+  "fajr" : 4.12,
+  "maghrib" : 20.369999999999997
+}, {
+  "countryCityID" : 29,
+  "day" : 161,
+  "fajr" : 4.12,
+  "maghrib" : 20.369999999999997
+}, {
+  "countryCityID" : 29,
+  "day" : 162,
+  "fajr" : 4.1,
+  "maghrib" : 20.39
+}, {
+  "countryCityID" : 30,
+  "day" : 102,
+  "fajr" : 4.3,
+  "maghrib" : 18.9
+}, {
+  "countryCityID" : 30,
+  "day" : 103,
+  "fajr" : 4.2700000000000005,
+  "maghrib" : 18.919999999999998
+}, {
+  "countryCityID" : 30,
+  "day" : 104,
+  "fajr" : 4.2299999999999995,
+  "maghrib" : 18.93
+}, {
+  "countryCityID" : 30,
+  "day" : 105,
+  "fajr" : 4.220000000000001,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 30,
+  "day" : 106,
+  "fajr" : 4.18,
+  "maghrib" : 18.95
+}, {
+  "countryCityID" : 30,
+  "day" : 107,
+  "fajr" : 4.15,
+  "maghrib" : 18.97
+}, {
+  "countryCityID" : 30,
+  "day" : 108,
+  "fajr" : 4.13,
+  "maghrib" : 18.98
+}, {
+  "countryCityID" : 30,
+  "day" : 109,
+  "fajr" : 4.1,
+  "maghrib" : 19.0
+}, {
+  "countryCityID" : 30,
+  "day" : 110,
+  "fajr" : 4.08,
+  "maghrib" : 19.02
+}, {
+  "countryCityID" : 30,
+  "day" : 111,
+  "fajr" : 4.05,
+  "maghrib" : 19.03
+}, {
+  "countryCityID" : 30,
+  "day" : 112,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 19.05
+}, {
+  "countryCityID" : 30,
+  "day" : 113,
+  "fajr" : 4.0,
+  "maghrib" : 19.07
+}, {
+  "countryCityID" : 30,
+  "day" : 114,
+  "fajr" : 3.97,
+  "maghrib" : 19.080000000000002
+}, {
+  "countryCityID" : 30,
+  "day" : 115,
+  "fajr" : 3.95,
+  "maghrib" : 19.080000000000002
+}, {
+  "countryCityID" : 30,
+  "day" : 116,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 19.1
+}, {
+  "countryCityID" : 30,
+  "day" : 117,
+  "fajr" : 3.9,
+  "maghrib" : 19.119999999999997
+}, {
+  "countryCityID" : 30,
+  "day" : 118,
+  "fajr" : 3.87,
+  "maghrib" : 19.130000000000003
+}, {
+  "countryCityID" : 30,
+  "day" : 119,
+  "fajr" : 3.8299999999999996,
+  "maghrib" : 19.15
+}, {
+  "countryCityID" : 30,
+  "day" : 120,
+  "fajr" : 3.8200000000000003,
+  "maghrib" : 19.169999999999998
+}, {
+  "countryCityID" : 30,
+  "day" : 121,
+  "fajr" : 3.78,
+  "maghrib" : 19.18
+}, {
+  "countryCityID" : 30,
+  "day" : 122,
+  "fajr" : 3.7700000000000005,
+  "maghrib" : 19.2
+}, {
+  "countryCityID" : 30,
+  "day" : 123,
+  "fajr" : 3.7299999999999995,
+  "maghrib" : 19.2
+}, {
+  "countryCityID" : 30,
+  "day" : 124,
+  "fajr" : 3.72,
+  "maghrib" : 19.22
+}, {
+  "countryCityID" : 30,
+  "day" : 125,
+  "fajr" : 3.7,
+  "maghrib" : 19.23
+}, {
+  "countryCityID" : 30,
+  "day" : 126,
+  "fajr" : 3.6700000000000004,
+  "maghrib" : 19.25
+}, {
+  "countryCityID" : 30,
+  "day" : 127,
+  "fajr" : 3.65,
+  "maghrib" : 19.27
+}, {
+  "countryCityID" : 30,
+  "day" : 128,
+  "fajr" : 3.62,
+  "maghrib" : 19.28
+}, {
+  "countryCityID" : 30,
+  "day" : 129,
+  "fajr" : 3.6,
+  "maghrib" : 19.3
+}, {
+  "countryCityID" : 30,
+  "day" : 130,
+  "fajr" : 3.5799999999999996,
+  "maghrib" : 19.32
+}, {
+  "countryCityID" : 30,
+  "day" : 131,
+  "fajr" : 3.55,
+  "maghrib" : 19.32
+}, {
+  "countryCityID" : 30,
+  "day" : 132,
+  "fajr" : 3.53,
+  "maghrib" : 19.330000000000002
+}, {
+  "countryCityID" : 30,
+  "day" : 133,
+  "fajr" : 3.5200000000000005,
+  "maghrib" : 19.35
+}, {
+  "countryCityID" : 30,
+  "day" : 134,
+  "fajr" : 3.5,
+  "maghrib" : 19.369999999999997
+}, {
+  "countryCityID" : 30,
+  "day" : 135,
+  "fajr" : 3.47,
+  "maghrib" : 19.380000000000003
+}, {
+  "countryCityID" : 30,
+  "day" : 136,
+  "fajr" : 3.45,
+  "maghrib" : 19.4
+}, {
+  "countryCityID" : 30,
+  "day" : 137,
+  "fajr" : 3.4299999999999997,
+  "maghrib" : 19.4
+}, {
+  "countryCityID" : 30,
+  "day" : 138,
+  "fajr" : 3.4200000000000004,
+  "maghrib" : 19.419999999999998
+}, {
+  "countryCityID" : 30,
+  "day" : 139,
+  "fajr" : 3.4,
+  "maghrib" : 19.43
+}, {
+  "countryCityID" : 30,
+  "day" : 140,
+  "fajr" : 3.38,
+  "maghrib" : 19.45
+}, {
+  "countryCityID" : 30,
+  "day" : 141,
+  "fajr" : 3.37,
+  "maghrib" : 19.47
+}, {
+  "countryCityID" : 30,
+  "day" : 142,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 19.47
+}, {
+  "countryCityID" : 30,
+  "day" : 143,
+  "fajr" : 3.3200000000000003,
+  "maghrib" : 19.48
+}, {
+  "countryCityID" : 30,
+  "day" : 144,
+  "fajr" : 3.3200000000000003,
+  "maghrib" : 19.5
+}, {
+  "countryCityID" : 30,
+  "day" : 145,
+  "fajr" : 3.3,
+  "maghrib" : 19.52
+}, {
+  "countryCityID" : 30,
+  "day" : 146,
+  "fajr" : 3.28,
+  "maghrib" : 19.52
+}, {
+  "countryCityID" : 30,
+  "day" : 147,
+  "fajr" : 3.2700000000000005,
+  "maghrib" : 19.53
+}, {
+  "countryCityID" : 30,
+  "day" : 148,
+  "fajr" : 3.25,
+  "maghrib" : 19.55
+}, {
+  "countryCityID" : 30,
+  "day" : 149,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 19.57
+}, {
+  "countryCityID" : 30,
+  "day" : 150,
+  "fajr" : 3.22,
+  "maghrib" : 19.57
+}, {
+  "countryCityID" : 30,
+  "day" : 151,
+  "fajr" : 3.22,
+  "maghrib" : 19.580000000000002
+}, {
+  "countryCityID" : 30,
+  "day" : 152,
+  "fajr" : 3.2,
+  "maghrib" : 19.6
+}, {
+  "countryCityID" : 30,
+  "day" : 153,
+  "fajr" : 3.18,
+  "maghrib" : 19.6
+}, {
+  "countryCityID" : 30,
+  "day" : 154,
+  "fajr" : 3.18,
+  "maghrib" : 19.619999999999997
+}, {
+  "countryCityID" : 30,
+  "day" : 155,
+  "fajr" : 3.17,
+  "maghrib" : 19.619999999999997
+}, {
+  "countryCityID" : 30,
+  "day" : 156,
+  "fajr" : 3.17,
+  "maghrib" : 19.630000000000003
+}, {
+  "countryCityID" : 30,
+  "day" : 157,
+  "fajr" : 3.15,
+  "maghrib" : 19.65
+}, {
+  "countryCityID" : 30,
+  "day" : 158,
+  "fajr" : 3.15,
+  "maghrib" : 19.65
+}, {
+  "countryCityID" : 30,
+  "day" : 159,
+  "fajr" : 3.15,
+  "maghrib" : 19.669999999999998
+}, {
+  "countryCityID" : 30,
+  "day" : 160,
+  "fajr" : 3.13,
+  "maghrib" : 19.669999999999998
+}, {
+  "countryCityID" : 30,
+  "day" : 161,
+  "fajr" : 3.13,
+  "maghrib" : 19.68
+}, {
+  "countryCityID" : 30,
+  "day" : 162,
+  "fajr" : 3.13,
+  "maghrib" : 19.68
+}, {
+  "countryCityID" : 31,
+  "day" : 102,
+  "fajr" : 4.85,
+  "maghrib" : 20.35
+}, {
+  "countryCityID" : 31,
+  "day" : 103,
+  "fajr" : 4.8,
+  "maghrib" : 20.369999999999997
+}, {
+  "countryCityID" : 31,
+  "day" : 104,
+  "fajr" : 4.7700000000000005,
+  "maghrib" : 20.4
+}, {
+  "countryCityID" : 31,
+  "day" : 105,
+  "fajr" : 4.720000000000001,
+  "maghrib" : 20.43
+}, {
+  "countryCityID" : 31,
+  "day" : 106,
+  "fajr" : 4.67,
+  "maghrib" : 20.47
+}, {
+  "countryCityID" : 31,
+  "day" : 107,
+  "fajr" : 4.63,
+  "maghrib" : 20.5
+}, {
+  "countryCityID" : 31,
+  "day" : 108,
+  "fajr" : 4.58,
+  "maghrib" : 20.52
+}, {
+  "countryCityID" : 31,
+  "day" : 109,
+  "fajr" : 4.55,
+  "maghrib" : 20.55
+}, {
+  "countryCityID" : 31,
+  "day" : 110,
+  "fajr" : 4.5,
+  "maghrib" : 20.580000000000002
+}, {
+  "countryCityID" : 31,
+  "day" : 111,
+  "fajr" : 4.470000000000001,
+  "maghrib" : 20.619999999999997
+}, {
+  "countryCityID" : 31,
+  "day" : 112,
+  "fajr" : 4.42,
+  "maghrib" : 20.65
+}, {
+  "countryCityID" : 31,
+  "day" : 113,
+  "fajr" : 4.38,
+  "maghrib" : 20.669999999999998
+}, {
+  "countryCityID" : 31,
+  "day" : 114,
+  "fajr" : 4.33,
+  "maghrib" : 20.7
+}, {
+  "countryCityID" : 31,
+  "day" : 115,
+  "fajr" : 4.279999999999999,
+  "maghrib" : 20.73
+}, {
+  "countryCityID" : 31,
+  "day" : 116,
+  "fajr" : 4.25,
+  "maghrib" : 20.77
+}, {
+  "countryCityID" : 31,
+  "day" : 117,
+  "fajr" : 4.2,
+  "maghrib" : 20.8
+}, {
+  "countryCityID" : 31,
+  "day" : 118,
+  "fajr" : 4.17,
+  "maghrib" : 20.82
+}, {
+  "countryCityID" : 31,
+  "day" : 119,
+  "fajr" : 4.13,
+  "maghrib" : 20.85
+}, {
+  "countryCityID" : 31,
+  "day" : 120,
+  "fajr" : 4.08,
+  "maghrib" : 20.880000000000003
+}, {
+  "countryCityID" : 31,
+  "day" : 121,
+  "fajr" : 4.05,
+  "maghrib" : 20.919999999999998
+}, {
+  "countryCityID" : 31,
+  "day" : 122,
+  "fajr" : 4.0,
+  "maghrib" : 20.95
+}, {
+  "countryCityID" : 31,
+  "day" : 123,
+  "fajr" : 3.97,
+  "maghrib" : 20.97
+}, {
+  "countryCityID" : 31,
+  "day" : 124,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 21.0
+}, {
+  "countryCityID" : 31,
+  "day" : 125,
+  "fajr" : 3.88,
+  "maghrib" : 21.03
+}, {
+  "countryCityID" : 31,
+  "day" : 126,
+  "fajr" : 3.85,
+  "maghrib" : 21.07
+}, {
+  "countryCityID" : 31,
+  "day" : 127,
+  "fajr" : 3.8,
+  "maghrib" : 21.1
+}, {
+  "countryCityID" : 31,
+  "day" : 128,
+  "fajr" : 3.7700000000000005,
+  "maghrib" : 21.119999999999997
+}, {
+  "countryCityID" : 31,
+  "day" : 129,
+  "fajr" : 3.7299999999999995,
+  "maghrib" : 21.15
+}, {
+  "countryCityID" : 31,
+  "day" : 130,
+  "fajr" : 3.6799999999999997,
+  "maghrib" : 21.18
+}, {
+  "countryCityID" : 31,
+  "day" : 131,
+  "fajr" : 3.65,
+  "maghrib" : 21.22
+}, {
+  "countryCityID" : 31,
+  "day" : 132,
+  "fajr" : 3.62,
+  "maghrib" : 21.23
+}, {
+  "countryCityID" : 31,
+  "day" : 133,
+  "fajr" : 3.5799999999999996,
+  "maghrib" : 21.27
+}, {
+  "countryCityID" : 31,
+  "day" : 134,
+  "fajr" : 3.55,
+  "maghrib" : 21.3
+}, {
+  "countryCityID" : 31,
+  "day" : 135,
+  "fajr" : 3.5,
+  "maghrib" : 21.32
+}, {
+  "countryCityID" : 31,
+  "day" : 136,
+  "fajr" : 3.47,
+  "maghrib" : 21.35
+}, {
+  "countryCityID" : 31,
+  "day" : 137,
+  "fajr" : 3.4299999999999997,
+  "maghrib" : 21.380000000000003
+}, {
+  "countryCityID" : 31,
+  "day" : 138,
+  "fajr" : 3.4,
+  "maghrib" : 21.4
+}, {
+  "countryCityID" : 31,
+  "day" : 139,
+  "fajr" : 3.37,
+  "maghrib" : 21.43
+}, {
+  "countryCityID" : 31,
+  "day" : 140,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 21.45
+}, {
+  "countryCityID" : 31,
+  "day" : 141,
+  "fajr" : 3.3,
+  "maghrib" : 21.48
+}, {
+  "countryCityID" : 31,
+  "day" : 142,
+  "fajr" : 3.2700000000000005,
+  "maghrib" : 21.52
+}, {
+  "countryCityID" : 31,
+  "day" : 143,
+  "fajr" : 3.25,
+  "maghrib" : 21.53
+}, {
+  "countryCityID" : 31,
+  "day" : 144,
+  "fajr" : 3.22,
+  "maghrib" : 21.57
+}, {
+  "countryCityID" : 31,
+  "day" : 145,
+  "fajr" : 3.18,
+  "maghrib" : 21.580000000000002
+}, {
+  "countryCityID" : 31,
+  "day" : 146,
+  "fajr" : 3.15,
+  "maghrib" : 21.619999999999997
+}, {
+  "countryCityID" : 31,
+  "day" : 147,
+  "fajr" : 3.13,
+  "maghrib" : 21.630000000000003
+}, {
+  "countryCityID" : 31,
+  "day" : 148,
+  "fajr" : 3.1,
+  "maghrib" : 21.65
+}, {
+  "countryCityID" : 31,
+  "day" : 149,
+  "fajr" : 3.07,
+  "maghrib" : 21.68
+}, {
+  "countryCityID" : 31,
+  "day" : 150,
+  "fajr" : 3.05,
+  "maghrib" : 21.7
+}, {
+  "countryCityID" : 31,
+  "day" : 151,
+  "fajr" : 3.02,
+  "maghrib" : 21.72
+}, {
+  "countryCityID" : 31,
+  "day" : 152,
+  "fajr" : 3.0,
+  "maghrib" : 21.75
+}, {
+  "countryCityID" : 31,
+  "day" : 153,
+  "fajr" : 2.98,
+  "maghrib" : 21.77
+}, {
+  "countryCityID" : 31,
+  "day" : 154,
+  "fajr" : 2.95,
+  "maghrib" : 21.78
+}, {
+  "countryCityID" : 31,
+  "day" : 155,
+  "fajr" : 2.93,
+  "maghrib" : 21.8
+}, {
+  "countryCityID" : 31,
+  "day" : 156,
+  "fajr" : 2.92,
+  "maghrib" : 21.82
+}, {
+  "countryCityID" : 31,
+  "day" : 157,
+  "fajr" : 2.9,
+  "maghrib" : 21.830000000000002
+}, {
+  "countryCityID" : 31,
+  "day" : 158,
+  "fajr" : 2.88,
+  "maghrib" : 21.85
+}, {
+  "countryCityID" : 31,
+  "day" : 159,
+  "fajr" : 2.87,
+  "maghrib" : 21.869999999999997
+}, {
+  "countryCityID" : 31,
+  "day" : 160,
+  "fajr" : 2.85,
+  "maghrib" : 21.880000000000003
+}, {
+  "countryCityID" : 31,
+  "day" : 161,
+  "fajr" : 2.83,
+  "maghrib" : 21.9
+}, {
+  "countryCityID" : 31,
+  "day" : 162,
+  "fajr" : 2.82,
+  "maghrib" : 21.919999999999998
+}, {
+  "countryCityID" : 32,
+  "day" : 102,
+  "fajr" : 5.0200000000000005,
+  "maghrib" : 20.45
+}, {
+  "countryCityID" : 32,
+  "day" : 103,
+  "fajr" : 4.9799999999999995,
+  "maghrib" : 20.48
+}, {
+  "countryCityID" : 32,
+  "day" : 104,
+  "fajr" : 4.93,
+  "maghrib" : 20.5
+}, {
+  "countryCityID" : 32,
+  "day" : 105,
+  "fajr" : 4.9,
+  "maghrib" : 20.53
+}, {
+  "countryCityID" : 32,
+  "day" : 106,
+  "fajr" : 4.85,
+  "maghrib" : 20.57
+}, {
+  "countryCityID" : 32,
+  "day" : 107,
+  "fajr" : 4.82,
+  "maghrib" : 20.580000000000002
+}, {
+  "countryCityID" : 32,
+  "day" : 108,
+  "fajr" : 4.7700000000000005,
+  "maghrib" : 20.619999999999997
+}, {
+  "countryCityID" : 32,
+  "day" : 109,
+  "fajr" : 4.7299999999999995,
+  "maghrib" : 20.65
+}, {
+  "countryCityID" : 32,
+  "day" : 110,
+  "fajr" : 4.68,
+  "maghrib" : 20.669999999999998
+}, {
+  "countryCityID" : 32,
+  "day" : 111,
+  "fajr" : 4.65,
+  "maghrib" : 20.7
+}, {
+  "countryCityID" : 32,
+  "day" : 112,
+  "fajr" : 4.6,
+  "maghrib" : 20.73
+}, {
+  "countryCityID" : 32,
+  "day" : 113,
+  "fajr" : 4.57,
+  "maghrib" : 20.77
+}, {
+  "countryCityID" : 32,
+  "day" : 114,
+  "fajr" : 4.5200000000000005,
+  "maghrib" : 20.78
+}, {
+  "countryCityID" : 32,
+  "day" : 115,
+  "fajr" : 4.4799999999999995,
+  "maghrib" : 20.82
+}, {
+  "countryCityID" : 32,
+  "day" : 116,
+  "fajr" : 4.43,
+  "maghrib" : 20.85
+}, {
+  "countryCityID" : 32,
+  "day" : 117,
+  "fajr" : 4.4,
+  "maghrib" : 20.869999999999997
+}, {
+  "countryCityID" : 32,
+  "day" : 118,
+  "fajr" : 4.37,
+  "maghrib" : 20.9
+}, {
+  "countryCityID" : 32,
+  "day" : 119,
+  "fajr" : 4.32,
+  "maghrib" : 20.93
+}, {
+  "countryCityID" : 32,
+  "day" : 120,
+  "fajr" : 4.279999999999999,
+  "maghrib" : 20.95
+}, {
+  "countryCityID" : 32,
+  "day" : 121,
+  "fajr" : 4.2299999999999995,
+  "maghrib" : 20.98
+}, {
+  "countryCityID" : 32,
+  "day" : 122,
+  "fajr" : 4.2,
+  "maghrib" : 21.02
+}, {
+  "countryCityID" : 32,
+  "day" : 123,
+  "fajr" : 4.17,
+  "maghrib" : 21.03
+}, {
+  "countryCityID" : 32,
+  "day" : 124,
+  "fajr" : 4.12,
+  "maghrib" : 21.07
+}, {
+  "countryCityID" : 32,
+  "day" : 125,
+  "fajr" : 4.08,
+  "maghrib" : 21.1
+}, {
+  "countryCityID" : 32,
+  "day" : 126,
+  "fajr" : 4.05,
+  "maghrib" : 21.119999999999997
+}, {
+  "countryCityID" : 32,
+  "day" : 127,
+  "fajr" : 4.0,
+  "maghrib" : 21.15
+}, {
+  "countryCityID" : 32,
+  "day" : 128,
+  "fajr" : 3.97,
+  "maghrib" : 21.18
+}, {
+  "countryCityID" : 32,
+  "day" : 129,
+  "fajr" : 3.9299999999999997,
+  "maghrib" : 21.2
+}, {
+  "countryCityID" : 32,
+  "day" : 130,
+  "fajr" : 3.88,
+  "maghrib" : 21.23
+}, {
+  "countryCityID" : 32,
+  "day" : 131,
+  "fajr" : 3.85,
+  "maghrib" : 21.27
+}, {
+  "countryCityID" : 32,
+  "day" : 132,
+  "fajr" : 3.8200000000000003,
+  "maghrib" : 21.28
+}, {
+  "countryCityID" : 32,
+  "day" : 133,
+  "fajr" : 3.78,
+  "maghrib" : 21.32
+}, {
+  "countryCityID" : 32,
+  "day" : 134,
+  "fajr" : 3.75,
+  "maghrib" : 21.330000000000002
+}, {
+  "countryCityID" : 32,
+  "day" : 135,
+  "fajr" : 3.72,
+  "maghrib" : 21.369999999999997
+}, {
+  "countryCityID" : 32,
+  "day" : 136,
+  "fajr" : 3.6799999999999997,
+  "maghrib" : 21.4
+}, {
+  "countryCityID" : 32,
+  "day" : 137,
+  "fajr" : 3.65,
+  "maghrib" : 21.419999999999998
+}, {
+  "countryCityID" : 32,
+  "day" : 138,
+  "fajr" : 3.6,
+  "maghrib" : 21.45
+}, {
+  "countryCityID" : 32,
+  "day" : 139,
+  "fajr" : 3.5799999999999996,
+  "maghrib" : 21.47
+}, {
+  "countryCityID" : 32,
+  "day" : 140,
+  "fajr" : 3.55,
+  "maghrib" : 21.5
+}, {
+  "countryCityID" : 32,
+  "day" : 141,
+  "fajr" : 3.5200000000000005,
+  "maghrib" : 21.52
+}, {
+  "countryCityID" : 32,
+  "day" : 142,
+  "fajr" : 3.4799999999999995,
+  "maghrib" : 21.55
+}, {
+  "countryCityID" : 32,
+  "day" : 143,
+  "fajr" : 3.45,
+  "maghrib" : 21.57
+}, {
+  "countryCityID" : 32,
+  "day" : 144,
+  "fajr" : 3.4200000000000004,
+  "maghrib" : 21.580000000000002
+}, {
+  "countryCityID" : 32,
+  "day" : 145,
+  "fajr" : 3.38,
+  "maghrib" : 21.619999999999997
+}, {
+  "countryCityID" : 32,
+  "day" : 146,
+  "fajr" : 3.37,
+  "maghrib" : 21.630000000000003
+}, {
+  "countryCityID" : 32,
+  "day" : 147,
+  "fajr" : 3.3299999999999996,
+  "maghrib" : 21.65
+}, {
+  "countryCityID" : 32,
+  "day" : 148,
+  "fajr" : 3.3,
+  "maghrib" : 21.68
+}, {
+  "countryCityID" : 32,
+  "day" : 149,
+  "fajr" : 3.28,
+  "maghrib" : 21.7
+}, {
+  "countryCityID" : 32,
+  "day" : 150,
+  "fajr" : 3.25,
+  "maghrib" : 21.72
+}, {
+  "countryCityID" : 32,
+  "day" : 151,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 21.75
+}, {
+  "countryCityID" : 32,
+  "day" : 152,
+  "fajr" : 3.2,
+  "maghrib" : 21.77
+}, {
+  "countryCityID" : 32,
+  "day" : 153,
+  "fajr" : 3.18,
+  "maghrib" : 21.78
+}, {
+  "countryCityID" : 32,
+  "day" : 154,
+  "fajr" : 3.17,
+  "maghrib" : 21.8
+}, {
+  "countryCityID" : 32,
+  "day" : 155,
+  "fajr" : 3.13,
+  "maghrib" : 21.82
+}, {
+  "countryCityID" : 32,
+  "day" : 156,
+  "fajr" : 3.12,
+  "maghrib" : 21.830000000000002
+}, {
+  "countryCityID" : 32,
+  "day" : 157,
+  "fajr" : 3.1,
+  "maghrib" : 21.85
+}, {
+  "countryCityID" : 32,
+  "day" : 158,
+  "fajr" : 3.08,
+  "maghrib" : 21.869999999999997
+}, {
+  "countryCityID" : 32,
+  "day" : 159,
+  "fajr" : 3.07,
+  "maghrib" : 21.880000000000003
+}, {
+  "countryCityID" : 32,
+  "day" : 160,
+  "fajr" : 3.05,
+  "maghrib" : 21.9
+}, {
+  "countryCityID" : 32,
+  "day" : 161,
+  "fajr" : 3.0300000000000002,
+  "maghrib" : 21.919999999999998
+}, {
+  "countryCityID" : 32,
+  "day" : 162,
+  "fajr" : 3.0300000000000002,
+  "maghrib" : 21.919999999999998
+}, {
+  "countryCityID" : 33,
+  "day" : 102,
+  "fajr" : 5.029999999999999,
+  "maghrib" : 20.53
+}, {
+  "countryCityID" : 33,
+  "day" : 103,
+  "fajr" : 4.9799999999999995,
+  "maghrib" : 20.55
+}, {
+  "countryCityID" : 33,
+  "day" : 104,
+  "fajr" : 4.95,
+  "maghrib" : 20.580000000000002
+}, {
+  "countryCityID" : 33,
+  "day" : 105,
+  "fajr" : 4.9,
+  "maghrib" : 20.619999999999997
+}, {
+  "countryCityID" : 33,
+  "day" : 106,
+  "fajr" : 4.87,
+  "maghrib" : 20.65
+}, {
+  "countryCityID" : 33,
+  "day" : 107,
+  "fajr" : 4.82,
+  "maghrib" : 20.68
+}, {
+  "countryCityID" : 33,
+  "day" : 108,
+  "fajr" : 4.779999999999999,
+  "maghrib" : 20.7
+}, {
+  "countryCityID" : 33,
+  "day" : 109,
+  "fajr" : 4.7299999999999995,
+  "maghrib" : 20.73
+}, {
+  "countryCityID" : 33,
+  "day" : 110,
+  "fajr" : 4.68,
+  "maghrib" : 20.77
+}, {
+  "countryCityID" : 33,
+  "day" : 111,
+  "fajr" : 4.65,
+  "maghrib" : 20.8
+}, {
+  "countryCityID" : 33,
+  "day" : 112,
+  "fajr" : 4.6,
+  "maghrib" : 20.830000000000002
+}, {
+  "countryCityID" : 33,
+  "day" : 113,
+  "fajr" : 4.57,
+  "maghrib" : 20.85
+}, {
+  "countryCityID" : 33,
+  "day" : 114,
+  "fajr" : 4.5200000000000005,
+  "maghrib" : 20.880000000000003
+}, {
+  "countryCityID" : 33,
+  "day" : 115,
+  "fajr" : 4.4799999999999995,
+  "maghrib" : 20.919999999999998
+}, {
+  "countryCityID" : 33,
+  "day" : 116,
+  "fajr" : 4.43,
+  "maghrib" : 20.95
+}, {
+  "countryCityID" : 33,
+  "day" : 117,
+  "fajr" : 4.4,
+  "maghrib" : 20.98
+}, {
+  "countryCityID" : 33,
+  "day" : 118,
+  "fajr" : 4.35,
+  "maghrib" : 21.0
+}, {
+  "countryCityID" : 33,
+  "day" : 119,
+  "fajr" : 4.32,
+  "maghrib" : 21.03
+}, {
+  "countryCityID" : 33,
+  "day" : 120,
+  "fajr" : 4.2700000000000005,
+  "maghrib" : 21.07
+}, {
+  "countryCityID" : 33,
+  "day" : 121,
+  "fajr" : 4.2299999999999995,
+  "maghrib" : 21.1
+}, {
+  "countryCityID" : 33,
+  "day" : 122,
+  "fajr" : 4.18,
+  "maghrib" : 21.130000000000003
+}, {
+  "countryCityID" : 33,
+  "day" : 123,
+  "fajr" : 4.15,
+  "maghrib" : 21.15
+}, {
+  "countryCityID" : 33,
+  "day" : 124,
+  "fajr" : 4.12,
+  "maghrib" : 21.18
+}, {
+  "countryCityID" : 33,
+  "day" : 125,
+  "fajr" : 4.07,
+  "maghrib" : 21.22
+}, {
+  "countryCityID" : 33,
+  "day" : 126,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 21.25
+}, {
+  "countryCityID" : 33,
+  "day" : 127,
+  "fajr" : 4.0,
+  "maghrib" : 21.27
+}, {
+  "countryCityID" : 33,
+  "day" : 128,
+  "fajr" : 3.95,
+  "maghrib" : 21.3
+}, {
+  "countryCityID" : 33,
+  "day" : 129,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 21.330000000000002
+}, {
+  "countryCityID" : 33,
+  "day" : 130,
+  "fajr" : 3.88,
+  "maghrib" : 21.369999999999997
+}, {
+  "countryCityID" : 33,
+  "day" : 131,
+  "fajr" : 3.8299999999999996,
+  "maghrib" : 21.380000000000003
+}, {
+  "countryCityID" : 33,
+  "day" : 132,
+  "fajr" : 3.8,
+  "maghrib" : 21.419999999999998
+}, {
+  "countryCityID" : 33,
+  "day" : 133,
+  "fajr" : 3.7700000000000005,
+  "maghrib" : 21.45
+}, {
+  "countryCityID" : 33,
+  "day" : 134,
+  "fajr" : 3.7299999999999995,
+  "maghrib" : 21.48
+}, {
+  "countryCityID" : 33,
+  "day" : 135,
+  "fajr" : 3.7,
+  "maghrib" : 21.5
+}, {
+  "countryCityID" : 33,
+  "day" : 136,
+  "fajr" : 3.6700000000000004,
+  "maghrib" : 21.53
+}, {
+  "countryCityID" : 33,
+  "day" : 137,
+  "fajr" : 3.63,
+  "maghrib" : 21.57
+}, {
+  "countryCityID" : 33,
+  "day" : 138,
+  "fajr" : 3.6,
+  "maghrib" : 21.580000000000002
+}, {
+  "countryCityID" : 33,
+  "day" : 139,
+  "fajr" : 3.5700000000000003,
+  "maghrib" : 21.619999999999997
+}, {
+  "countryCityID" : 33,
+  "day" : 140,
+  "fajr" : 3.53,
+  "maghrib" : 21.630000000000003
+}, {
+  "countryCityID" : 33,
+  "day" : 141,
+  "fajr" : 3.5,
+  "maghrib" : 21.669999999999998
+}, {
+  "countryCityID" : 33,
+  "day" : 142,
+  "fajr" : 3.47,
+  "maghrib" : 21.7
+}, {
+  "countryCityID" : 33,
+  "day" : 143,
+  "fajr" : 3.4299999999999997,
+  "maghrib" : 21.72
+}, {
+  "countryCityID" : 33,
+  "day" : 144,
+  "fajr" : 3.4,
+  "maghrib" : 21.75
+}, {
+  "countryCityID" : 33,
+  "day" : 145,
+  "fajr" : 3.37,
+  "maghrib" : 21.77
+}, {
+  "countryCityID" : 33,
+  "day" : 146,
+  "fajr" : 3.35,
+  "maghrib" : 21.78
+}, {
+  "countryCityID" : 33,
+  "day" : 147,
+  "fajr" : 3.3200000000000003,
+  "maghrib" : 21.82
+}, {
+  "countryCityID" : 33,
+  "day" : 148,
+  "fajr" : 3.28,
+  "maghrib" : 21.830000000000002
+}, {
+  "countryCityID" : 33,
+  "day" : 149,
+  "fajr" : 3.2700000000000005,
+  "maghrib" : 21.869999999999997
+}, {
+  "countryCityID" : 33,
+  "day" : 150,
+  "fajr" : 3.2299999999999995,
+  "maghrib" : 21.880000000000003
+}, {
+  "countryCityID" : 33,
+  "day" : 151,
+  "fajr" : 3.22,
+  "maghrib" : 21.9
+}, {
+  "countryCityID" : 33,
+  "day" : 152,
+  "fajr" : 3.18,
+  "maghrib" : 21.919999999999998
+}, {
+  "countryCityID" : 33,
+  "day" : 153,
+  "fajr" : 3.17,
+  "maghrib" : 21.95
+}, {
+  "countryCityID" : 33,
+  "day" : 154,
+  "fajr" : 3.15,
+  "maghrib" : 21.97
+}, {
+  "countryCityID" : 33,
+  "day" : 155,
+  "fajr" : 3.12,
+  "maghrib" : 21.98
+}, {
+  "countryCityID" : 33,
+  "day" : 156,
+  "fajr" : 3.1,
+  "maghrib" : 22.0
+}, {
+  "countryCityID" : 33,
+  "day" : 157,
+  "fajr" : 3.08,
+  "maghrib" : 22.02
+}, {
+  "countryCityID" : 33,
+  "day" : 158,
+  "fajr" : 3.07,
+  "maghrib" : 22.03
+}, {
+  "countryCityID" : 33,
+  "day" : 159,
+  "fajr" : 3.05,
+  "maghrib" : 22.05
+}, {
+  "countryCityID" : 33,
+  "day" : 160,
+  "fajr" : 3.0300000000000002,
+  "maghrib" : 22.07
+}, {
+  "countryCityID" : 33,
+  "day" : 161,
+  "fajr" : 3.02,
+  "maghrib" : 22.080000000000002
+}, {
+  "countryCityID" : 33,
+  "day" : 162,
+  "fajr" : 3.02,
+  "maghrib" : 22.1
+}, {
+  "countryCityID" : 34,
+  "day" : 102,
+  "fajr" : 4.279999999999999,
+  "maghrib" : 18.119999999999997
+}, {
+  "countryCityID" : 34,
+  "day" : 103,
+  "fajr" : 4.279999999999999,
+  "maghrib" : 18.119999999999997
+}, {
+  "countryCityID" : 34,
+  "day" : 104,
+  "fajr" : 4.2700000000000005,
+  "maghrib" : 18.119999999999997
+}, {
+  "countryCityID" : 34,
+  "day" : 105,
+  "fajr" : 4.2700000000000005,
+  "maghrib" : 18.119999999999997
+}, {
+  "countryCityID" : 34,
+  "day" : 106,
+  "fajr" : 4.25,
+  "maghrib" : 18.119999999999997
+}, {
+  "countryCityID" : 34,
+  "day" : 107,
+  "fajr" : 4.2299999999999995,
+  "maghrib" : 18.130000000000003
+}, {
+  "countryCityID" : 34,
+  "day" : 108,
+  "fajr" : 4.220000000000001,
+  "maghrib" : 18.130000000000003
+}, {
+  "countryCityID" : 34,
+  "day" : 109,
+  "fajr" : 4.220000000000001,
+  "maghrib" : 18.130000000000003
+}, {
+  "countryCityID" : 34,
+  "day" : 110,
+  "fajr" : 4.2,
+  "maghrib" : 18.130000000000003
+}, {
+  "countryCityID" : 34,
+  "day" : 111,
+  "fajr" : 4.18,
+  "maghrib" : 18.130000000000003
+}, {
+  "countryCityID" : 34,
+  "day" : 112,
+  "fajr" : 4.17,
+  "maghrib" : 18.15
+}, {
+  "countryCityID" : 34,
+  "day" : 113,
+  "fajr" : 4.17,
+  "maghrib" : 18.15
+}, {
+  "countryCityID" : 34,
+  "day" : 114,
+  "fajr" : 4.15,
+  "maghrib" : 18.15
+}, {
+  "countryCityID" : 34,
+  "day" : 115,
+  "fajr" : 4.13,
+  "maghrib" : 18.15
+}, {
+  "countryCityID" : 34,
+  "day" : 116,
+  "fajr" : 4.12,
+  "maghrib" : 18.169999999999998
+}, {
+  "countryCityID" : 34,
+  "day" : 117,
+  "fajr" : 4.12,
+  "maghrib" : 18.169999999999998
+}, {
+  "countryCityID" : 34,
+  "day" : 118,
+  "fajr" : 4.1,
+  "maghrib" : 18.169999999999998
+}, {
+  "countryCityID" : 34,
+  "day" : 119,
+  "fajr" : 4.08,
+  "maghrib" : 18.169999999999998
+}, {
+  "countryCityID" : 34,
+  "day" : 120,
+  "fajr" : 4.08,
+  "maghrib" : 18.169999999999998
+}, {
+  "countryCityID" : 34,
+  "day" : 121,
+  "fajr" : 4.07,
+  "maghrib" : 18.18
+}, {
+  "countryCityID" : 34,
+  "day" : 122,
+  "fajr" : 4.05,
+  "maghrib" : 18.18
+}, {
+  "countryCityID" : 34,
+  "day" : 123,
+  "fajr" : 4.05,
+  "maghrib" : 18.18
+}, {
+  "countryCityID" : 34,
+  "day" : 124,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 18.2
+}, {
+  "countryCityID" : 34,
+  "day" : 125,
+  "fajr" : 4.029999999999999,
+  "maghrib" : 18.2
+}, {
+  "countryCityID" : 34,
+  "day" : 126,
+  "fajr" : 4.0200000000000005,
+  "maghrib" : 18.2
+}, {
+  "countryCityID" : 34,
+  "day" : 127,
+  "fajr" : 4.0,
+  "maghrib" : 18.2
+}, {
+  "countryCityID" : 34,
+  "day" : 128,
+  "fajr" : 4.0,
+  "maghrib" : 18.22
+}, {
+  "countryCityID" : 34,
+  "day" : 129,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 18.22
+}, {
+  "countryCityID" : 34,
+  "day" : 130,
+  "fajr" : 3.9799999999999995,
+  "maghrib" : 18.22
+}, {
+  "countryCityID" : 34,
+  "day" : 131,
+  "fajr" : 3.97,
+  "maghrib" : 18.23
+}, {
+  "countryCityID" : 34,
+  "day" : 132,
+  "fajr" : 3.97,
+  "maghrib" : 18.23
+}, {
+  "countryCityID" : 34,
+  "day" : 133,
+  "fajr" : 3.95,
+  "maghrib" : 18.23
+}, {
+  "countryCityID" : 34,
+  "day" : 134,
+  "fajr" : 3.95,
+  "maghrib" : 18.23
+}, {
+  "countryCityID" : 34,
+  "day" : 135,
+  "fajr" : 3.9299999999999997,
+  "maghrib" : 18.25
+}, {
+  "countryCityID" : 34,
+  "day" : 136,
+  "fajr" : 3.9299999999999997,
+  "maghrib" : 18.25
+}, {
+  "countryCityID" : 34,
+  "day" : 137,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 18.25
+}, {
+  "countryCityID" : 34,
+  "day" : 138,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 18.27
+}, {
+  "countryCityID" : 34,
+  "day" : 139,
+  "fajr" : 3.9200000000000004,
+  "maghrib" : 18.27
+}, {
+  "countryCityID" : 34,
+  "day" : 140,
+  "fajr" : 3.9,
+  "maghrib" : 18.27
+}, {
+  "countryCityID" : 34,
+  "day" : 141,
+  "fajr" : 3.9,
+  "maghrib" : 18.28
+}, {
+  "countryCityID" : 34,
+  "day" : 142,
+  "fajr" : 3.9,
+  "maghrib" : 18.28
+}, {
+  "countryCityID" : 34,
+  "day" : 143,
+  "fajr" : 3.88,
+  "maghrib" : 18.28
+}, {
+  "countryCityID" : 34,
+  "day" : 144,
+  "fajr" : 3.88,
+  "maghrib" : 18.3
+}, {
+  "countryCityID" : 34,
+  "day" : 145,
+  "fajr" : 3.88,
+  "maghrib" : 18.3
+}, {
+  "countryCityID" : 34,
+  "day" : 146,
+  "fajr" : 3.87,
+  "maghrib" : 18.3
+}, {
+  "countryCityID" : 34,
+  "day" : 147,
+  "fajr" : 3.87,
+  "maghrib" : 18.32
+}, {
+  "countryCityID" : 34,
+  "day" : 148,
+  "fajr" : 3.87,
+  "maghrib" : 18.32
+}, {
+  "countryCityID" : 34,
+  "day" : 149,
+  "fajr" : 3.87,
+  "maghrib" : 18.32
+}, {
+  "countryCityID" : 34,
+  "day" : 150,
+  "fajr" : 3.87,
+  "maghrib" : 18.330000000000002
+}, {
+  "countryCityID" : 34,
+  "day" : 151,
+  "fajr" : 3.85,
+  "maghrib" : 18.330000000000002
+}, {
+  "countryCityID" : 34,
+  "day" : 152,
+  "fajr" : 3.85,
+  "maghrib" : 18.330000000000002
+}, {
+  "countryCityID" : 34,
+  "day" : 153,
+  "fajr" : 3.85,
+  "maghrib" : 18.35
+}, {
+  "countryCityID" : 34,
+  "day" : 154,
+  "fajr" : 3.85,
+  "maghrib" : 18.35
+}, {
+  "countryCityID" : 34,
+  "day" : 155,
+  "fajr" : 3.85,
+  "maghrib" : 18.35
+}, {
+  "countryCityID" : 34,
+  "day" : 156,
+  "fajr" : 3.85,
+  "maghrib" : 18.369999999999997
+}, {
+  "countryCityID" : 34,
+  "day" : 157,
+  "fajr" : 3.85,
+  "maghrib" : 18.369999999999997
+}, {
+  "countryCityID" : 34,
+  "day" : 158,
+  "fajr" : 3.85,
+  "maghrib" : 18.369999999999997
+}, {
+  "countryCityID" : 34,
+  "day" : 159,
+  "fajr" : 3.85,
+  "maghrib" : 18.380000000000003
+}, {
+  "countryCityID" : 34,
+  "day" : 160,
+  "fajr" : 3.85,
+  "maghrib" : 18.380000000000003
+}, {
+  "countryCityID" : 34,
+  "day" : 161,
+  "fajr" : 3.85,
+  "maghrib" : 18.380000000000003
+}, {
+  "countryCityID" : 34,
+  "day" : 162,
+  "fajr" : 3.85,
+  "maghrib" : 18.4
+} ]
